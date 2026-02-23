@@ -7,7 +7,7 @@ All files under /data are publicly accessible and CORS-enabled.
 
 ## Usage
 Base URL:
-https://YOUR-SITE.netlify.app/data/
+https://muslimans.netlify.app/data/
 
 Example:
-https://YOUR-SITE.netlify.app/data/businesses-ny.csv
+https://muslimans.netlify.app/data/businesses-ny.csv
