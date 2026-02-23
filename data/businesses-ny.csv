@@ -1,2 +1,11 @@
 record_id,name,city,state,category
-nyc-000001,Example Business,Brooklyn,NY,restaurant
+ny-000001,5 Star Grocery and Halal Meat,Brooklyn,NY,butcher|grocery
+ny-000002,A&D Turkish Halal Meat Grocery Market,Brooklyn,NY,butcher|grocery
+ny-000003,Ahmed's Grocery and Halal Meat,Brooklyn,NY,butcher|grocery
+ny-000004,Aksaray,Brooklyn,NY,fast-food|restaurant
+ny-000005,Al Aqsa Restaurant Falafel House,Staten Island,NY,fast-food|restaurant
+ny-000006,Al-Aqsa Bakery & Restaurant,Brooklyn,NY,butcher|grocery
+ny-000007,Al-Sham Restaurant,Brooklyn,NY,fast-food|restaurant
+ny-000008,Alarabi Market,Brooklyn,NY,butcher|grocery
+ny-000009,Alarzak Boutique,Brooklyn,NY,clothing-store
+ny-000010,Alex Auto Collision and Repair,Brooklyn,NY,autobody|mechanic
