@@ -1,2 +1,2 @@
-id,name,city,state,category
-1,Example Business,New York,NY,Services
+record_id,name,city,state,category
+nyc-000001,Example Business,Brooklyn,NY,restaurant
