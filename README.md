@@ -1,67 +1,88 @@
 # Public Data Files
 
-This repository hosts public CSV datasets intended for programmatic access by web apps and AI tools.
+This repository hosts public CSV datasets intended for programmatic access by web applications and AI tools.
 
-All files under `/data` are publicly accessible and CORS-enabled.
+All files under `/data` are publicly accessible via Netlify and CORS-enabled for read-only access.
 
-## Usage
+---
 
-Base URL:  
+## Base URL
 https://muslimans.netlify.app/data/
 
-Example:  
-https://muslimans.netlify.app/data/businesses-ny.csv
 
-## Dataset Schemas
+---
+
+## Datasets
+
+### mosques-usa.csv
+
+A national dataset of mosques in the United States.
+
+**File path**
+/data/mosques-usa.csv
+
+**Example URL**
+https://muslimans.netlify.app/data/mosques-usa.csv
+
+
+**Schema**
+
+| Column        | Description |
+|--------------|------------|
+| `record_id`  | Stable unique identifier (never reused) |
+| `name`       | Mosque name |
+| `city`       | City |
+| `state`      | Two-letter US state code |
+| `denomination` | Islamic denomination (e.g. sunni) |
+
+**Notes**
+- `record_id` values are permanent and must never be reused
+- Text values are case-preserved for readability
+- Enumerated fields (e.g. denomination) are lowercase
+- This file will grow over time as new mosques are added
+
+---
 
 ### businesses-ny.csv
 
-| Column     | Description |
-|------------|-------------|
-| record_id  | Stable unique identifier (never reused) |
-| name       | Business name |
-| city       | City |
-| state      | Two-letter state code |
-| category   | Business category |
+A dataset of Muslim-owned businesses in New York State.
 
-## Categories
+**Schema**
 
-Businesses may belong to **one or more categories**.
+| Column        | Description |
+|--------------|------------|
+| `record_id`  | Stable unique identifier (never reused) |
+| `name`       | Business name |
+| `city`       | City |
+| `state`      | Two-letter state code |
+| `category`   | One or more categories, pipe-delimited |
 
-When multiple categories apply, they are stored as a
-pipe-separated (`|`) list in the `category` column.
+**Category format**
+- Multiple categories are separated using `|`
+- Example: `butcher|grocery`
 
-### Allowed Category Values
+---
 
-- artist
-- autobody
-- automotive
-- bakery
-- barbershop
-- butcher
-- cafe
-- carpet-store
-- clothing-store
-- convenience-store
-- deli
-- dessert-shop
-- fast-food
-- furniture-store
-- gift-shop
-- graphic-design
-- grocery
-- hair-salon
-- halal-cart
-- jewelry-store
-- law-firm
-- mechanic
-- poultry
-- restaurant
-- retail-store
-- retail-supplier
-- software-engineering
-- towing
+## Access & Usage
 
-New categories may be added in the future.  
-Any new category **must be added to this list** and follow
-lowercase, hyphenated naming conventions.
+- All CSV files are read-only
+- No authentication required
+- Suitable for:
+  - Frontend apps
+  - Search indexes
+  - AI ingestion
+  - Data analysis
+
+---
+
+## Update Policy
+
+- New records are appended with new `record_id` values
+- Existing records may be corrected but IDs remain unchanged
+- Deleted records are not reused
+
+---
+
+## License
+
+Data is provided as-is for public informational use.
