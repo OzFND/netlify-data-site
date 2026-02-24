@@ -52,8 +52,8 @@ usa-m-000050,AIC - Al Taqwa Islamic Center of Elkhorn,Elkhorn,NE,sunni
 usa-m-000051,AICP,Philadelphia,PA,sunni
 usa-m-000052,Aiken Masjid - AMA,Aiken,SC,sunni
 usa-m-000053,AIM - Masjid Noor,Springfield,VA,sunni
-usa-m-000054,Aisha Islamic Center Masjid,Broooklyn,NY,sunni
-usa-m-000055,Aisha Mosque,Saint,Elkton,MD,sunni
+usa-m-000054,Aisha Islamic Center Masjid,Brooklyn,NY,sunni
+usa-m-000055,Aisha Mosque,Elkton,MD,sunni
 usa-m-000056,Akber Masjid - Islamic Center Downtown Los Angeles,Los Angeles,CA,sunni
 usa-m-000057,Akron Mosque,Akron,OH,sunni
 usa-m-000058,Al Abedin Masjid,Brooklyn,NY,sunni
@@ -75,9 +75,9 @@ usa-m-000073,Al Aqsa Community Center,Plainfield,IL,sunni
 usa-m-000074,Al Aqsa Islamic Society,Philadelphia,PA,sunni
 usa-m-000075,Al Arqam Center,Stockton,CA,sunni
 usa-m-000076,Al Arqam Center of Saratoga,Waterbury,NY,sunni
-usa-m-000077,Al Baqi Broadway Building,City Name,NY,sunni
-usa-m-000078,Al Baqi Mosque,Keaaue,HI,sunni
-usa-m-000079,Al Basheer Islamic Foundation,Phoneix,AZ,shia
+usa-m-000077,Al Baqi Broadway Building,Bethpage,NY,sunni
+usa-m-000078,Al Baqi Mosque,Keaau,HI,sunni
+usa-m-000079,Al Basheer Islamic Foundation,Phoenix,AZ,shia
 usa-m-000080,Al Bayan Islamic Learning Center,Bellmawr,NJ,sunni
 usa-m-000081,Al Bukhaari Mosque,Blacklick,OH,sunni
 usa-m-000082,Al Dawah Islamic Center Of Bowling Green KY,Bowling Green,KY,sunni
@@ -92,225 +92,10 @@ usa-m-000090,Al Falah Mosque,Detroit,MI,sunni
 usa-m-000091,Al Farooq Mosque,Brooklyn,NY,sunni
 usa-m-000092,Al Farooq,Clearfield,UT,sunni
 usa-m-000093,Al Fatimiah of Pittsburgh,Etna,PA,sunni
-
-usa-m-000094,Al Firdows Center,Federal Way, Washington,sunni
-usa-m-000095,Al Furqaan Mosque, Minneapolis,MN,sunni
-usa-m-000096,Al Furqaan Mosque of Charleston, Goose Creek,SC,sunni
-usa-m-000097,
-usa-m-000098,
-usa-m-000099,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-usa-m-000100,Mosque Name Here,City Name,ST,sunni
-usa-m-000101,Mosque Name Here,City Name,ST,sunni
-usa-m-000102,Mosque Name Here,City Name,ST,sunni
-usa-m-000103,Mosque Name Here,City Name,ST,sunni
-usa-m-000104,Mosque Name Here,City Name,ST,sunni
-usa-m-000105,Mosque Name Here,City Name,ST,sunni
-usa-m-000106,Mosque Name Here,City Name,ST,sunni
-usa-m-000107,Mosque Name Here,City Name,ST,sunni
-usa-m-000108,Mosque Name Here,City Name,ST,sunni
-usa-m-000109,Mosque Name Here,City Name,ST,sunni
-
-
-usa-m-000070,Mosque Name Here,City Name,ST,sunni
-usa-m-000071,Mosque Name Here,City Name,ST,sunni
-usa-m-000072,Mosque Name Here,City Name,ST,sunni
-usa-m-000073,Mosque Name Here,City Name,ST,sunni
-usa-m-000074,Mosque Name Here,City Name,ST,sunni
-usa-m-000075,Mosque Name Here,City Name,ST,sunni
-usa-m-000076,Mosque Name Here,City Name,ST,sunni
-usa-m-000077,Mosque Name Here,City Name,ST,sunni
-usa-m-000078,Mosque Name Here,City Name,ST,sunni
-usa-m-000079,Mosque Name Here,City Name,ST,sunni
-
-
-
-
-
+usa-m-000094,Al Firdows Center,Federal Way,WA,sunni
+usa-m-000095,Al Furqaan Mosque,Minneapolis,MN,sunni
+usa-m-000096,Al Furqaan Mosque of Charleston,Goose Creek,SC,sunni
+usa-m-000097,Al Furqan Islamic Center,Portland,OR,sunni
+usa-m-000098,Al Furqan Jame Masjid Inc,Ozone Park,NY,sunni
+usa-m-000099,Al Furqan Masjid,Houston,TX,sunni
+usa-m-000100,Al Furqan Mosque,Philadelphia,PA,sunni
