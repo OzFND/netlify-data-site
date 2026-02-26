@@ -1,101 +1,2618 @@
-record_id,name,city,state,denomination
-usa-m-000001,1025 NE 126th Street Parking,North Miami,FL,sunni
-usa-m-000002,Abdullah Bin Mas'ud,Cleveland,OH,sunni
-usa-m-000003,Abdullah Mosque,Lilburn,GA,sunni
-usa-m-000004,Aboutaleb Mosque,Omaha,NE,sunni
-usa-m-000005,ABRICC - Acton Boxborough Regional Islamic Community Center - Acton Masjid,Acton,MA,sunni
-usa-m-000006,Abu-Bakar Islamic Center,Portland,OR,sunni
-usa-m-000007,Abu Bakr Al Siddique Islamic Center,Hamtramck,MI,sunni
-usa-m-000008,Abu Bakr As Siddeek Mosque,Delano,CA,sunni
-usa-m-000009,Abu Bakr As Siddiq Islamic Center - Eugene Islamic Center,Eugene,OR,sunni
-usa-m-000010,Abu Bakr El Seddique Mosque,Brooklyn,NY,sunni
-usa-m-000011,Abu Bakr Islamic Center of Washington,Tukwila,WA,sunni
-usa-m-000012,Abu Bakr Siddiq Mosque,Brownstown Township,MI,sunni
-usa-m-000013,Abu Hanifa Masjid,Richardson,TX,sunni
-usa-m-000014,Abu Huraira Mosque,Minneapolis,MN,sunni
-usa-m-000015,Abu Khadra Masjid,Minneapolis,MN,sunni
-usa-m-000016,Abubakar As Saddique Islamic Center,Faribault,MN,sunni
-usa-m-000017,Abubakar As Saddique Islamic Center,Minneapolis,MN,sunni
-usa-m-000018,Abubakar Asiddiq Islamic Center,Columbus,OH,sunni
-usa-m-000019,Abubakr Mosque of Washington,Seattle,WA,sunni
-usa-m-000020,Academy of Islamic Education - AIE,Dundee Township,IL,sunni
-usa-m-000021,Ad Dawah Center of New Jersey,Columbus,NJ,sunni
-usa-m-000022,Adam Masjid,Sugar Land,TX,sunni
-usa-m-000023,ADAMS Ashburn,Ashburn,VA,sunni
-usa-m-000024,ADAMS Fairfax,Fairfax,VA,sunni
-usa-m-000025,ADAMS Gainsville,Nokesville,VA,sunni
-usa-m-000026,ADAMS Leesburg - MCCL,Leesburg,VA,sunni
-usa-m-000027,ADAMS Sully,Chantilly,VA,sunni
-usa-m-000028,Afghan Community Islamic Center,San Diego,CA,sunni
-usa-m-000029,Afghan Islamic Center Masjid,Schenectady,NY,sunni
-usa-m-000030,Ahiska Turkish Islamic Center,Saint Louis,MO,sunni
-usa-m-000031,Ahl Albayt Center of Nevada - ACON - Shia Islamic Center,Las Vegas,NV,shia
-usa-m-000032,Ahlul Bayt Center of Toledo,Toledo,OH,shia
-usa-m-000033,Ahlul Bayt Islamic Center,Wichita,KS,sunni
-usa-m-000034,Ahlul Bayt Mission Masjid : Foundation of Love USA,Flushing,NY,sunni
-usa-m-000035,Ahlul Bayt Society,Columbus,OH,shia
-usa-m-000036,Ahlul Beyt Mosque,Pomona,CA,sunni
-usa-m-000037,Ahlul Qur'an Wal Hadeeth Mosque,Washington,DC,sunni
-usa-m-000038,Ahlulbayt Islamic Center - Saginaw,Saginaw,MI,sunni
-usa-m-000039,Ahmadiyya Mosque,Bronx,NY,sunni
-usa-m-000040,Ahmadiyya Movement In Islam,Hollis,NY,sunni
-usa-m-000041,Ahmadiyya Movement In Islam,Allen,TX,sunni
-usa-m-000042,Ahmadiyya Muslim Community,Hawthorne,NJ,sunni
-usa-m-000043,Ahmadiyya Muslim Community,Richmond,VA,sunni
-usa-m-000044,Ahmadiyya Muslim Community,San Diego,CA,sunni
-usa-m-000045,Ahmadiyya Muslim Community,Portland,OR,sunni
-usa-m-000046,Ahmadiyya Muslim Community - Bait ul Huda - Long Island,Amityville,NY,sunni
-usa-m-000047,Ahmadiyya Muslim Community Center Kenner,Kenner,LA,sunni
-usa-m-000048,Ahmadiyya Muslim Community Jacksonville,Jacksonville,FL,sunni
-usa-m-000049,Ahmadiyya Muslim Community Mosque,Pittsburg,PA,sunni
-usa-m-000050,AIC - Al Taqwa Islamic Center of Elkhorn,Elkhorn,NE,sunni
-usa-m-000051,AICP,Philadelphia,PA,sunni
-usa-m-000052,Aiken Masjid - AMA,Aiken,SC,sunni
-usa-m-000053,AIM - Masjid Noor,Springfield,VA,sunni
-usa-m-000054,Aisha Islamic Center Masjid,Brooklyn,NY,sunni
-usa-m-000055,Aisha Mosque,Elkton,MD,sunni
-usa-m-000056,Akber Masjid - Islamic Center Downtown Los Angeles,Los Angeles,CA,sunni
-usa-m-000057,Akron Mosque,Akron,OH,sunni
-usa-m-000058,Al Abedin Masjid,Brooklyn,NY,sunni
-usa-m-000059,Al Abidin Mosque,South Richmond Hill,NY,sunni
-usa-m-000060,Al Aisha Mosque,Bergenfield,NJ,sunni
-usa-m-000061,Al Alomary Mosque,Cleveland,OH,sunni
-usa-m-000062,Al Amaan Community Center,Minnesota,MN,sunni
-usa-m-000063,Al Aman Mosque,Brooklyn,NY,sunni
-usa-m-000064,Al Amin Center,Boynton Beach,FL,sunni
-usa-m-000065,Al Amin Jame Masjid & Islamic Center,Long Island City,NY,sunni
-usa-m-000066,Al Amin Masjid,Gary,IN,sunni
-usa-m-000067,Al Andalaus Masjid,Philadelphia,PA,sunni
-usa-m-000068,Al Ansaar Masjid - An ISGH Masjid,The Woodlands,TX,sunni
-usa-m-000069,Al Ansar Inc,Jamaica,NY,sunni
-usa-m-000070,Al Ansar Mosque,Brooklyn,NY,sunni
-usa-m-000071,Al Ansar Mosque,San Diego,CA,sunni
-usa-m-000072,Al Ansar Society,Richardson,TX,sunni
-usa-m-000073,Al Aqsa Community Center,Plainfield,IL,sunni
-usa-m-000074,Al Aqsa Islamic Society,Philadelphia,PA,sunni
-usa-m-000075,Al Arqam Center,Stockton,CA,sunni
-usa-m-000076,Al Arqam Center of Saratoga,Waterbury,NY,sunni
-usa-m-000077,Al Baqi Broadway Building,Bethpage,NY,sunni
-usa-m-000078,Al Baqi Mosque,Keaau,HI,sunni
-usa-m-000079,Al Basheer Islamic Foundation,Phoenix,AZ,shia
-usa-m-000080,Al Bayan Islamic Learning Center,Bellmawr,NJ,sunni
-usa-m-000081,Al Bukhaari Mosque,Blacklick,OH,sunni
-usa-m-000082,Al Dawah Islamic Center of Bowling Green KY,Bowling Green,KY,sunni
-usa-m-000083,Al Eiman Mosque - ICAWNY,Buffalo,NY,sunni
-usa-m-000084,Al Fajr Mosque,Indianapolis,IN,sunni
-usa-m-000085,Al Falah Dawah Center,Jamaica,NY,sunni
-usa-m-000086,Al Falah Institute,Farmington Hills,MI,sunni
-usa-m-000087,Al Falah Mosque,Corona,NY,sunni
-usa-m-000088,Al Falah Mosque,New York,NY,sunni
-usa-m-000089,Al Falah Mosque,Westfield,MA,sunni
-usa-m-000090,Al Falah Mosque,Detroit,MI,sunni
-usa-m-000091,Al Farooq Mosque,Brooklyn,NY,sunni
-usa-m-000092,Al Farooq,Clearfield,UT,sunni
-usa-m-000093,Al Fatimiah of Pittsburgh,Etna,PA,sunni
-usa-m-000094,Al Firdows Center,Federal Way,WA,sunni
-usa-m-000095,Al Furqaan Mosque,Minneapolis,MN,sunni
-usa-m-000096,Al Furqaan Mosque of Charleston,Goose Creek,SC,sunni
-usa-m-000097,Al Furqan Islamic Center,Portland,OR,sunni
-usa-m-000098,Al Furqan Jame Masjid Inc,Ozone Park,NY,sunni
-usa-m-000099,Al Furqan Masjid,Houston,TX,sunni
-usa-m-000100,Al Furqan Mosque,Philadelphia,PA,sunni
+record_id,Mosque Name,City,State,Denomination,Is Active
+usa-m-000001,1025 NE 126th Street Parking,North Miami,FL,sunni,true
+usa-m-000002,Abdullah Bin Mas'ud,Cleveland,OH,sunni,true
+usa-m-000003,Abdullah Mosque,Lilburn,GA,sunni,true
+usa-m-000004,Aboutaleb Mosque,Omaha,NE,sunni,true
+usa-m-000005,ABRICC - Acton Boxborough Regional Islamic Community Center - Acton Masjid,Acton,ME,sunni,true
+usa-m-000006,Abu-Bakar Islamic Center,Portland,OR,sunni,true
+usa-m-000007,Abu Bakr Al Siddique Islamic Center,Hamtramck,MI,sunni,true
+usa-m-000008,Abu Bakr As Siddeek Mosque,Delano,CA,sunni,true
+usa-m-000009,Abu Bakr As Siddiq Islamic Center - Eugene Islamic Center,Eugene,OR,sunni,true
+usa-m-000010,Abu Bakr El Seddique Mosque,Brooklyn,NY,sunni,true
+usa-m-000011,Abu Bakr Islamic Center of Washington,Tukwila,WA,sunni,true
+usa-m-000012,Abu Bakr Siddiq Mosque,Brownstown Township,MI,sunni,true
+usa-m-000013,Abu Hanifa Masjid,Richardson,TX,sunni,true
+usa-m-000014,Abu Huraira Mosque,Minneapolis,MI,sunni,true
+usa-m-000015,Abu Khadra Masjid,Minneapolis,MI,sunni,true
+usa-m-000016,Abubakar As Saddique Islamic Center,Faribault,MN,sunni,true
+usa-m-000017,Abubakar As Saddique Islamic Center,Minneapolis,MN,sunni,true
+usa-m-000018,Abubakar Asiddiq Islamic Center,Columbus,OH,sunni,true
+usa-m-000019,Abubakr Mosque of Washington,Seattle,WA,sunni,true
+usa-m-000020,Academy of Islamic Education - AIE,Dundee Townhip,IL,sunni,true
+usa-m-000021,Ad Dawah Center of New Jersey,Columbus,NJ,sunni,true
+usa-m-000022,Adam Masjid,Sugar Land,TX,sunni,true
+usa-m-000023,ADAMS Ashburn,Ashburn,VA,sunni,true
+usa-m-000024,ADAMS Fairfax,Fairfax,VA,sunni,true
+usa-m-000025,ADAMS Gainsville,Nokesville,VA,sunni,true
+usa-m-000026,ADAMS Leesburg - MCCL,Leesburg,VA,sunni,true
+usa-m-000027,ADAMS Sully,Chantilly,VA,sunni,true
+usa-m-000028,Afghan Community Islamic Center,San Diego,CA,sunni,true
+usa-m-000029,Afghan Islamic Center Masjid,Schenectady,NY,sunni,true
+usa-m-000030,Ahiska Turkish Islamic Center,Saint Louis,MO,sunni,true
+usa-m-000031,Ahl Albayt Center of Nevada - ACON - in Las Vegas - Shia Islamic Center,Las Vegas,NV,shia,true
+usa-m-000032,Ahlul Bayt Center of Toledo,Toledo,OH,shia,true
+usa-m-000033,Ahlul Bayt Islamic Center,Wichita,KS,shia,true
+usa-m-000034,Ahlul Bayt Mission Masjid : Foundation of Love USA,Flushing,NY,sunni,true
+usa-m-000035,Ahlul Bayt Society,Columbus,OH,shia,true
+usa-m-000036,Ahlul Beyt Mosque,Pomona,CA,sunni,true
+usa-m-000037,Ahlul Qur'an Wal Hadeeth Mosque,Washington,DC,sunni,true
+usa-m-000038,Ahlulbayt Islamic Center - Saginaw,Saginaw,MI,sunni,true
+usa-m-000039,Ahmadiyya Mosque,Bronx,NY,sunni,true
+usa-m-000040,Ahmadiyya Movement In Islam,Hollis,NY,sunni,true
+usa-m-000041,Ahmadiyya Movement In Islam,Allen,TX,sunni,true
+usa-m-000042,Ahmadiyya Muslim Community,Hawthorne,NJ,sunni,true
+usa-m-000043,Ahmadiyya Muslim Community,Richmond,VA,sunni,true
+usa-m-000044,Ahmadiyya Muslim Community,San Diego,CA,sunni,true
+usa-m-000045,Ahmadiyya Muslim Community,Portland,OR,sunni,true
+usa-m-000046,Ahmadiyya Muslim Community - Bait ul Huda - Long Island,Amityville,NY,sunni,true
+usa-m-000047,Ahmadiyya Muslim Community Center Kenner,Kenner,LA,sunni,true
+usa-m-000048,Ahmadiyya Muslim Community Jacksonville,Jacksonville,FL,sunni,true
+usa-m-000049,Ahmadiyya Muslim Community Mosque,Pittsburgh,PA,sunni,true
+usa-m-000050,AIC - Al Taqwa Islamic Center of Elkhorn,Elkhorn,NE,sunni,true
+usa-m-000051,AICP,Philadelphia,PA,sunni,true
+usa-m-000052,Aiken Masjid - AMA,Aiken,SC,sunni,true
+usa-m-000053,AIM - Masjid Noor,Springfield,VA,sunni,true
+usa-m-000054,Aisha Islamic Center Masjid,Brooklyn,NY,sunni,true
+usa-m-000055,Aisha Mosque,Elkton,MD,sunni,true
+usa-m-000056,Akber Masjid - Islamic Center Downtown Los Angeles,Los Angeles,CA,sunni,true
+usa-m-000057,Akron Mosque,Akron,OH,sunni,true
+usa-m-000058,Al Abedin Masjid,Brooklyn,NY,sunni,true
+usa-m-000059,Al Abidin Mosque,South Richmond Hill,NY,sunni,true
+usa-m-000060,Al Aisha Mosque,Bergenfield,NJ,sunni,true
+usa-m-000061,Al Alomary Mosque,Cleveland,OH,sunni,true
+usa-m-000062,Al Amaan Community Center,Minnesota,MN,sunni,true
+usa-m-000063,Al Aman Mosque,Brooklyn,NY,sunni,true
+usa-m-000064,Al Amin Center,Boynton Beach,FL,sunni,true
+usa-m-000065,Al Amin Jame Masjid & Islamic Center,Long Island City,NY,sunni,true
+usa-m-000066,Al Amin Masjid,Gary,IN,sunni,true
+usa-m-000067,Al Andalus Masjid,Philadelphia,PA,sunni,true
+usa-m-000068,Al Ansaar Masjid - An ISGH Masjid,The Woodlands,TX,sunni,true
+usa-m-000069,Al Ansar Inc,Jamaica,NY,sunni,true
+usa-m-000070,Al Ansar Mosque,Brooklyn,NY,sunni,true
+usa-m-000071,Al Ansar Mosque,San Diego,CA,sunni,true
+usa-m-000072,Al Ansar Society,Richardson,TX,sunni,true
+usa-m-000073,Al Aqsa Community Center,Plainfield,IL,sunni,true
+usa-m-000074,Al Aqsa Islamic Society,Philadelphia,PA,sunni,true
+usa-m-000075,Al Arqam Center,Stockton,CA,sunni,true
+usa-m-000076,Al Arqam Center of Saratoga,Waterbury,NY,sunni,true
+usa-m-000077,Al Baqi Broadway Building,Bethpage,NY,sunni,true
+usa-m-000078,Al Baqi Mosque,Keaau,HI,sunni,true
+usa-m-000079,Al Basheer Islamic Foundation,Phoenix,AZ,shia,true
+usa-m-000080,Al Bayan Islamic Learning Center,Bellmawr,NJ,sunni,true
+usa-m-000081,Al Bukhaari Mosque,Blacklick,OH,sunni,true
+usa-m-000082,Al Dawah Islamic Center of Bowling Green KY,Bowling Green,KY,sunni,true
+usa-m-000083,Al Eiman Mosque - ICAWNY,Buffalo,NY,sunni,true
+usa-m-000084,Al Fajr Mosque,Indianapolis,IN,sunni,true
+usa-m-000085,Al Falah Dawah Center,Jamaica,NY,sunni,true
+usa-m-000086,Al Falah Institute,Farmington Hills,MI,sunni,true
+usa-m-000087,Al Falah Mosque,Corona,NY,sunni,true
+usa-m-000088,Al Falah Mosque,New York,NY,sunni,true
+usa-m-000089,Al Falah Mosque,Westfield,MA,sunni,true
+usa-m-000090,Al Falah Mosque,Detroit,MI,sunni,true
+usa-m-000091,Al Farooq Mosque,Brooklyn,NY,sunni,true
+usa-m-000092,Al Farooq Mosque,Clearfield,UT,sunni,true
+usa-m-000093,Al Fatimiah of Pittsburgh,Etna,PA,sunni,true
+usa-m-000094,Al Firdows Center,Federal Way,WA,sunni,true
+usa-m-000095,Al Furqaan Mosque,Minneapolis,MN,sunni,true
+usa-m-000096,Al Furqaan Mosque of Charleston,Goose Creek,SC,sunni,true
+usa-m-000097,Al Furqan Islamic Center,Portland,OR,sunni,true
+usa-m-000098,Al Furqan Jame Masjid Inc,Ozone Park,NY,sunni,true
+usa-m-000099,Al Furqan Masjid,Houston,TX,sunni,true
+usa-m-000100,Al Furqan Mosque,Philadelphia,PA,sunni,true
+usa-m-000101,Al Furqan Mosque,Detroit,MI,sunni,true
+usa-m-000102,Al furqan Mosque,Columbus,OH,sunni,true
+usa-m-000103,Al Ghadeer Benevolent Foundation,North Bergen,NJ,sunni,true
+usa-m-000104,Al Hajj Malik El Shabazz Islamic Center,Los Angeles,CA,sunni,true
+usa-m-000105,Al Haqq Foundation,Indianapolis,IN,sunni,true
+usa-m-000106,Al Haram Masjid USA Inc,Bronx,NY,sunni,true
+usa-m-000107,Al Hedaya Islamic Center and Mosque,Newtown,CT,sunni,true
+usa-m-000108,Al Hedayah Academy,Fort Worth,TX,sunni,true
+usa-m-000109,Al Hedayah Mosque,Santa Ana,CA,sunni,true
+usa-m-000110,Al Hera Mosque,Atlantic City,NJ,sunni,true
+usa-m-000111,Al Hidaya Center Latham,Latham,NY,sunni,true
+usa-m-000112,Al Hidaya Islamic Center,Philadephia,PA,sunni,true
+usa-m-000113,Al Hidaya Mosque of Troy,Troy,NY,sunni,true
+usa-m-000114,Al Hikmah Islamic Center,Indianapolis,IN,sunni,true
+usa-m-000115,Al Hikmah Mosque,Astoria,NY,sunni,true
+usa-m-000116,Al Hilal Islamic Center,Florence,KY,sunni,true
+usa-m-000117,Al Hira Community Center,Wood Dale,IL,sunni,true
+usa-m-000118,Al Hoda Islamic Center,Jersey City,NJ,sunni,true
+usa-m-000119,Al Huda Center,Kansas City,MO,sunni,true
+usa-m-000120,Al Huda Center,Columbus,OH,sunni,true
+usa-m-000121,Al Huda Islamic Association,Dearborn,MI,sunni,true
+usa-m-000122,Al Huda Islamic Center,Lansing,NY,sunni,true
+usa-m-000123,Al Huda Islamic Center,Columbus,OH,sunni,true
+usa-m-000124,Al Huda Islamic Center,East Grand Folks,MN,sunni,true
+usa-m-000125,Al Huda Islamic Center of Salt Lake City,South Salt Lake,UT,sunni,true
+usa-m-000126,Al Huda Mosque,Brooklyn,NY,sunni,true
+usa-m-000127,Al Huda Mosque,Manor,TX,sunni,true
+usa-m-000128,Al Huda Mosque,Portland,OR,sunni,true
+usa-m-000129,Al Huda Mosque - Islamic Society of Greater Dayton,Sugarcreek Township,OH,sunni,true
+usa-m-000130,Al Huda Mosque - South Milwaukee Campus,South Milwaukee,WI,sunni,true
+usa-m-000131,Al Huda Society,Chelsea,MA,sunni,true
+usa-m-000132,Al Ihsaan Islamic Center,Warren,MI,sunni,true
+usa-m-000133,Al Ihsaan Mosque,Brooklyn,NY,sunni,true
+usa-m-000134,Al Ihsaan Mosque,Miami,FL,sunni,true
+usa-m-000135,Al Ihsan Community Center,Detroit,MI,sunni,true
+usa-m-000136,Al Ihsan Mosque,Staten Island,NY,sunni,true
+usa-m-000137,Al Ihsan Mosque,Saint Paul,MN,sunni,true
+usa-m-000138,Al Ikhlas Mosque,Lake Worth Corridor,FL,sunni,true
+usa-m-000139,Al Ikhlas Newburgh Inc,Newburgh,NY,sunni,true
+usa-m-000140,Al Imam Al Muntadhar Center,Middletown,OH,sunni,true
+usa-m-000141,Al Iman,Smyrna,GA,sunni,true
+usa-m-000142,Al Iman Islamic Center,Lorton,VA,sunni,true
+usa-m-000143,Al Iman Mosque,Long Island City,NY,sunni,true
+usa-m-000144,Al Iman Mosque,Jersey City,NJ,sunni,true
+usa-m-000145,Al Imman Mosque,Jacksonville,FL,sunni,true
+usa-m-000146,Al Insan Mosque,Jamaica,NY,sunni,true
+usa-m-000147,Al Inshirah Islamic Center,Kansas City,MO,sunni,true
+usa-m-000148,Al Islam Masjid,Chatsworth,CA,sunni,true
+usa-m-000149,Al Islam Mosque,New Haven,CT,sunni,true
+usa-m-000150,Al Islam Mosque,Toledo,OH,sunni,true
+usa-m-000151,Al Israa Mosque,Fridley,MN,sunni,true
+usa-m-000152,Al Kahf Islamic Center of Kansas City,Kansas City,MO,sunni,true
+usa-m-000153,Al Karim Islamic Center Educational & Cultural Services,Seattle,WA,sunni,true
+usa-m-000154,Al Kausur Mosque,Glendale,AZ,sunni,true
+usa-m-000155,Al Khair Islamic Society of RGV,Edinburg,TX,sunni,true
+usa-m-000156,Al Khalil islamic center,Pittsfield,MA,sunni,true
+usa-m-000157,Al Khoei Foundation,Jamaica,NY,sunni,true
+usa-m-000158,Al Madany Islamic Center of Norwalk,Norwalk,CT,sunni,true
+usa-m-000159,Al Madina Hajj & Umrah Sevice,North Miami,FL,sunni,true
+usa-m-000160,Al Madina Islamic Centre,Newark,NJ,sunni,true
+usa-m-000161,Al Madina Masjid,Renton,WA,sunni,true
+usa-m-000162,Al Madina Mosque Islamic Center of Brooklyn,Brooklyn,NY,sunni,true
+usa-m-000163,Al Madinah Mosque,Upper Darby Township,PA,sunni,true
+usa-m-000164,Al Madni Masjid,East Elmhurst,NY,sunni,true
+usa-m-000165,Al Mahdi Foundation,Brooklyn,NY,sunni,true
+usa-m-000166,Al Mahdi Islamic Center,Hicksville,NY,sunni,true
+usa-m-000167,Al Mahdi Islamic Center of El Paso,El Paso,TX,sunni,true
+usa-m-000168,Al Makarim Islamic Foundation,Erie,PA,sunni,true
+usa-m-000169,Al Manar Masjid and Learning Center,Blackwood,NJ,sunni,true
+usa-m-000170,Al Maqasid,Macungie,PA,sunni,true
+usa-m-000171,Al Marwa Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000172,Al Masjidu Adam Community Life Center For Human Excellence,Bronx,NY,sunni,true
+usa-m-000173,Al Minhal Academy of Washington Township,Sewell,NJ,sunni,true
+usa-m-000174,Al Misbaah Cultural Center,Jamaica,NY,sunni,true
+usa-m-000175,Al Mosque Al-Awwal,Pittsburg,PA,sunni,true
+usa-m-000176,Al Mu'min Mosque,Pittsburgh,PA,sunni,true
+usa-m-000177,Al Mu'min Mosque,Fort Worth,TX,sunni,true
+usa-m-000178,Al Mu'minun Islamic Center,Saint Louis,MO,sunni,true
+usa-m-000179,Al Mumin Masjid,Miami,FL,sunni,true
+usa-m-000180,Al Mumineen Mosque,Indianapolis,IN,sunni,true
+usa-m-000181,Al Muneer Community Cente,Hollis,NY,sunni,true
+usa-m-000182,Al Mustafa Center,Marysville,WA,sunni,true
+usa-m-000183,Al Mustafa Islamic Center,Pompton Lakes,NJ,sunni,true
+usa-m-000184,Al Mustafa Islamic Center,Aurora,CO,sunni,true
+usa-m-000185,Al Mustafa Islamic Center Masjid,Brooklyn,NY,sunni,true
+usa-m-000186,Al Mustafa Mosque,East Hartford,CT,sunni,true
+usa-m-000187,Al Mustafa Mosque,Waterbury,CT,sunni,true
+usa-m-000188,Al Mustafa Mosque,Chandler,AZ,sunni,true
+usa-m-000189,Al Muwahideen Society,Lima,OH,sunni,true
+usa-m-000190,Al Nasr Mosque,Willingboro,NJ,sunni,true
+usa-m-000191,Al Noor Islamic Center,Seattle,WA,sunni,true
+usa-m-000192,Al Noor Masjid,Houston,TX,sunni,true
+usa-m-000193,Al Noor Mosque,Wilkes-Barre,PA,sunni,true
+usa-m-000194,Al Noor Mosque,Mesa,AZ,sunni,true
+usa-m-000195,Al Noor Mosque - MCC,Manor,TX,sunni,true
+usa-m-000196,Al Noorani Islamic Center of Staten Island,Staten Island,NY,sunni,true
+usa-m-000197,Al Nour Center,Escondido,CA,sunni,true
+usa-m-000198,Al Nur Mosque,Louisville,KY,sunni,true
+usa-m-000199,Al Qalam Masjid,Friendswood,TX,sunni,true
+usa-m-000200,Al Quba Mosque,Richmond Hill,NY,sunni,true
+usa-m-000201,Al Quba Mosque,Kent,WA,sunni,true
+usa-m-000202,Al Quba Muslim Center,Bronx,NY,sunni,true
+usa-m-000203,Al Qur'an Mosque,Milwaukee,WI,sunni,true
+usa-m-000204,Al Quran Mosque,Boston,MA,sunni,true
+usa-m-000205,Al Rahma Mosque,Minneapolis,MN,sunni,true
+usa-m-000206,Al Rahma Mosque,Santa Fe,NM,sunni,true
+usa-m-000207,Al Rahma Mosque,El Paso,TX,sunni,true
+usa-m-000208,Al Rahman Mosque,Brooklyn,NY,sunni,true
+usa-m-000209,Al Rahman Mosque,New York,NY,sunni,true
+usa-m-000210,Al Rahman Mosque,Rochester,NY,sunni,true
+usa-m-000211,Al Rahman Mosque,Richmond,VA,sunni,true
+usa-m-000212,Al Rahman Mosque,Roswell,NM,sunni,true
+usa-m-000213,Al Rahman Mosque - Islamic Society of Greater Dayton,Dayton,OH,sunni,true
+usa-m-000214,Al Rasheed Mosque,Baldwin,NY,sunni,true
+usa-m-000215,Al Rashideen Islamic Center,Philadelphia,PA,sunni,true
+usa-m-000216,Al Rasol Al Azam Mosque,Rochester,NY,sunni,true
+usa-m-000217,Al Rasool Center,Memphis,TN,sunni,true
+usa-m-000218,Al Rawdah Islamic Center,Catasauqua,PA,sunni,true
+usa-m-000219,Al Rawdah Mosque,Meriden,CT,sunni,true
+usa-m-000220,Al Razzaq Islamic Centre,Dallas,TX,sunni,true
+usa-m-000221,Al Ribat Mosque,San Diego,CA,sunni,true
+usa-m-000222,Al Saaliheen Mosque,Flushing,NY,sunni,true
+usa-m-000223,Al Salam Foundation,Indianapolis,IN,sunni,true
+usa-m-000224,Al Salam Islamic Society of the North Shore,Lynn,MA,sunni,true
+usa-m-000225,Al Salam Mosque,Spring,TX,sunni,true
+usa-m-000226,Al Salam Mosque,Oakland,CA,sunni,true
+usa-m-000227,Al Taqwa Islamic Center of Kansas City,Kansas City,MO,sunni,true
+usa-m-000228,Al Taqwa Mosque,Atlantic City,NJ,sunni,true
+usa-m-000229,Al Taqwa Mosque,Saint Louis,MO,sunni,true
+usa-m-000230,Al Taqwa Mosque,Milwaukee,WI,sunni,true
+usa-m-000231,Al Taqwa Mosque,Ann Arbor,MI,sunni,true
+usa-m-000232,Al Tawba Mosque,Eden Prairie,MN,sunni,true
+usa-m-000233,Al Tawheed Islamic Center,Jersey City,NJ,sunni,true
+usa-m-000234,Al Tawheed Islamic Center - IM&RI,Kentwood,MI,sunni,true
+usa-m-000235,Al Umma Center of Santa Clarita,Santa Clarita,CA,sunni,true
+usa-m-000236,Al Wali Community Center,Edison,NJ,sunni,true
+usa-m-000237,Al Wali Mosque,Edison,NJ,sunni,true
+usa-m-000238,Al Welayat Islamic Center,Bellerose,NY,sunni,true
+usa-m-000239,Al Zahra Islamic Center,Haverstraw,NY,sunni,true
+usa-m-000240,Al Zahra Islamic Center,Jacksonville,FL,shia,true
+usa-m-000241,Al Zahra Islamic Center,South Salt Lake,UT,shia,true
+usa-m-000242,Al Zahra Islamic Center - AZIC,Voorheesville,NY,sunni,true
+usa-m-000243,Al Zahraa Islamic Center,Detroit,MI,shia,true
+usa-m-000244,Al Zahraa Islamic Center,Denver,CO,sunni,true
+usa-m-000245,Al Zehra Islamic Center,Wauwatosa,WI,shia,true
+usa-m-000246,Al-Ansar Mosque,Miami,FL,sunni,true
+usa-m-000247,Al-Ansar Mosque,Tampa,FL,sunni,true
+usa-m-000248,Al-Azhar Islamic Foundation,Barrington,IL,sunni,true
+usa-m-000249,Al-Aziz Mosque,Orlando,FL,sunni,true
+usa-m-000250,Al-Bukhari islamic Center,Orlando,FL,sunni,true
+usa-m-000251,Al-Eman Center,Melbourne,FL,sunni,true
+usa-m-000252,Al-Falah Mosque,Woodbridge,VA,sunni,true
+usa-m-000253,Al-Farooq Islamic Center,Nashville,TN,sunni,true
+usa-m-000254,Al-Farooq Mosque,Atlanta,GA,sunni,true
+usa-m-000255,Al-Hablulmateen Islamic Center,Baton Rouge,LA,sunni,true
+usa-m-000256,Al-Hedaya Masjid,Marietta,GA,sunni,true
+usa-m-000257,Al-Hidaya Center,Louisville,KY,sunni,true
+usa-m-000258,Al-Hoda Mosque,Kingston,RI,sunni,true
+usa-m-000259,Al-Huda Islamic Center of Athens,Athens,GA,sunni,true
+usa-m-000260,Al-Islam Dawah Center,Pensacola,FL,sunni,true
+usa-m-000261,Al-Islam Mosque,North Smithfield,RI,sunni,true
+usa-m-000262,Al-Madinah Mosque of North Atlanta,Norcross,GA,sunni,true
+usa-m-000263,Al-Malik Mosque,Orlando,FL,sunni,true
+usa-m-000264,Al-Momineen Mosque,Clarkston,GA,sunni,true
+usa-m-000265,Al-Mu'minun Mosque,Atlanta,GA,sunni,true
+usa-m-000266,Al-Noor Mosque,Decatur,AL,sunni,true
+usa-m-000267,Al-Nur Mosque,Bartow,FL,sunni,true
+usa-m-000268,Al-Qubaa Islamic Centre,Newport News,VA,sunni,true
+usa-m-000269,Al-Qubbatu Al-Khadra Masjid Mosque,Pelham,AL,sunni,true
+usa-m-000270,Al-Rahma Mosque,Thonotosassa,FL,sunni,true
+usa-m-000271,Al-Rahman Mosque,Pawtucket,RI,sunni,true
+usa-m-000272,Al-Rahman Mosque,Cumming,GA,sunni,true
+usa-m-000273,Al-Zahrah Islamic Center,Louisville,KY,shia,true
+usa-m-000274,Albanian - American Muslim Community & Cultural Center,Waterbury,CT,sunni,true
+usa-m-000275,Albanian American Cultural & Islamic Center,Waterbury,CT,sunni,true
+usa-m-000276,Albanian American Cultural Center Struga,Riverdale,NJ,sunni,true
+usa-m-000277,Albanian American Islamic Center,Glendale,NY,sunni,true
+usa-m-000278,Albanian American Islamic Center,Garfield,NJ,sunni,true
+usa-m-000279,Albanian American Islamic Center,Berkeley,IL,sunni,true
+usa-m-000280,Albanian Islamic Center of Michigan,Harper Woods,MI,sunni,true
+usa-m-000281,Albanian Islamic Cultural Center,Staten Island,NY,sunni,true
+usa-m-000282,Albanian Islamic Cultural Center of Clearwater,Clearwater,FL,sunni,true
+usa-m-000283,Albany Masjid of Al-Islam,Albany,GA,sunni,true
+usa-m-000284,Albaseerah Islamic Center,Plainfield,NJ,sunni,true
+usa-m-000285,Albir Islamic Association Inc,Kissimmee,FL,sunni,true
+usa-m-000286,Albuquerque Islamic Center,Albuquerque,NM,sunni,true
+usa-m-000287,Alfalah Downtown Center Mosque,San Antonio,TX,sunni,true
+usa-m-000288,Alfalah Society of Greater San Antonio,San Antonio,TX,sunni,true
+usa-m-000289,Alfarooq Islamic Center,Bakersfield,CA,sunni,true
+usa-m-000290,AlHadi Islamic Center in Omaha,Omaha,NE,sunni,true
+usa-m-000291,Alhamdulillah Dawah and Community Education Center,Tampa,FL,sunni,true
+usa-m-000292,Alhedayah Masjid & Islamic Center,Stamford,CT,sunni,true
+usa-m-000293,Alhuda Islamic Center of Indiana - AICI,Fishers,IN,sunni,true
+usa-m-000294,Ali Khan Islamic Center,Hillcrest Heights,MD,sunni,true
+usa-m-000295,Ali Mosque,Providence,RI,sunni,true
+usa-m-000296,Ali Yun Wali Allah Shia Islamic Center,Schaumburg,IL,shia,true
+usa-m-000297,Alistiqamah Community Center,Brooklyn,NY,sunni,true
+usa-m-000298,Aljaned Islamic Center,Bronx,NY,sunni,true
+usa-m-000299,Alkhairia Islamic Center,Fieldsboro,NJ,sunni,true
+usa-m-000300,All Dulles Area Muslim Society - ADAMS,Sterling,VA,sunni,true
+usa-m-000301,All Muslims Center,Bronx,NY,sunni,true
+usa-m-000302,Allerton Islamic Center,Bronx,NY,sunni,true
+usa-m-000303,Allston Brighton Islamic Center,Allston,MA,sunni,true
+usa-m-000304,Almahdi Islamic Center of Seattle,Seattle,WA,shia,true
+usa-m-000305,AlManara Mosque,Ballwin,MO,sunni,true
+usa-m-000306,Almeda Mosque,Houston,TX,sunni,true
+usa-m-000307,Almustafa Society,Syracuse,NY,sunni,true
+usa-m-000308,Alqassam Mosque,Tampa,FL,sunni,true
+usa-m-000309,Alrahma Mosque,Columbus,OH,sunni,true
+usa-m-000310,Alrasool Islamic Center,Campbell,CA,sunni,true
+usa-m-000311,Alrasool Islamic Center,Taylorsville,UT,shia,true
+usa-m-000312,Alrowda Mosque,Dorchester,MA,sunni,true
+usa-m-000313,Alruqen Alyamani Mosque,Bronx,NY,sunni,true
+usa-m-000314,Alsabeel Community Center,Rockville,MD,sunni,true
+usa-m-000315,AlSabeel Masjid Noor Al Islam,San Francisco,CA,sunni,true
+usa-m-000316,Alsalam Islamic Center,Seattle,WA,sunni,true
+usa-m-000317,Alsaliheen Mosque,Kearney,NE,sunni,true
+usa-m-000318,Altaqwa Islamic Center,Inkster,MI,sunni,true
+usa-m-000319,Altaqwa Masjid Islamic Center Barron,Barron,WI,sunni,true
+usa-m-000320,Altoona Masjid - Islamic Society of Northern Wisconsin - ISNW,Altoona,WI,sunni,true
+usa-m-000321,AMANA Sunni Madani community center of Alexandria,Alexandria,VA,sunni,true
+usa-m-000322,American Albanian Islamic Center of Wisconsin,Kenosha,WI,sunni,true
+usa-m-000323,American Association of Crimean Turks Mosque,Brooklyn,NY,sunni,true
+usa-m-000324,American Fazl Mosque,Washington,DC,sunni,true
+usa-m-000325,American Imams Academy - AIA Masjid,Sachse,TX,sunni,true
+usa-m-000326,American Islamic Center of Florida,Pompano Beach,FL,sunni,true
+usa-m-000327,American Islamic Center of Mobile,Mobile,AL,sunni,true
+usa-m-000328,American Islamic Centre Lincoln Nebraska,Lincoln,NE,sunni,true
+usa-m-000329,American Islamic Institute of Antelope Valley,Rosamond,CA,sunni,true
+usa-m-000330,American Moslem Bekaa Center,Dearborn,MI,sunni,true
+usa-m-000331,American Moslem Society - Masjid Dearborn,Dearborn,MI,sunni,true
+usa-m-000332,American Muslim Association Inc,Boonton,NJ,sunni,true
+usa-m-000333,American Muslim Association of Lawton,Lawton,OK,sunni,true
+usa-m-000334,American Muslim Center,Everett,MA,sunni,true
+usa-m-000335,American Muslim Center,Dearborn,MI,sunni,true
+usa-m-000336,American Muslim Community Center - AMCC,Longwood,FL,sunni,true
+usa-m-000337,American Muslim Community Organization,Lake in the Hills,IL,sunni,true
+usa-m-000338,American Muslim Diversity Association,Sterling Heights,MI,sunni,true
+usa-m-000339,American Muslim Society of North Shore,Danvers,MA,sunni,true
+usa-m-000340,American Turkish Eyup Sultan Cultural Center,Brooklyn,NY,sunni,true
+usa-m-000341,American Turkish Islamic Cultural Center,Thomaston,CT,sunni,true
+usa-m-000342,AMI American Muslim Institute,Omaha,NE,sunni,true
+usa-m-000343,AMS Coldwater Masjid,Coldwater,MI,sunni,true
+usa-m-000344,Amsterdam Islamic Center,Amsterdam,NY,sunni,true
+usa-m-000345,An Nabawi Mosque,Columbus,OH,sunni,true
+usa-m-000346,An Noor Cultural Center,Elmhurst,NY,sunni,true
+usa-m-000347,An Noor Institute - Muslim Youth & Community Center,Jamaica,NY,sunni,true
+usa-m-000348,An Noor Masjid,Jackson Heights,NY,sunni,true
+usa-m-000349,An Nur Foundation of MD Inc,Nottingham,MD,sunni,true
+usa-m-000350,An Nur Mosque,Minneapolis,MN,sunni,true
+usa-m-000351,An-Nur Islamic Center,Pittsburgh,PA,sunni,true
+usa-m-000352,Andalusia Islamic Center,Yonkers,NY,sunni,true
+usa-m-000353,Anderson Islamic Center,Anderson,IN,sunni,true
+usa-m-000354,Andover Islamic Center,Andover,MA,sunni,true
+usa-m-000355,Angola Islamic Center,Angola,IN,sunni,true
+usa-m-000356,Anjuman E Badri,Queens,NY,sunni,true
+usa-m-000357,Anjuman Hefazatul Islam,Bronx,NY,sunni,true
+usa-m-000358,Anniston Islamic Center,Anniston,AL,sunni,true
+usa-m-000359,Anniston Mosque,Anniston,AL,sunni,true
+usa-m-000360,Annoor Islamic Center,Portland,OR,sunni,true
+usa-m-000361,Annur Islamic Center Inc,New York,NY,sunni,true
+usa-m-000362,Ansar As Sunnah Mosque,Paterson,NJ,sunni,true
+usa-m-000363,Ansar Mosque,Passaic,NJ,sunni,true
+usa-m-000364,Ar Rahman Community Center,Jamaica,NY,sunni,true
+usa-m-000365,Ar Rahman Islamic Center,Fontana,CA,sunni,true
+usa-m-000366,Ar Rahman Mosque,Sacramento,CA,sunni,true
+usa-m-000367,Ar Rashidun Community Center,Washington,DC,sunni,true
+usa-m-000368,Arabic Jumaa Mosque,Boston,MA,sunni,true
+usa-m-000369,Arafa Islamic Center,Jamaica,NY,sunni,true
+usa-m-000370,Arizona Cultural Academy - ACA - Masjid,Phoenix,AZ,sunni,true
+usa-m-000371,Arlington Central Mosque - Islamic Society of Arlington - ISAT Masjid,Arlington,TX,sunni,true
+usa-m-000372,Arrahman Mosque,West Seneca,NY,sunni,true
+usa-m-000373,Arvin Islamic Center - Masjid Alsalaam,Arvin,CA,sunni,true
+usa-m-000374,As Saber Mosque,Portland,OR,sunni,true
+usa-m-000375,As Sabur Mosque,Las Vegas,NV,sunni,true
+usa-m-000376,As Sahaaba Mosque,Columbus,OH,sunni,true
+usa-m-000377,As Salaamah Mosque,Cloumbu,OH,sunni,true
+usa-m-000378,As Salam Mosque,Albany,NY,sunni,true
+usa-m-000379,As Salam Mosque,Jersey City,NJ,sunni,true
+usa-m-000380,As Siddiq Institute & Mosque,Burton,MI,sunni,true
+usa-m-000381,As Siddiq Muslim Organization,South Ozone Park,NY,sunni,true
+usa-m-000382,As Sunnah Mosque,Indianapolis,IN,sunni,true
+usa-m-000383,As-Salaam Mosque,Nashville,TN,sunni,true
+usa-m-000384,As-Sultan Salahud-Deen,Fort Lauderdale,FL,sunni,true
+usa-m-000385,As-Sunnah Mosque,Kissimmee,FL,sunni,true
+usa-m-000386,Asia Center,Webster,TX,sunni,true
+usa-m-000387,Assafa Islamic Center Inc,New York,NY,sunni,true
+usa-m-000388,Assalam Center,Boca Raton,FL,sunni,true
+usa-m-000389,ASSALAM mosque,Maplewood,MN,sunni,true
+usa-m-000390,Assalam Mosque,Waterbury,CT,sunni,true
+usa-m-000391,Assalam Wal Khair Mosque,New York,NY,sunni,true
+usa-m-000392,Association of Bosniaks of Delaware Valley Philadelphia,Hainesport,NJ,sunni,true
+usa-m-000393,Association of Islamic Charitable Projects - Revere,Revere,MA,sunni,true
+usa-m-000394,Astaana e Zehra,Manalapan Township,NJ,shia,true
+usa-m-000395,Astoria Islamic Center,Astoria,NY,sunni,true
+usa-m-000396,Astoria Islamic Center - Masjid Baitul Mukarram,Astoria,NY,sunni,true
+usa-m-000397,At Taqwa Center - ATC,Omaha,NE,sunni,true
+usa-m-000398,At Taqwa Inc,Brooklyn,NY,sunni,true
+usa-m-000399,At Taqwa Mosque,Dayton,OH,sunni,true
+usa-m-000400,At Taqwa Mosque,Ann Arbor,MI,sunni,true
+usa-m-000401,At Tawhid Mosque,Houston,TX,sunni,true
+usa-m-000402,Athens Islamic Community Center,Athens,GA,sunni,true
+usa-m-000403,Atlanta Masjid of Al-Islam,Atlanta,GA,sunni,true
+usa-m-000404,Atlantic County Darus Salam Academy,Galloway,NJ,sunni,true
+usa-m-000405,Attakwa Mosque,Sioux Falls,SD,sunni,true
+usa-m-000406,Attawheed Community Center,Carnegie,PA,sunni,true
+usa-m-000407,Attawheed Islamic Center,Carnegie,PA,sunni,true
+usa-m-000408,Auburn Islamic Center,Auburn,AL,sunni,true
+usa-m-000409,Avondale Islamic Center,Chillum,MD,sunni,true
+usa-m-000410,Awareness Center For Islam,Fort Myers,FL,sunni,true
+usa-m-000411,Az Zahra Islamic Center,Kansas City,KS,shia,true
+usa-m-000412,Azad Masjid,Wichita,TX,sunni,true
+usa-m-000413,Ba'it ul Nasir Masjid,Groveport,OH,sunni,true
+usa-m-000414,Badr Community Center of Dumfries,Dumfries,VA,sunni,true
+usa-m-000415,Badr Islamic Center,Fresno,CA,sunni,true
+usa-m-000416,BAIC Detroit,Sterling Heights,MI,sunni,true
+usa-m-000417,Bait Al Qayem Mosque,Delran,NJ,shia,true
+usa-m-000418,Bait Allah,Baltimore,MD,sunni,true
+usa-m-000419,Bait Ul Ehsan Mosque - Ahmadiyya Muslim Community - Islam in Seattle,Monroe,WA,sunni,true
+usa-m-000420,Bait Ul Hadi - Ahmadiyya Movement - Central Jersey Chapter,Old Bridge,NJ,sunni,true
+usa-m-000421,Bait Ul Karam Mosque,Brooklyn,NY,sunni,true
+usa-m-000422,Bait ul Qayyum Mosque,Fort Worth,TX,sunni,true
+usa-m-000423,Bait Un Nur Mosque - Ahmadiyya Muslim Community,Schenectady,NY,sunni,true
+usa-m-000424,Bait ur Raheem Ahmadiyya Muslim Community Mosque,Indianapolis,IN,sunni,true
+usa-m-000425,Bait Ur Rehman Mosque,Silver Spring,MD,sunni,true
+usa-m-000426,Bait Us Samad Mosque,Rosedale,MD,sunni,true
+usa-m-000427,Bait-ul-Aafiyat Mosque - Ahmadiyya Muslim Community,Philadephia,PA,sunni,true
+usa-m-000428,Bait-ul-Ata Mosque,Norcross,GA,sunni,true
+usa-m-000429,Bait-un-Naseer Mosque,Hallandale Beach,FL,sunni,true
+usa-m-000430,Baitul Abrar Masjid,Bronx,NY,sunni,true
+usa-m-000431,Baitul Ahad Islamic Center Inc,Jamaica,NY,sunni,true
+usa-m-000432,Baitul Ahad-Ahmadiyya Mosque,Bedford,OH,sunni,true
+usa-m-000433,Baitul Aman Islamic Center Inc,Bronx,NY,sunni,true
+usa-m-000434,Baitul Aman Masjid,Buffalo,NY,sunni,true
+usa-m-000435,Baitul Aman Mosque - House of Peace - Ahmadiyya Muslim Community,Meriden,CT,sunni,true
+usa-m-000436,Baitul Ata Mosque - Ahmadiyya Muslim Community,Allentown,PA,sunni,true
+usa-m-000437,Baitul Ateeq Masjid and Muslim Center,Woodside,NY,sunni,true
+usa-m-000438,Baitul Hafeez,Saint Louis,MO,sunni,true
+usa-m-000439,Baitul Hamd,East Elmhurst,NY,sunni,true
+usa-m-000440,Baitul Hamd Mosque,Brooklyn,NY,sunni,true
+usa-m-000441,Baitul Ihsan Mosque,East Syracuse,NY,sunni,true
+usa-m-000442,Baitul Ilm Academy,Streamwood,IL,shia,true
+usa-m-000443,Baitul Islam Masjid & Community Center,Bronx,NY,sunni,true
+usa-m-000444,Baitul Jannah Jame Masjid - Cheektowaga Muslim Center,Cheektowaga,NY,sunni,true
+usa-m-000445,Baitul Jannah Zame Masjid and Muslim Community Center,Brooklyn,NY,sunni,true
+usa-m-000446,Baitul Ma'mur Islamic Center,Alexandria,VA,sunni,true
+usa-m-000447,Baitul Maamur Jame Masjid,Bronx,NY,sunni,true
+usa-m-000448,Baitul Mamur Mosque and Community Center,Brooklyn,NY,sunni,true
+usa-m-000449,Baitul Mukarram Masjid - Islamic Center & Mosque,Danbury,CT,sunni,true
+usa-m-000450,Baitul Mukarram Mosque,Detroit,MI,sunni,true
+usa-m-000451,Baitul Mukarram Mosque,Arlington,VA,sunni,true
+usa-m-000452,Baitul Mukarram Mosque,Lakewood,CA,sunni,true
+usa-m-000453,Baitul Muqeet Mosque - Ahmadiyya Muslim Community,Round Rock,TX,sunni,true
+usa-m-000454,Baitul Qadir Mosque,Greenfield,WI,sunni,true
+usa-m-000455,Baitul Tawheed Mosque Mezquita,Las Vegas,NV,sunni,true
+usa-m-000456,Baitun Naseer Mosque - Ahmadiyya Muslim Community,Rochester,NY,sunni,true
+usa-m-000457,Baitun Noor Masjid,Jamaica,NY,sunni,true
+usa-m-000458,Baitun Noor Mosque,East Elmhurst,NY,sunni,true
+usa-m-000459,Baitus Salaam Mosque,Springfield,MA,sunni,true
+usa-m-000460,Baitus Salam Mosque,Brooklyn,NY,sunni,true
+usa-m-000461,Baitus Samee Mosque,Houston,TX,sunni,true
+usa-m-000462,Baitush Sharf Jame Masjid & Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000463,Bangla Bazar Jame Masjid,Bronx,NY,sunni,true
+usa-m-000464,Bangladesh Muslim Center Jame Masjid,Brooklyn,NY,sunni,true
+usa-m-000465,Barkaat Ul Quran,Irving,TX,sunni,true
+usa-m-000466,Barrow Islamic Center,Utqiagvik,AK,sunni,true
+usa-m-000467,Bartlesville Islamic center,Bartlesville,OK,sunni,true
+usa-m-000468,Bartlett Muslim Society,Barlett,TN,sunni,true
+usa-m-000469,Basic Islamic Center Inc,Buffalo,NY,sunni,true
+usa-m-000470,Bawa Muhaiyaddeen Fellowship - Mosque,Philadelphia,PA,sunni,true
+usa-m-000471,Bay County Islamic Society - BCIS,Panama City,FL,sunni,true
+usa-m-000472,Bay Ridge Community Development Center Inc,Brooklyn,NY,sunni,true
+usa-m-000473,Bay View Islamic Unity Center,San Francisco,CA,sunni,true
+usa-m-000474,Baymeadows Islamic Center,Jacksonville,FL,sunni,true
+usa-m-000475,Bayonne Mosque and Community Center,Bayonne,NJ,sunni,true
+usa-m-000476,Bayt Al Karim Islamic Center,Fort Worth,TX,sunni,true
+usa-m-000477,Bayt Ul Mamur Mosque,Manchester,CT,sunni,true
+usa-m-000478,Baytul Iman Academy Masjid - Musallah,Old Bridge,NJ,sunni,true
+usa-m-000479,Beaumont Mosque – Islamic Society of Triplex - IST,Beaumont,TX,sunni,true
+usa-m-000480,Beit El Maqdis Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000481,Bellevue Islamic Center,Bellevue,NE,sunni,true
+usa-m-000482,Bellmore Mosque,North Bellmore,NY,sunni,true
+usa-m-000483,Bensalem Jame Masjid,Philadelphia,PA,sunni,true
+usa-m-000484,Bentonville Islamic Center,Bentonville,AR,sunni,true
+usa-m-000485,Bergen County Islamic Center,Hackensack,NJ,sunni,true
+usa-m-000486,Berkeley Masjid,Berkeley,CA,sunni,true
+usa-m-000487,Berlin Mosque Islamic Association of Greater Hartford,Berlin,CT,sunni,true
+usa-m-000488,BIAW,Waterloo,IA,sunni,true
+usa-m-000489,Bilal Ibn Rabaah Mosque,Saint Louis,MO,sunni,true
+usa-m-000490,Bilal Ibn Rabah Islamic Center,Everett,WA,sunni,true
+usa-m-000491,Bilal Islamic Center,Kalamazoo,MI,sunni,true
+usa-m-000492,Bilal Islamic Center,Linda,CA,sunni,true
+usa-m-000493,Bilal Mosque,Farmingdale,NY,sunni,true
+usa-m-000494,Bilal Mosque,Portland,ME,sunni,true
+usa-m-000495,Bilal Mosque,Buffalo,NY,sunni,true
+usa-m-000496,Bilal Mosque,Jersey City,NJ,sunni,true
+usa-m-000497,Bilal Mosque,Ypsilanti,MI,sunni,true
+usa-m-000498,Bilal Mosque,Richmond,VA,sunni,true
+usa-m-000499,Bilal Mosque,Beaverton,OR,sunni,true
+usa-m-000500,Billerica Islamic Center,Billerica,MA,sunni,true
+usa-m-000501,Billings Islamic Center,Billings,MT,sunni,true
+usa-m-000502,Biloxi Islamic Center,Biloxi,MS,sunni,true
+usa-m-000503,Binghamton Islamic Cultural Center,Vestal,NY,sunni,true
+usa-m-000504,BIS Fairfield Islamic Center,Fairfield,AL,sunni,true
+usa-m-000505,BIS Homewood Masjid,Homewood,AL,sunni,true
+usa-m-000506,BIS Hoover Crescent Islamic Center,Hoover,AL,sunni,true
+usa-m-000507,Blossom Valley Muslim Community Center - BVMCC,San Jose,CA,sunni,true
+usa-m-000508,Bonita Springs Islamic Center,Bonita Springs,FL,sunni,true
+usa-m-000509,Boroughs Islamic Society,Westborough,MA,sunni,true
+usa-m-000510,Boroughs Islamic Society,Westborough,MA,sunni,true
+usa-m-000511,Bosnia & Herzegovina Culture Center BHCC,Rochester,NY,sunni,true
+usa-m-000512,Bosniak American Islamic Center of Louisville,Louisville,KY,sunni,true
+usa-m-000513,Bošniak Community Center,Hackettstown,NJ,sunni,true
+usa-m-000514,Bosniak Islamic Cultural Center,Grand Rapids,MI,sunni,true
+usa-m-000515,Bosniaks Islamic Center Dallas-Fort Worth - BIC,Wylie,TX,sunni,true
+usa-m-000516,Bosniaks Society of Boston,Revere,MA,sunni,true
+usa-m-000517,Bosnian American Islamic Cultural Center,Hartford,CT,sunni,true
+usa-m-000518,Bosnian Educational Cultural Center of Colorado,Denver,CO,sunni,true
+usa-m-000519,Bosnian Herzegovinian Islamic Center New York,Long Island City,NY,sunni,true
+usa-m-000520,Bosnian Islamic Center of Saint Louis,Saint Louis,MO,sunni,true
+usa-m-000521,Bosnian Islamic Center ZemZem,Des Moines,IA,sunni,true
+usa-m-000522,Bosnian Islamic Cultural Center of Erie,Erie,PA,sunni,true
+usa-m-000523,Bosnian Masjid / Bosanski Mesdžid,Pinellas Park,FL,sunni,true
+usa-m-000524,Bosphorus Center - Masjid,Garden Grove,CA,sunni,true
+usa-m-000525,Boston Islamic Center,Roxbury,MA,sunni,true
+usa-m-000526,Brand Lane Islamic Center - Masjid As Sabireen,Stafford,TX,sunni,true
+usa-m-000527,Brentwood Muslim Community Center - BMCC,Brentwood,CA,sunni,true
+usa-m-000528,Bridgeport Islamic Community Center,Bridgeport,CT,sunni,true
+usa-m-000529,Bridgeton Islamic Center,Bridgeton,NJ,sunni,true
+usa-m-000530,Broadway Masjid & Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000531,Bronx Islamic Cultural Center - Masjid Annasr,Bronx,NY,sunni,true
+usa-m-000532,Bronx Islamic Cultural Center - Masjid Bilal Inc,Bronx,NY,sunni,true
+usa-m-000533,Bronx Muslim Center USA Inc,Bronx,NY,sunni,true
+usa-m-000534,Brooklyn Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000535,Brooklyn Park Islamic Center,Brooklyn Park,MN,sunni,true
+usa-m-000536,Broomfield Islamic Community Center - Masjid Al Barakah,Broomfield,CO,sunni,true
+usa-m-000537,Buffalo Islamic Center,Buffalo,NY,sunni,true
+usa-m-000538,Buffalo Islamic Cultural Center,Buffalo,NY,sunni,true
+usa-m-000539,Buffalo Muslim Center - BMC,Buffalo,NY,sunni,true
+usa-m-000540,Buffalo Muslim Community Center,Buffalo,NY,sunni,true
+usa-m-000541,Bulloch County Islamic Center,Statesboro,GA,sunni,true
+usa-m-000542,Burmese Islamic Association of Colorado - Masjid Al Ansar,Aurora,CO,sunni,true
+usa-m-000543,Burmese Islamic Center of Milwaukee,Milwaukee,WI,sunni,true
+usa-m-000544,Burnsville Mosque,Burnsville,MN,sunni,true
+usa-m-000545,California Islamic Center,Lodi,CA,sunni,true
+usa-m-000546,Canarsie Islamic Services Inc,Brooklyn,NY,sunni,true
+usa-m-000547,Canton Islamic Center,Canton Township,MI,sunni,true
+usa-m-000548,Castle Hill Jame Masjid,Bronx,NY,sunni,true
+usa-m-000549,Castlehill Ideal Islamic center,Bronx,NY,sunni,true
+usa-m-000550,CDR Mosque,Warren,MI,sunni,true
+usa-m-000551,Center City Mosque,Philadelphia,PA,sunni,true
+usa-m-000552,Center for Islamic Studies Inc,Queens Village,NY,sunni,true
+usa-m-000553,Centerville Islamic Center,Fremont,CA,sunni,true
+usa-m-000554,Central Coast Islamic Center of Santa Maria,Santa Maria,CA,sunni,true
+usa-m-000555,Central Minnesota Islamic Center - Masjid Imaam Al Shaafi'i,Saint Cloud,MN,sunni,true
+usa-m-000556,Central Mosque of Charleston,Charleston,SC,sunni,true
+usa-m-000557,Central Park Jame Masjid,Buffalo,NY,sunni,true
+usa-m-000558,Central Valley Crescent,Modesto,CA,sunni,true
+usa-m-000559,Chicago Islamic Center,Chicago,IL,sunni,true
+usa-m-000560,Chicago Mosque,Chicago,IL,sunni,true
+usa-m-000561,Chico Islamic Center - Chico Mosque,Chico,CA,sunni,true
+usa-m-000562,Children of Adam | Center of Excellence,Huntington Station,NY,sunni,true
+usa-m-000563,Chino Valley Islamic Center - CVIC,Chino,CA,sunni,true
+usa-m-000564,Cincinnati Masjid & Foundation,Cincinnati,OH,sunni,true
+usa-m-000565,Circassian Mosque,Wayne,NJ,sunni,true
+usa-m-000566,Clarendon Islamic Center,Arlington,VA,sunni,true
+usa-m-000567,Clear Lake Islamic Center - Masjid,Houston,TX,sunni,true
+usa-m-000568,Clear Lake Jama Masjid IQRA Center,Houston,TX,sunni,true
+usa-m-000569,Clifton Mosque,Cincinnati,OH,sunni,true
+usa-m-000570,CMCC Colorado Muslims Community Center,Aurora,CO,sunni,true
+usa-m-000571,CMI,Sacramento,CA,sunni,true
+usa-m-000572,College Point Masjid,College Point,NY,sunni,true
+usa-m-000573,College View Da'wah Islamic Institute,Columbia,SC,sunni,true
+usa-m-000574,Columbia Muslim Prayer Room,New York,NY,sunni,true
+usa-m-000575,Community Masjid of Atlanta,Atlanta,GA,sunni,true
+usa-m-000576,Community of Bosniaks Georgia,Lawrenceville,GA,sunni,true
+usa-m-000577,Conemaugh Johnstown Islamic Center,Johnstown,PA,sunni,true
+usa-m-000578,Crescent Center,Cliffside Park,NJ,sunni,true
+usa-m-000579,Crescent Community Center,Virginia Beach,VA,sunni,true
+usa-m-000580,Crescent Islamic Center,Chantilly,VA,sunni,true
+usa-m-000581,Crossroads Islamic Center of Oklahoma,Oklahoma City,OK,sunni,true
+usa-m-000582,Cultural & Religious Center - CRC,North Royalton,OH,sunni,true
+usa-m-000583,Cumberland Culture Center - Al Rahman Mosque,Portland,ME,sunni,true
+usa-m-000584,CVIC - Chagrin Valley Islamic Center,Solon,OH,sunni,true
+usa-m-000585,Cypress Islamic Center,Cypress,TX,sunni,true
+usa-m-000586,Daar Ul Ehsaan USA,Bristol,CT,sunni,true
+usa-m-000587,Daarul Rehmat,Rahway,NJ,sunni,true
+usa-m-000588,Daata Islamic Centre,Alexandria,VA,sunni,true
+usa-m-000589,Dahira Touba - Baltimore,Baltimore,MD,sunni,true
+usa-m-000590,Dallas Ft Worth Islamic Center,Irving,TX,sunni,true
+usa-m-000591,Dallas Islamic Foundation,Duncanville,TX,sunni,true
+usa-m-000592,Dallas Muslim Community Center - DMCC,Sachse,TX,sunni,true
+usa-m-000593,Dallas Sufi Center,Plano,TX,sunni,true
+usa-m-000594,Daly City Islamic Center,Daly City,CA,sunni,true
+usa-m-000595,Danbury Masjid - Islamic Society of Western Connecticut,Danbury,CT,sunni,true
+usa-m-000596,Dar Abi Bakr Islamic Center,Mankato,MN,sunni,true
+usa-m-000597,Dar Al Arqam Masjid,Glenn Heights,TX,sunni,true
+usa-m-000598,Dar Al Farooq - Islamic Center,Minneapolis,MN,sunni,true
+usa-m-000599,Dar Al Hadith USA Islamic Educational Center,Wayne,NJ,sunni,true
+usa-m-000600,Dar Al Hijrah Islamic Center,Falls Church,VA,sunni,true
+usa-m-000601,Dar Al Hijrah Mosque,Minneapolis,MN,sunni,true
+usa-m-000602,Dar Al Ibada,Bailey's Crossroads,VA,sunni,true
+usa-m-000603,Dar al Islam,Albiquiu,NM,sunni,true
+usa-m-000604,Dar Al Islam of Boston,Boston,MA,sunni,true
+usa-m-000605,Dar Al Qalam Islamic Center,Minneapolis,MN,sunni,true
+usa-m-000606,Dar Al Salaam,Woodbridge,VA,sunni,true
+usa-m-000607,Dar Al Salam Islamic Center - DAIC,Westland,MI,sunni,true
+usa-m-000608,Dar Al Taqwa Islamic Center,Flushing,NY,sunni,true
+usa-m-000609,Dar Al Taqwa Mosque,Columbia,MD,sunni,true
+usa-m-000610,Dar Al-Hijra,Jacksonville,FL,sunni,true
+usa-m-000611,Dar Alhikma Islamic Center,Fort Worth,TX,sunni,true
+usa-m-000612,Dar Alhuda Inc,Hurst,TX,sunni,true
+usa-m-000613,Dar Alnoor Islamic Community Center,Manassas,VA,sunni,true
+usa-m-000614,Dar e Batool Shia Islamic Center,Fremont,CA,shia,true
+usa-m-000615,Dar e Hussain,Fieldsboro,NJ,shia,true
+usa-m-000616,Dar e Zainab,Livingston,NJ,sunni,true
+usa-m-000617,Dar E Zehra Islamic Center,West Chester Township,OH,shia,true
+usa-m-000618,Dar El Eman Islamic Center - DEIC,Arlington,TX,sunni,true
+usa-m-000619,Dar Elsalam Islamic Center,Arlington,TX,sunni,true
+usa-m-000620,Dar ul Iman Mosque - Saint Charles - MCCSC,Saint Charles,MO,sunni,true
+usa-m-000621,Dar Ul Islam Mosque,Elizabeth,NJ,sunni,true
+usa-m-000622,Dar Us Salaam,College Park,MD,sunni,true
+usa-m-000623,Dar us Salam Center,Burnsville,MN,sunni,true
+usa-m-000624,Dar Us Sunnah Masjid,Evanston,IL,sunni,true
+usa-m-000625,Dar-e-Zahra,Bessemer,AL,shia,true
+usa-m-000626,Darou Salam Islamic Community Inc,Bronx,NY,sunni,true
+usa-m-000627,Daru Us Salaam Mosque,Buffalo,NY,sunni,true
+usa-m-000628,Darul Arqum Islamic Center,Ames,IA,sunni,true
+usa-m-000629,Darul Falah Islamic Center,Tustin,CA,sunni,true
+usa-m-000630,Darul Hidayah,Jackson Heights,NY,sunni,true
+usa-m-000631,Darul Hikmah Islamic Center,Alexandria,VA,sunni,true
+usa-m-000632,Darul Huda,Springfield,VA,sunni,true
+usa-m-000633,Darul Huda Masjid,Snellville,GA,sunni,true
+usa-m-000634,Darul Iman,Madison,WI,sunni,true
+usa-m-000635,Darul Islah,Teaneck,NJ,sunni,true
+usa-m-000636,Darul Islam of Ocala,Ocala,FL,sunni,true
+usa-m-000637,Darul Jannah Masjid & Islamic Center Inc,Brooklyn,NY,sunni,true
+usa-m-000638,"Darul Uloom Al Sacramento, South Sacramento",Sacramento,CA,sunni,true
+usa-m-000639,Darul Uloom Institute,Pembroke Pines,FL,sunni,true
+usa-m-000640,Darul Uloom Islamic Center,Saint Paul,MN,sunni,true
+usa-m-000641,Darul Uloom Michigan,Warren,MI,sunni,true
+usa-m-000642,Darul uloom Mosque,Kissimmee,FL,sunni,true
+usa-m-000643,Darul Uloom New Jersey,Paterson,NJ,sunni,true
+usa-m-000644,Darul Uloom New York - DUNY,Jamaica,NY,sunni,true
+usa-m-000645,Darul Uloom Niagara Falls NY,Niagara Falls,NY,sunni,true
+usa-m-000646,Darul Uloom Texas Masjid,Sugar Land,TX,sunni,true
+usa-m-000647,Darul Wahid Masjid,Jamaica,NY,sunni,true
+usa-m-000648,Darululoom San Diego Masjid - Crecent Academy,San Diego,CA,sunni,true
+usa-m-000649,Darun Naeim Institute - Sugar Hill Masjid,Sugar Hill,GA,sunni,true
+usa-m-000650,Darus Salaam Mosque New York Inc,Jamaica,NY,sunni,true
+usa-m-000651,Darus Salam Masjid LLC,Lawrenceville,GA,sunni,true
+usa-m-000652,Darus Sunnah New York ,Bronx,NY,sunni,true
+usa-m-000653,Darussalam Masjid,San Francisco,CA,sunni,true
+usa-m-000654,Davenport Muslim Prayer,Davenport,FL,sunni,true
+usa-m-000655,Dawoodi Bohra Al Masjid Al Burhani Anjuman e Najmi,Farmington Hills,MI,sunni,true
+usa-m-000656,Dawoodi Bohra Al Masjid Al Ezzi Anjuman e Burhhanee,Woodland Hills,CA,shia,true
+usa-m-000657,Dawoodi Bohra Al Masjid Al Fakhri - Anjuman e Hakimi Bakersfield,Bakersfield,CA,shia,true
+usa-m-000658,Dawoodi Bohra Al Masjid Al Mohammedi Anjuman-e-Najmi,Fremont,CA,sunni,true
+usa-m-000659,Dawoodi Bohra Al Masjid Al Saifee Anjuman e Najmi Dallas Inc,Irving,TX,sunni,true
+usa-m-000660,Dawoodi Bohra Al Masjid Al Zainee Anjuman e Burhani,East Brunswick,NJ,sunni,true
+usa-m-000661,Dawoodi Bohra Anjuman-e-Ezzi,North Billerica,MA,shia,true
+usa-m-000662,Dawoodi Bohra Markaz Anjuman e Burhani,Pflugerville,TX,sunni,true
+usa-m-000663,Dayton Community Masjid Center,Dayton,OH,sunni,true
+usa-m-000664,DeLand Islamic Center,DeLand,FL,sunni,true
+usa-m-000665,Denver Islamic Society,Denver,CO,sunni,true
+usa-m-000666,Desert Islamic Society,Palm Desert,CA,sunni,true
+usa-m-000667,Desoto House of Peace - Mosque & Community Center,DeSoto,TX,sunni,true
+usa-m-000668,Dibra Community Center of NJ,Freehold,NJ,sunni,true
+usa-m-000669,Dickinson Muslim Community,Dickinson,ND,sunni,true
+usa-m-000670,Dinuba Islamic Center,Dinuba,CA,sunni,true
+usa-m-000671,Ditmas Park Mosque,Brooklyn,NY,sunni,true
+usa-m-000672,Diyanet Center of America,Lanham,MD,sunni,true
+usa-m-000673,Diyanet Dallas Camii,Richardson,TX,sunni,true
+usa-m-000674,Diyanet Imam Buhari Mosque Cami,Springfield,MA,sunni,true
+usa-m-000675,Diyanet Mosque of Bergen,Cliffside Park,NJ,sunni,true
+usa-m-000676,Diyanet Mosque of Kentucky Ahiska Turks,Louisville,KY,sunni,true
+usa-m-000677,Diyanet Mosque of Lancaster Ahiska Turks,Lancaster,PA,sunni,true
+usa-m-000678,Diyanet Mosque of New Haven,New Haven,CT,sunni,true
+usa-m-000679,Diyanet Mosque of Springfield Ahiskan Turks,West Springfield,MA,sunni,true
+usa-m-000680,Downtown Islamic Center,Buffalo,NY,sunni,true
+usa-m-000681,Duncanville Islamic Center,Duncanville,TX,sunni,true
+usa-m-000682,Dyewood Islamic Center,Flint Township,MI,sunni,true
+usa-m-000683,East Elmhurst Jame e Masjid,East Elmhurst,NY,sunni,true
+usa-m-000684,East Grand Forks Islamic Center,East Grand Forks,MN,sunni,true
+usa-m-000685,East Mesa Mosque,Mesa,AZ,sunni,true
+usa-m-000686,East Montgomery Islamic Center - EMIC,Montgomery,AL,sunni,true
+usa-m-000687,East Plano Islamic Center - EPIC Masjid,Plano,TX,sunni,true
+usa-m-000688,East Texas Islamic Association - Commerce Mosque,Commerce,TX,sunni,true
+usa-m-000689,East Texas Islamic Society - ETIS,Tyler,TX,sunni,true
+usa-m-000690,Eastern Twin Cities Islamic Center,Afton,MN,sunni,true
+usa-m-000691,Easton Phillipsburg Muslim Association,Easton,PA,sunni,true
+usa-m-000692,Easton Phillipsburg Muslim Association,Easton,PA,sunni,true
+usa-m-000693,Eden Prairie Islamic Center,Minnetonka,MN,sunni,true
+usa-m-000694,Edison Muslim Community Center - EMCC,Edison,NJ,sunni,true
+usa-m-000695,El Farouq Mosque,Houston,TX,sunni,true
+usa-m-000696,El Zahra Islamic Center,Midland Park,NJ,sunni,true
+usa-m-000697,Elmhurst Islamic Center Inc,Elmhurst,NY,sunni,true
+usa-m-000698,Elmhurst Muslim Center Inc,Elmhurst,NY,sunni,true
+usa-m-000699,Elmont Islamic Center,Elmont,NY,sunni,true
+usa-m-000700,EMCNC,Oakland,CA,sunni,true
+usa-m-000701,Endicott Islamic Center,Endicott,NY,sunni,true
+usa-m-000702,Erie Islamic Center - Masjid Al Quds,Erie,CO,sunni,true
+usa-m-000703,Ershad Center,Miami,FL,sunni,true
+usa-m-000704,Ertugrul Gazi Masjid,Redwood City,CA,sunni,true
+usa-m-000705,Es Salaam Mosque,Chandler,AZ,sunni,true
+usa-m-000706,Es Salam Mosque,Hartford,CT,sunni,true
+usa-m-000707,Ethiopian Muslims Association of Seattle,SeaTac,WA,sunni,true
+usa-m-000708,Everett Masjid,Everett,WA,sunni,true
+usa-m-000709,Evergreen Islamic Center - EIC Masjid,San Jose,CA,sunni,true
+usa-m-000710,Expo Mosque,Houston,TX,sunni,true
+usa-m-000711,Fairbanks Mosque,Fairbanks,AK,sunni,true
+usa-m-000712,Faith Unity Islamic Center,Bensalem,PA,sunni,true
+usa-m-000713,Faizan e Madinah,Brooklyn,NY,sunni,true
+usa-m-000714,Faizan E Madinah - Riverside Masjid,Riverside,CA,sunni,true
+usa-m-000715,Faizan E Madinah Baltimore,Woodlawn,MD,sunni,true
+usa-m-000716,Faizan E Madinah Chicago - West Ridge,Chicago,IL,sunni,true
+usa-m-000717,Faizan E Madinah Masjid & Dar Ul Madinah - Islamic Elementary School,Sacramento,CA,sunni,true
+usa-m-000718,Faizan E Madinah Miami Islamic Center,Miami,FL,sunni,true
+usa-m-000719,Faizane madina New Orleans La,Saint Rose,LA,sunni,true
+usa-m-000720,Farmington Valley American Muslim Center Inc,Avon,CT,sunni,true
+usa-m-000721,Fath - E- Azeem Mosque,Zion,IL,sunni,true
+usa-m-000722,Fatih Masjid,Houston,TX,sunni,true
+usa-m-000723,Fatih Mosque,Brooklyn,NY,sunni,true
+usa-m-000724,Fatima Alzahraa Mosque,Lake Ronkonkoma,NY,sunni,true
+usa-m-000725,Fatima Islamic Society,Canoga Park,CA,shia,true
+usa-m-000726,Fazl E Umar Mosque,Dayton,OH,sunni,true
+usa-m-000727,Fiji Jamaat ul Islam Mosque of America,South San Francisco,CA,sunni,true
+usa-m-000728,Findlay Mosque,Findlay,OH,sunni,true
+usa-m-000729,First Cleveland Mosque,Cleveland,OH,sunni,true
+usa-m-000730,First Hijra Muslim Community Center,Washington,DC,sunni,true
+usa-m-000731,First Islamic Center of Augusta,Augusta,GA,sunni,true
+usa-m-000732,Fitchburg Islamic Center - Al Noor Masjid,Fitchburg,MA,sunni,true
+usa-m-000733,Fitchburg Islamic Center - Al-Noor Masjid,Fitchburg,MA,sunni,true
+usa-m-000734,Five Points Islamic Center,Atlanta,GA,sunni,true
+usa-m-000735,Flint Islamic Center,Swartz Creek,MI,sunni,true
+usa-m-000736,Florence Islamic Center,Florence,AL,sunni,true
+usa-m-000737,Florida Islamic Center,Minneola,FL,sunni,true
+usa-m-000738,Florida Islamic Center,Clermont,FL,sunni,true
+usa-m-000739,Fort Morgan Islamic Center,Fort Morgan,CO,sunni,true
+usa-m-000740,Fourteen Stars Education Center,Thonotosassa,FL,shia,true
+usa-m-000741,Fox Valley Islamic Center,Neenah,WI,sunni,true
+usa-m-000742,Fredericksburg Muslim Community,Fredericksburg,VA,sunni,true
+usa-m-000743,Friday Mosque - Masjid Juma,Buffalo,NY,sunni,true
+usa-m-000744,Friday Prayer Hall,Allendale,MI,sunni,true
+usa-m-000745,Fullerton Masjid - FMCC,Fullerton,CA,sunni,true
+usa-m-000746,Fultoli Islamic Center,Jamaica,NY,sunni,true
+usa-m-000747,Fultoli Jame masjid & islamic institute ozone park inc.,Ozone Park,NY,sunni,true
+usa-m-000748,Fulton Mosque,Sacramento,CA,sunni,true
+usa-m-000749,Futa Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000750,Futa Islamic Center Inc,Bronx,NY,sunni,true
+usa-m-000751,Futa Islamic Center of Harlem,New York,NY,sunni,true
+usa-m-000752,Future ICQC Masjid,Frisco,TX,sunni,true
+usa-m-000753,Gadsden Islamic Society,Gadsden,AL,sunni,true
+usa-m-000754,Gainesville Islamic Cultural Center,Gainesville,GA,sunni,true
+usa-m-000755,Gallup Islamic Center,Gallup,NM,sunni,true
+usa-m-000756,Garden State Islamic Center,Vineland,NJ,sunni,true
+usa-m-000757,Gates Ave Masjid,Brooklyn,NY,sunni,true
+usa-m-000758,Gawsiyah Masjid,Bronx,NY,sunni,true
+usa-m-000759,GCLEA,Cherry Hill Township,NJ,sunni,true
+usa-m-000760,Georgetown Islamic Center - GIC,Round Rock,TX,sunni,true
+usa-m-000761,Georgetown University: Masjid Yarrow Mamout,Washington,DC,sunni,true
+usa-m-000762,Georgia Islamic Institute,Lawrenceville,GA,sunni,true
+usa-m-000763,Gibrael Mosque,San Gabriel,CA,sunni,true
+usa-m-000764,Glasgow Mosque & Education Center,Newark,DE,sunni,true
+usa-m-000765,Glassboro Islamic Center,Glassboro,NJ,sunni,true
+usa-m-000766,Grand Blanc Islamic Center,Grand Blanc,MI,sunni,true
+usa-m-000767,Grand Islamic Center of Saint Louis,Saint Louis,MO,sunni,true
+usa-m-000768,Grand Island Islamic Center,Grand Island,NE,sunni,true
+usa-m-000769,Grand Mosque of Oklahoma City,Oklahoma City,OK,sunni,true
+usa-m-000770,Grand Prairie Masjid,Grand Prairie,TX,sunni,true
+usa-m-000771,Granger Musalla,Granger,IN,sunni,true
+usa-m-000772,Greater Cincinnati Islamic Association - GCIA,Cincinnati,OH,sunni,true
+usa-m-000773,Greeley Islamic Center,Greeley,CO,sunni,true
+usa-m-000774,Greenpoint Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000775,Greenpoint Muslim Community Center,Brooklyn,NY,sunni,true
+usa-m-000776,Greenview Madani Center,Lawrenceville,GA,sunni,true
+usa-m-000777,Greenville Musallah,Greenville,TX,sunni,true
+usa-m-000778,Greenway Mosque,Peoria,AZ,sunni,true
+usa-m-000779,Guiding Light Islamic Center,Louisville,KY,sunni,true
+usa-m-000780,Gulab Banu Islamic Center,Brooklyn,NY,sunni,true
+usa-m-000781,Gulfport Islamic Center,Gulfport,MS,sunni,true
+usa-m-000782,Gulzar e Madinah Masjid,Bronx,NY,sunni,true
+usa-m-000783,Gunn Highway Islamic Center,Tampa,FL,sunni,true
+usa-m-000784,Gwynn Oak Islamic Community,Baltimore,MD,sunni,true
+usa-m-000785,Hadrath Shahjalal Masjid,Astoria,NY,sunni,true
+usa-m-000786,Haj Nabih Masjid,Houston,TX,sunni,true
+usa-m-000787,Hamidiye Education Center,Rochester,NY,sunni,true
+usa-m-000788,Hamidiye Mosque,Willingboro,NJ,sunni,true
+usa-m-000789,Hampshire Mosque,Hadley,MA,sunni,true
+usa-m-000790,Hamza Jamia Mosque,Sacramento,CA,sunni,true
+usa-m-000791,Hamza Mosque,Brooklyn,NY,sunni,true
+usa-m-000792,Hamzah Islamic Center,Alpharetta,GA,sunni,true
+usa-m-000793,Hanafi Islamic Center,New Port Richey,FL,sunni,true
+usa-m-000794,Harford County Education Society - HCES - Masjid Al Falaah,Abingdon,MD,sunni,true
+usa-m-000795,Harford Islamic Center,Bel Air,MD,sunni,true
+usa-m-000796,Harlem Islamic Center,New York,NY,sunni,true
+usa-m-000797,Harlem Islamic Cultural Center,New York,NY,sunni,true
+usa-m-000798,Harvard Islamic Society Prayer Room,Cambridge,MA,sunni,true
+usa-m-000799,Hasbuna Allahu Islamic Center,Baltimore,MD,sunni,true
+usa-m-000800,Hatfield Jame Mosque,Hatfield,PA,sunni,true
+usa-m-000801,Hawa Masjid,Houston,TX,sunni,true
+usa-m-000802,Hazrat Abu Bakar Siddik Masjid,Lockport,NY,sunni,true
+usa-m-000803,Hazrat Abu Bakr Siddique,Flushing,NY,sunni,true
+usa-m-000804,Hazrat Belal Jame Masjid,Brooklyn,NY,sunni,true
+usa-m-000805,Henry County Islamic Center - Stockbridge Masjid,Stockbridge,GA,sunni,true
+usa-m-000806,Hidayah Center,Rochester,NY,sunni,true
+usa-m-000807,High Desert Islamic Society,Victorville,CA,sunni,true
+usa-m-000808,High Point Mosque,Seattle,WA,sunni,true
+usa-m-000809,HighBridge Islamic Center,Bronx,NY,sunni,true
+usa-m-000810,Hillside Islamic Center - HIC,New Hyde Park,NY,sunni,true
+usa-m-000811,HMCC Heathrow Muslim Community Center,Lake Mary,FL,sunni,true
+usa-m-000812,Hoda Center,Gainesville,FL,sunni,true
+usa-m-000813,Hollis Muslim Center,Saint Albans,NY,sunni,true
+usa-m-000814,Hollis Muslim Community Center - HMCC,Saint Albans,NY,sunni,true
+usa-m-000815,Hollywood Masjid,Los Angeles,CA,sunni,true
+usa-m-000816,House of Belief Dar Al Iman Islamic center,Albuquerque,NM,sunni,true
+usa-m-000817,House of Peace Westville Islamic Community Center Masjid,Woodbury,NJ,sunni,true
+usa-m-000818,House of Wisdom - Dar Ul Hikmah,Greenfield,WI,shia,true
+usa-m-000819,Houston Masjid of Al-Islam,Houston,TX,sunni,true
+usa-m-000820,Hudson Islamic Center,Hudson,NY,sunni,true
+usa-m-000821,Hudson Valley Islamic Community Center,Mohegan Lake,NY,sunni,true
+usa-m-000822,Hunter Muslim Student Association,New York,NY,sunni,true
+usa-m-000823,Huntsville Islamic Center,Huntsville,AL,sunni,true
+usa-m-000824,Husaynia Islamic Society of Seattle,Snohomish,WA,shia,true
+usa-m-000825,Hussainiah of San Antonio,San Antonio,TX,sunni,true
+usa-m-000826,Hussainya Center of Las Vegas,Las Vegas,NV,shia,true
+usa-m-000827,Husseini Islamic Center of Florida,Sanford,FL,sunni,true
+usa-m-000828,IAGD,Rochester Hills,MI,sunni,true
+usa-m-000829,Ibaadu’rrahman Central Mosque,Brooklyn,NY,sunni,true
+usa-m-000830,Ibadurahman Mosque,Phoenix,AZ,sunni,true
+usa-m-000831,IbnuTaymiyah Masjid and Islamic Center,Columbus,OH,sunni,true
+usa-m-000832,Ibrahim Islamic Center & Mosque,Houston,TX,sunni,true
+usa-m-000833,Ibrahim Khalilullah Islamic Center -IKIC,Fremont,CA,sunni,true
+usa-m-000834,Ibrahim Masjid & Communty Center,Jamaica,NY,sunni,true
+usa-m-000835,Ibrahim Mosque,Newark,NJ,sunni,true
+usa-m-000836,Ibrahim Mosque,Ypsilanti,MI,sunni,true
+usa-m-000837,Ibrahim Mosque,Kingman,AZ,sunni,true
+usa-m-000838,Ibrahim Mosque,Los Alamos,NM,sunni,true
+usa-m-000839,Ibrahim's Masjed,Columbus,GA,sunni,true
+usa-m-000840,ICBMN - Islamic Community of Bosniaks in Minnesota,Minneapolis,MN,sunni,true
+usa-m-000841,ICC - Islamic Center of Coppell,Coppell,TX,sunni,true
+usa-m-000842,ICC Behar,Grand Rapids,MI,sunni,true
+usa-m-000843,ICCNY Islamic Center Masjid,Stamford,CT,sunni,true
+usa-m-000844,ICCS,Coral Springs,FL,sunni,true
+usa-m-000845,ICD Islamic Center Decatur,Decatur,AL,sunni,true
+usa-m-000846,ICM - Islamic Center of Murfreesboro,Murfreesboro,TN,sunni,true
+usa-m-000847,ICN Bellevue Mosque,Nashville,TN,sunni,true
+usa-m-000848,ICNA Center,Richardson,TX,sunni,true
+usa-m-000849,ICNA Masjid Dawah,Bonifay,FL,sunni,true
+usa-m-000850,ICNA Nassau Community Center,New Hyde Park,NY,sunni,true
+usa-m-000851,ICNA Virgina Islamic Center,Alexandria,VA,sunni,true
+usa-m-000852,ICON - Islamic Center of Nassau,Wantagh,NY,sunni,true
+usa-m-000853,ICOPS Masjid,Lynwood,WA,sunni,true
+usa-m-000854,ICS Masjid Tucson,Tucson,AZ,sunni,true
+usa-m-000855,Idaho Falls Muslims,Idaho Falls,ID,sunni,true
+usa-m-000856,Idara Jaferia Islamic Center,Burtonsville,MD,shia,true
+usa-m-000857,Idris Mosque,Seattle,WA,sunni,true
+usa-m-000858,IEC Masjid of Tampa,Tampa,FL,sunni,true
+usa-m-000859,IEC of Florida,Orlando,FL,shia,true
+usa-m-000860,IFA Center,Springfield,VA,sunni,true
+usa-m-000861,Ihsan Islamic Center,Milford,OH,sunni,true
+usa-m-000862,IILM Shia Center,Plano,TX,shia,true
+usa-m-000863,Illiana Islamic Association,Highland,IN,sunni,true
+usa-m-000864,IMAAM Center,Silver Spring,MD,sunni,true
+usa-m-000865,Imam a Zamana Foundation of North America,Freehold Township,NJ,shia,true
+usa-m-000866,Imam Abu Hanifa Islamic Center - IAHIC,Tucon,AZ,sunni,true
+usa-m-000867,Imam Abu Hanifa Masjid,Sacramento,CA,sunni,true
+usa-m-000868,Imam al-Asr Masjid - Shahe Najaf Islamic Center,Alexandria,VA,shia,true
+usa-m-000869,Imam Ali Center,Springfield,VA,sunni,true
+usa-m-000870,Imam Ali Islamic center,Grand Prairie,TX,shia,true
+usa-m-000871,Imam Ali Masjid,Pennsauken,NJ,sunni,true
+usa-m-000872,Imam Ali Masjid,Lakeside,CA,shia,true
+usa-m-000873,Imam Ali Mosque - Lanour Islamic Education,Lambertville,MI,shia,true
+usa-m-000874,Imam Bukhary Masjid,North Hills,CA,sunni,true
+usa-m-000875,Imam Hussain Islamic Center,Boise,ID,shia,true
+usa-m-000876,Imam Mahdi Education Center,Dickerson,MD,sunni,true
+usa-m-000877,Imam Mehdi Center,Manakin-Sabot,VA,shia,true
+usa-m-000878,Imambargah Al Mehdi Shia Islamic Center,Bakersfield,CA,shia,true
+usa-m-000879,Imamia Organization of Pittsburgh,Pittsburgh,PA,shia,true
+usa-m-000880,IMAN Center of Kirkland,Kirkland,WA,shia,true
+usa-m-000881,Iman Cultural Center,Los Angeles,CA,sunni,true
+usa-m-000882,Iman Islamic Center,Quincy,MA,shia,true
+usa-m-000883,Iman Islamic Complex - Masjid Mu'ath Bin Jabal,Detroit,MI,sunni,true
+usa-m-000884,Imperial Valley Islamic Center,El Centro,CA,sunni,true
+usa-m-000885,Inland Valley Islamic Society - Masjid Al Takwa,Fontana,CA,sunni,true
+usa-m-000886,Interfaith Reflection Room 130B,Grand Rapids,MI,sunni,true
+usa-m-000887,Interfaith Reflection Room 166,Grand Rapids,MI,sunni,true
+usa-m-000888,Interfaith Reflection Room 2243,Allendale,MI,sunni,true
+usa-m-000889,IOCC - Islamic Outreach Center of Colorado,Denver,CO,sunni,true
+usa-m-000890,IONA,Warren,MI,sunni,true
+usa-m-000891,IQA,Carrollton,TX,shia,true
+usa-m-000892,Iqra Academy,Piscataway,NJ,sunni,true
+usa-m-000893,Iqra Center,Stockton,CA,sunni,true
+usa-m-000894,IQRA Cultural Center Inc,Endicott,NY,sunni,true
+usa-m-000895,Iqra Cultural Center Inc - Masjid MUSA,East Meadow,NY,sunni,true
+usa-m-000896,IQRA Islamic Center,Taunton,MA,sunni,true
+usa-m-000897,Iqra Learning Center,Alexandria,VA,sunni,true
+usa-m-000898,Iqra Masjid Community & Tradition,Brooklyn,NY,sunni,true
+usa-m-000899,Irshad Islamic Center,Eden Prairie,MN,sunni,true
+usa-m-000900,Isabet Mevlana Mosque,Levittown,PA,sunni,true
+usa-m-000901,ISCF Al-Jabbar Mosque,Sebring,FL,sunni,true
+usa-m-000902,ISCF Masjid Al Mutakaber,Winter Haven,FL,sunni,true
+usa-m-000903,ISGH - Riverstone Musallah,Missouri City,TX,sunni,true
+usa-m-000904,ISGH Bear Creek Islamic Center - BCIC | Masjid Al-Mustafa,Houston,TX,sunni,true
+usa-m-000905,ISGH Masjid At-Taqwa,Sugar Land,TX,sunni,true
+usa-m-000906,ISGH Masjid Hamza - Mission Bend Islamic Center,Houston,TX,sunni,true
+usa-m-000907,ISGH Masjid Savoy Wilcrest,Houston,TX,sunni,true
+usa-m-000908,ISGH Northshore Masjid Isa ibn Maryam,Houston,TX,sunni,true
+usa-m-000909,ISGH River Oaks Islamic Center - ROIC,Houston,TX,sunni,true
+usa-m-000910,ISGL - Islamic Society of Greater Lowell,Chelmsford,MA,sunni,true
+usa-m-000911,Islaamic Center of Mastic - Shirley,Shirley,NY,sunni,true
+usa-m-000912,Islah LA,Los Angeles,CA,sunni,true
+usa-m-000913,Islamia Sunna Wal Jam'Ah,Bronx,NY,sunni,true
+usa-m-000914,Islamic Ahlul Bayt Association,Austin,TX,shia,true
+usa-m-000915,"Islamic and Cultural Center ""Bosniak"" - Es Selam Mosque",Granger,IA,sunni,true
+usa-m-000916,Islamic and Education Center Ezan,Des Moines,IA,sunni,true
+usa-m-000917,Islamic Association,Covington,KY,sunni,true
+usa-m-000918,Islamic Association - Masjid Al Sabur,Rochester,NY,sunni,true
+usa-m-000919,Islamic Association - Mesquite,Mesquite,TX,sunni,true
+usa-m-000920,Islamic Association of Allen,Allen,TX,sunni,true
+usa-m-000921,Islamic Association of Carrollton - IAC,Carrollton,TX,sunni,true
+usa-m-000922,Islamic Association of Colleyville,Colleyville,TX,sunni,true
+usa-m-000923,Islamic Association of Collin County - Plano Mosque,Plano,TX,sunni,true
+usa-m-000924,Islamic Association Of Desoto Texas,DeSoto,TX,sunni,true
+usa-m-000925,Islamic Association of Erie,Erie,PA,sunni,true
+usa-m-000926,Islamic Association of Fort Worth,Watauga,TX,sunni,true
+usa-m-000927,Islamic Association of Lewisville & Flower Mound,Flower Mound,TX,sunni,true
+usa-m-000928,Islamic Association of Mid-Kansas,Wichita,KS,sunni,true
+usa-m-000929,Islamic Association of North Texas - IANT Masjid,Richardson,TX,sunni,true
+usa-m-000930,Islamic Association of Southwest Michigan - IASWM,Benton Harbor,MI,sunni,true
+usa-m-000931,Islamic Association of Tarrant County,Fort Worth,TX,sunni,true
+usa-m-000932,Islamic Association of The Finger Lakes,Horseheads,NY,sunni,true
+usa-m-000933,Islamic Association of the Shenandoah Valley - IASV,Harrisonburg,VA,sunni,true
+usa-m-000934,Islamic Association of West Virginia,South Charleston,WV,sunni,true
+usa-m-000935,Islamic Association of West Virginia - Beckley Mosque,Beckley,WV,sunni,true
+usa-m-000936,Islamic Awareness Center,Binghamton,NY,sunni,true
+usa-m-000937,Islamic Bosniaks Educational & Cultural Organization - IBECO,Portland,OR,sunni,true
+usa-m-000938,Islamic Center,Bronx,NY,sunni,true
+usa-m-000939,Islamic Center Arcata Community Center,Arcata,CA,sunni,true
+usa-m-000940,Islamic Center Bosnjak,Kansas City,MO,sunni,true
+usa-m-000941,Islamic Center Faizan E Madinah,Lynnwood,WA,sunni,true
+usa-m-000942,Islamic center Foundation CAB Of North America,Detroit,MI,sunni,true
+usa-m-000943,Islamic Center Masjid Al Sabereen,Harrisburg,PA,sunni,true
+usa-m-000944,Islamic Center Middletown,Middletown,CT,sunni,true
+usa-m-000945,Islamic Center Morris County,Rockaway,NJ,sunni,true
+usa-m-000946,Islamic Center Northern Virginia Trust,Fairfax,VA,sunni,true
+usa-m-000947,Islamic Center Northridge,Northbridge,CA,sunni,true
+usa-m-000948,Islamic Center of Alameda,Alameda,CA,sunni,true
+usa-m-000949,Islamic Center of Albany,Albany,GA,sunni,true
+usa-m-000950,Islamic Center of Ambridge,Ambridge,PA,sunni,true
+usa-m-000951,Islamic Center of America,Dearborn,MI,sunni,true
+usa-m-000952,Islamic Center of America - NJ,East Orange,NJ,sunni,true
+usa-m-000953,Islamic Center of Anaheim - ICA,Anaheim,CA,sunni,true
+usa-m-000954,Islamic Center of Antioch - Masjid AbuBakr AlSaddiq,Antioch,CA,sunni,true
+usa-m-000955,Islamic Center of Ardmore,Ardmore,OK,sunni,true
+usa-m-000956,Islamic Center of Arizona,Phoenix,AZ,sunni,true
+usa-m-000957,Islamic Center of Arvin,Arvin,CA,sunni,true
+usa-m-000958,Islamic Center Of Athens,Athens,OH,sunni,true
+usa-m-000959,Islamic Center of Aubrey,Aubrey,TX,sunni,true
+usa-m-000960,Islamic Center of Bakersfield,Bakersfield,CA,sunni,true
+usa-m-000961,Islamic Center of Baton Rouge,Baton Rouge,LA,sunni,true
+usa-m-000962,Islamic Center of Baton Rouge Masjid Al-Rahman,Baton Rouge,LA,sunni,true
+usa-m-000963,Islamic Center of Baytown,Baytown,TX,sunni,true
+usa-m-000964,Islamic Center of Beaumont,Beaumont,CA,sunni,true
+usa-m-000965,Islamic Center of Bell,Bell,CA,sunni,true
+usa-m-000966,Islamic Center of Big Rapids,Big Rapids,MI,sunni,true
+usa-m-000967,Islamic Center of Blaine,Blaine,WA,sunni,true
+usa-m-000968,Islamic Center of Bloomington,Bloomington,IN,sunni,true
+usa-m-000969,Islamic Center of Boca Raton,Boca Raton,FL,sunni,true
+usa-m-000970,Islamic Center of Boise,Broise,ID,sunni,true
+usa-m-000971,Islamic Center of Boston - Wayland,Wayland,MA,sunni,true
+usa-m-000972,Islamic Center of Bothell - ICOB,Bothell,WA,sunni,true
+usa-m-000973,Islamic Center of Boulder - ICB,Boulder,CO,sunni,true
+usa-m-000974,Islamic Center of Bowling Green,Bowling Green,KY,sunni,true
+usa-m-000975,Islamic Center of Bozeman,Bozeman,MT,sunni,true
+usa-m-000976,Islamic center of Brandon,Brandon,FL,sunni,true
+usa-m-000977,Islamic Center of Broward - ICB,Sunrise,FL,sunni,true
+usa-m-000978,Islamic Center of Brushy Creek - ICBC,Cedar Park,TX,sunni,true
+usa-m-000979,Islamic Center of Bullhead City,Bullhead City,AZ,sunni,true
+usa-m-000980,Islamic Center of Burbank,Sun Valley,CA,sunni,true
+usa-m-000981,Islamic Center of Burlington,Burlington,MA,sunni,true
+usa-m-000982,Islamic Center of Cape Cod,Osterville,MA,sunni,true
+usa-m-000983,Islamic Center of Cape Coral Masjid Quba,Cape Coral,FL,sunni,true
+usa-m-000984,Islamic Center of Carbondale,Carbondale,IL,sunni,true
+usa-m-000985,Islamic Center of Castroville,Castroville,CA,sunni,true
+usa-m-000986,Islamic Center of Cedar Rapids - ICCR,Cedar Rapids,IA,sunni,true
+usa-m-000987,Islamic Center of Centerville,Washington Township,OH,sunni,true
+usa-m-000988,Islamic Center of Central Missouri - ICCM,Columbia,MO,sunni,true
+usa-m-000989,Islamic Center of Chester,Chester,PA,sunni,true
+usa-m-000990,Islamic Center of Cheyenne Wyoming,Cheyenne,WY,sunni,true
+usa-m-000991,Islamic Center of Chicago - ICC Masjid At Takaful Islamic Society,Chicago,IL,sunni,true
+usa-m-000992,Islamic Center of Chula Vista,Chula Vista,CA,sunni,true
+usa-m-000993,Islamic Center of Claremont,Pomona,CA,sunni,true
+usa-m-000994,Islamic Center of Clark County,Vancouver,WA,sunni,true
+usa-m-000995,Islamic Center of Clarksville,Clarksville,TN,sunni,true
+usa-m-000996,Islamic Center of Clermont,Clermont,FL,sunni,true
+usa-m-000997,Islamic Center of Cleveland,Parma,OH,sunni,true
+usa-m-000998,Islamic Center of Columbia,Columbia,SC,sunni,true
+usa-m-000999,Islamic Center of Conejo Valley,Newbury Park,CA,sunni,true
+usa-m-001000,Islamic Center of Connecticut,Windsor,CT,sunni,true
+usa-m-001001,Islamic Center of Contra Costa,Concord,CA,sunni,true
+usa-m-001002,Islamic Center of Culpeper,Culpeper,VA,sunni,true
+usa-m-001003,Islamic Center of Cypress,Cypress,CA,sunni,true
+usa-m-001004,Islamic Center of Davis,Davis,CA,sunni,true
+usa-m-001005,Islamic Center of Dayton,Miamisburg,OH,sunni,true
+usa-m-001006,Islamic Center of Daytona Beach,Dayton Beach,FL,sunni,true
+usa-m-001007,Islamic Center of Deer Park,Deer Park,NY,sunni,true
+usa-m-001008,Islamic Center of DeKalb,Dekalb,IL,sunni,true
+usa-m-001009,Islamic Center of Delaware County,Havertown,PA,sunni,true
+usa-m-001010,Islamic Center of Deltona,DeBary,FL,sunni,true
+usa-m-001011,Islamic Center of Des Moines,Des Moines,IA,sunni,true
+usa-m-001012,Islamic Center of Detroit - ICD,Detroit,MI,sunni,true
+usa-m-001013,Islamic Center of East Brunswick,East Brunswick,NJ,sunni,true
+usa-m-001014,Islamic Center of East Lansing,East Lansing,MI,sunni,true
+usa-m-001015,Islamic Center of Eastern Shore,Georgetown,DE,sunni,true
+usa-m-001016,Islamic Center of Eastlake,Chula Vista,CA,sunni,true
+usa-m-001017,Islamic Center of Eastside - Bellevue Mosque,Bellevue,WA,sunni,true
+usa-m-001018,Islamic Center of Eastside North,Bellevue,WA,sunni,true
+usa-m-001019,Islamic Center of El Cajon - Masjid Al Firdaws,El Cajon,CA,sunni,true
+usa-m-001020,Islamic Center of El Paso - ICEP,El Paso,TX,sunni,true
+usa-m-001021,Islamic Center of Elizabethtown,Elizabethtown,KY,sunni,true
+usa-m-001022,Islamic Center of Emporia,Emporia,KS,sunni,true
+usa-m-001023,Islamic Center of Escondido - Masjid Dar Ul Arqam,Escondido,CA,sunni,true
+usa-m-001024,Islamic Center of Euless,Euless,TX,sunni,true
+usa-m-001025,Islamic Center of Evansville,Newburgh,IN,sunni,true
+usa-m-001026,Islamic Center of Ewing,Ewing Township,NJ,sunni,true
+usa-m-001027,Islamic Center of Fairborn,Fairborn,OH,sunni,true
+usa-m-001028,Islamic Center of Fairfield,Fairfield,CA,sunni,true
+usa-m-001029,Islamic Center of Federal Way,Kent,WA,sunni,true
+usa-m-001030,Islamic Center of Five Towns,Hewlett,NY,sunni,true
+usa-m-001031,Islamic Center Of Flagstaff,Flagstaff,AZ,sunni,true
+usa-m-001032,Islamic Center of Florida City,Florida City,FL,sunni,true
+usa-m-001033,Islamic Center of Forney - ICF,Forney,TX,sunni,true
+usa-m-001034,Islamic Center of Fort Collins,Fort Collins,CO,sunni,true
+usa-m-001035,Islamic Center of Fort Pierce - House Of The Believers,Fort Pierce,FL,sunni,true
+usa-m-001036,Islamic Center of Fort Wayne,Fort Wayne,IN,sunni,true
+usa-m-001037,Islamic Center of Fountain Valley,Fountain Valley,CA,sunni,true
+usa-m-001038,Islamic Center of Fredericksburg,Fredericksburg,VA,sunni,true
+usa-m-001039,Islamic Center of Fremont - ICF - Irvington,Fremont,CA,sunni,true
+usa-m-001040,Islamic Center of Frisco,Frisco,TX,sunni,true
+usa-m-001041,Islamic Center of Galveston - Masjid,Galveston,TX,sunni,true
+usa-m-001042,Islamic Center of Glendale,Glendale,CA,sunni,true
+usa-m-001043,Islamic Center of Golden,Golden,CO,sunni,true
+usa-m-001044,Islamic Center of Grand Forks,Grand Forks,ND,sunni,true
+usa-m-001045,Islamic Center of Grand Junction - Two Rivers Mosque,Grand Junction,CO,sunni,true
+usa-m-001046,Islamic Center of Grand Rapids,Grand Rapids,MI,sunni,true
+usa-m-001047,Islamic Center of Greater Austin- Masjid,Austin,TX,sunni,true
+usa-m-001048,Islamic Center of Greater Cincinnati - ICGC,West Chester Township,OH,sunni,true
+usa-m-001049,Islamic Center of Greater Columbus Mosque,Columbus,OH,sunni,true
+usa-m-001050,Islamic Center of Greater Miami,Miami Gardens,FL,sunni,true
+usa-m-001051,Islamic Center of Greater Phoenix - Masjid Bilal,Phoenix,AZ,sunni,true
+usa-m-001052,Islamic Center of Greater Toledo - ICGT,Perrysburg,OH,sunni,true
+usa-m-001053,Islamic Center of Hamden,Hamden,CT,sunni,true
+usa-m-001054,Islamic Center of Hampton,Hampton,VA,sunni,true
+usa-m-001055,Islamic Center of Hamtramck,Hamtramck,MI,sunni,true
+usa-m-001056,Islamic Center of Harlingen,Harlingen,TX,sunni,true
+usa-m-001057,Islamic Center of Harrison,Harrison,NJ,sunni,true
+usa-m-001058,Islamic Center of Hattiesburg,Hattiesburg,MS,sunni,true
+usa-m-001059,Islamic Center of Hawaii,Hilo,HI,sunni,true
+usa-m-001060,Islamic Center of Hawthorne,Hawthorne,CA,sunni,true
+usa-m-001061,Islamic Center of Hays County - Masjid Bilal,Kyle,TX,sunni,true
+usa-m-001062,Islamic Center of Hazelwood - Dar Aljalal Masjid,Hazelwood,MO,sunni,true
+usa-m-001063,Islamic Center of Hemet,Hemet,CA,sunni,true
+usa-m-001064,Islamic Center of Henrico & Masjid Al-Falah,Richmond,VA,sunni,true
+usa-m-001065,Islamic Center of Hernando County,Spring Hill,FL,sunni,true
+usa-m-001066,Islamic Center of Hewitt - Masjid Al Hidaya,Hewitt,TX,sunni,true
+usa-m-001067,Islamic Center of Houma,Houma,LA,sunni,true
+usa-m-001068,Islamic Center of Hunterdon County,Flemington,NJ,sunni,true
+usa-m-001069,Islamic Center of Indiana,Indiana,PA,sunni,true
+usa-m-001070,Islamic Center of Inglewood,Inglewood,CA,sunni,true
+usa-m-001071,Islamic Center of Inland Empire - Rancho Masjid,Rancho Cucamonga,CA,sunni,true
+usa-m-001072,Islamic Center of Irvine - ICOI,Irvine,CA,sunni,true
+usa-m-001073,Islamic Center of Irving,Irving,TX,sunni,true
+usa-m-001074,Islamic Center of Jackson,Jackson,TN,sunni,true
+usa-m-001075,Islamic Center of Jackson Heights - Masjid Abu Huraira,East Elmhurst,NY,sunni,true
+usa-m-001076,Islamic Center of Jarrell,Jarrell,TX,sunni,true
+usa-m-001077,Islamic Center of Jersey City,Jersey City,NJ,sunni,true
+usa-m-001078,Islamic Center of Johnson City,Johnson City,TN,sunni,true
+usa-m-001079,Islamic Center of Johnson County,Overland Park,KS,sunni,true
+usa-m-001080,Islamic Center of Johnstown,Windber,PA,sunni,true
+usa-m-001081,Islamic Center of Jonesboro,Jonesboro,AR,sunni,true
+usa-m-001082,Islamic Center of Jurupa Valley,Jurupa Valley,CA,sunni,true
+usa-m-001083,Islamic Center of Kansas - ICK,Olathe,KS,sunni,true
+usa-m-001084,Islamic Center of Kent,Kent,WA,sunni,true
+usa-m-001085,Islamic Center of Kitsap County,Bremerton,WA,sunni,true
+usa-m-001086,Islamic Center of Kuwait in Utah,Ogden,UT,sunni,true
+usa-m-001087,Islamic Center of Lafayette,Lafayette,LA,sunni,true
+usa-m-001088,Islamic Center of Lake City,Lake City,GA,sunni,true
+usa-m-001089,Islamic Center of Lake City,Lake City,FL,sunni,true
+usa-m-001090,Islamic Center of Lake Hiawatha,Parsippany,NJ,sunni,true
+usa-m-001091,Islamic Center Of Lake Travis,Austin,TX,sunni,true
+usa-m-001092,Islamic Center of Lakeland,Lakeland,FL,sunni,true
+usa-m-001093,Islamic Center of Lancaster,Lancaster,PA,sunni,true
+usa-m-001094,Islamic Center of Lansing,Lansing,MI,sunni,true
+usa-m-001095,Islamic Center of Laramie,Laramie,WY,sunni,true
+usa-m-001096,Islamic Center of Laredo,Laredo,TX,sunni,true
+usa-m-001097,Islamic Center of Lathrop,Lathrop,CA,sunni,true
+usa-m-001098,Islamic Center of Laveen - Laveen Mosque,Laveen Village,AZ,sunni,true
+usa-m-001099,Islamic Center of Lawrence - ICL,Lawrence,KS,sunni,true
+usa-m-001100,Islamic Center of Leavenworth,Leaveworth,KS,sunni,true
+usa-m-001101,Islamic Center of Lexington - ICL,Lexington,KY,sunni,true
+usa-m-001102,Islamic Center of Lexington Nebraska,Lexington,NE,sunni,true
+usa-m-001103,Islamic Center of Lexington Park,Lexington Park,MD,sunni,true
+usa-m-001104,Islamic Center of Lincoln Park,Lincoln Park,MI,sunni,true
+usa-m-001105,Islamic Center of Little Rock,Little Rock,AR,sunni,true
+usa-m-001106,Islamic Center of Little Rock - West Campus,Little Rock,AR,sunni,true
+usa-m-001107,Islamic Center of Live Oak,Live Oak,CA,sunni,true
+usa-m-001108,Islamic Center of Livermore - ICL,Livermore,CA,sunni,true
+usa-m-001109,Islamic Center of Logan Heights - Masjid Omar,San Diego,CA,sunni,true
+usa-m-001110,Islamic Center of Long Island,Westbury,NY,sunni,true
+usa-m-001111,Islamic center of Longview,Longview,TX,sunni,true
+usa-m-001112,Islamic Center of Louisville,Louisville,KY,sunni,true
+usa-m-001113,Islamic Center of Lufkin,Lufkin,TX,sunni,true
+usa-m-001114,Islamic Center of Macon,Macon,GA,sunni,true
+usa-m-001115,Islamic Center of Maine,Orono,ME,sunni,true
+usa-m-001116,Islamic Center of Manhattan,Manhattan,KS,sunni,true
+usa-m-001117,Islamic Center of Manteca,Manteca,CA,sunni,true
+usa-m-001118,Islamic Center of Maple Valley,Maple Valley,WA,sunni,true
+usa-m-001119,Islamic Center of Marietta,Marietta,OH,sunni,true
+usa-m-001120,Islamic Center of Maryland,Gaithersburg,MD,sunni,true
+usa-m-001121,Islamic Center of Mason,Mason,OH,sunni,true
+usa-m-001122,Islamic Center of Maui - Maui Mosque,Kahului,HI,sunni,true
+usa-m-001123,Islamic Center of McHenry County - ICMC,Crystal Lake,IL,sunni,true
+usa-m-001124,Islamic Center of Medford - Coram,Medford,NY,sunni,true
+usa-m-001125,Islamic Center of Melville,Melville,NY,sunni,true
+usa-m-001126,Islamic Center of Merced,Merced,CA,sunni,true
+usa-m-001127,Islamic Center of Michigan City,Michigan City,IN,shia,true
+usa-m-001128,Islamic Center of Mid City - Masjid An Nur,San Diego,CA,sunni,true
+usa-m-001129,Islamic Center of Midcities,Downey,CA,sunni,true
+usa-m-001130,Islamic Center of Middle Georgia,Centerville,GA,sunni,true
+usa-m-001131,Islamic Center of Midland,Midland,MI,sunni,true
+usa-m-001132,Islamic Center of Mill Valley,Mill Valley,CA,sunni,true
+usa-m-001133,Islamic Center of Mira Mesa - Masjid Hamza,San Diego,CA,sunni,true
+usa-m-001134,Islamic Center of Mississippi,Starkville,MS,sunni,true
+usa-m-001135,Islamic Center of Mississippi and Alabama,Meridian,MS,sunni,true
+usa-m-001136,Islamic Center of Modesto,Modesto,CA,sunni,true
+usa-m-001137,Islamic Center of Monroe,Monroe,WA,sunni,true
+usa-m-001138,Islamic Center of Monticello,Monticello,NY,sunni,true
+usa-m-001139,Islamic Center of Morgantown,Morgantown,WV,sunni,true
+usa-m-001140,Islamic Center of Moscow,Moscow,ID,sunni,true
+usa-m-001141,Islamic Center of Mount Pleasant,Mount Pleasant,MI,sunni,true
+usa-m-001142,Islamic Center of Murray,Murray,KY,sunni,true
+usa-m-001143,Islamic Center of Naperville - ICN - 75th,Naperville,IL,sunni,true
+usa-m-001144,Islamic Center of Naperville - ICN - Al Hilal - Ogden,Naperville,IL,sunni,true
+usa-m-001145,Islamic Center of Naples Inc,Naples,FL,sunni,true
+usa-m-001146,Islamic Center of Nashville,Nashville,TN,sunni,true
+usa-m-001147,Islamic Center of New Castle,New Castle,PA,sunni,true
+usa-m-001148,Islamic Center of New England,Quincy,MA,sunni,true
+usa-m-001149,Islamic Center of New England Mosque - ICNE,Sharon,MA,sunni,true
+usa-m-001150,Islamic Center of New London,Groton,CT,sunni,true
+usa-m-001151,Islamic Center of New Mexico - ICNM,Albuquerque,NM,sunni,true
+usa-m-001152,Islamic Center of New Port Richey - ICNPR,New Port Richey,FL,sunni,true
+usa-m-001153,Islamic Center of New Rochelle,New Rochelle,NY,sunni,true
+usa-m-001154,Islamic Center of New York,Cheektowaga,NY,sunni,true
+usa-m-001155,Islamic Center of North East Valley - ICNEV,Scottsdale,AZ,sunni,true
+usa-m-001156,Islamic Center of North Fulton,Alpharetta,GA,sunni,true
+usa-m-001157,Islamic Center of North Hollywood,North Hollywood,CA,sunni,true
+usa-m-001158,Islamic Center of North Kansas City - Masjid Al Salaam,Kansas City,MO,sunni,true
+usa-m-001159,Islamic Center of North Marin - Masjid Aisha,Novato,CA,sunni,true
+usa-m-001160,Islamic Center of North Phoenix,Phoenix,AZ,sunni,true
+usa-m-001161,Islamic Center of North Valley,Lancaster,CA,sunni,true
+usa-m-001162,Islamic Center of Northeast Florida,Jacksonville,FL,sunni,true
+usa-m-001163,Islamic Center of Northeast Ohio - Masjid Al-Sahabah,Cleveland,OH,sunni,true
+usa-m-001164,Islamic Center of Northern Kentucky,Florence,KY,sunni,true
+usa-m-001165,Islamic Center of Northern New York,Calcium,NY,sunni,true
+usa-m-001166,Islamic Center of Northland - ICNKC,Kansas City,MO,sunni,true
+usa-m-001167,Islamic Center of Northridge - Granada Hills Masjid,Granadan Hills,CA,sunni,true
+usa-m-001168,Islamic Center Of Northwest Arkansas,Fayetteville,AR,sunni,true
+usa-m-001169,Islamic Center of Northwest Florida,Pensacola,FL,sunni,true
+usa-m-001170,Islamic Center of Oakland - ICO,Oakland,CA,sunni,true
+usa-m-001171,Islamic Center of Ocala,Ocala,FL,sunni,true
+usa-m-001172,Islamic Center of Ocean County,Toms River,NJ,sunni,true
+usa-m-001173,Islamic Center of Old Bridge,Keyport,NJ,sunni,true
+usa-m-001174,Islamic Center of Olympia,Olympia,WA,sunni,true
+usa-m-001175,Islamic Center of Omaha - ICO,Omaha,NE,sunni,true
+usa-m-001176,Islamic Center of Omaha - ICO,Omaha,NE,sunni,true
+usa-m-001177,Islamic Center of Orange Park,Jacksonville,FL,sunni,true
+usa-m-001178,Islamic Center of Orange Park,Orange Park,FL,sunni,true
+usa-m-001179,Islamic Center of Orlando - Jama Masjid,Orlando,FL,sunni,true
+usa-m-001180,Islamic Center of Osceola Masjid Taqwa,Kissimmee,FL,sunni,true
+usa-m-001181,Islamic Center of Owings Mills - ICOM,Owings Mills,MD,sunni,true
+usa-m-001182,Islamic Center of PA,Mechanicsburg,PA,sunni,true
+usa-m-001183,Islamic Center of Paducah,Paducah,KY,sunni,true
+usa-m-001184,Islamic Center of Palm Beach - ICPB,North Palm Beach,FL,sunni,true
+usa-m-001185,Islamic Center of Palm Coast,Bunnell,FL,sunni,true
+usa-m-001186,Islamic center of Paris TX,Paris,TX,sunni,true
+usa-m-001187,Islamic Center of Parsippany,Parsippany,NJ,sunni,true
+usa-m-001188,Islamic Center of Passaic County,Paterson,NJ,sunni,true
+usa-m-001189,Islamic Center of Passaic County - Clifton,Clifton,NJ,sunni,true
+usa-m-001190,Islamic Center of Passaic County - Masjid Younis,Prospect Park,NJ,sunni,true
+usa-m-001191,Islamic Center of Peoria,Peoria,IL,sunni,true
+usa-m-001192,Islamic Center of Perris,Perris,CA,sunni,true
+usa-m-001193,Islamic Center of Petaluma,Petaluma,CA,sunni,true
+usa-m-001194,Islamic Center of Pflugerville,Pflugerville,TX,sunni,true
+usa-m-001195,Islamic Center of Pine Bluff,Pine Bluff,AR,sunni,true
+usa-m-001196,Islamic Center of Pittsburgh,Pittsburgh,PA,sunni,true
+usa-m-001197,Islamic Center of Plattsburgh NY,Morrisonville,NY,sunni,true
+usa-m-001198,Islamic Center of Poinciana,Kissimmee,FL,sunni,true
+usa-m-001199,Islamic Center of Polk County,Winter Haven,FL,sunni,true
+usa-m-001200,Islamic Center of Port Arthur,Port Arthur,TX,sunni,true
+usa-m-001201,Islamic Center of Portland,Beaverton,OR,shia,true
+usa-m-001202,Islamic Center of Preston - Masjid E Nuzhut Javed,Preston,CT,sunni,true
+usa-m-001203,"Islamic Center of Queens NY, Inc.",Woodside,NY,sunni,true
+usa-m-001204,Islamic Center of Reading,Reading,PA,sunni,true
+usa-m-001205,Islamic Center of Redding,Redding,CA,sunni,true
+usa-m-001206,Islamic Center of Redmond,Redmond,WA,sunni,true
+usa-m-001207,Islamic Center of Reseda,Tarzana,CA,sunni,true
+usa-m-001208,Islamic Center of RI - ICRI - Masjid Al-Kareem,Providence,RI,sunni,true
+usa-m-001209,Islamic Center of Riverside,Riverside,CA,sunni,true
+usa-m-001210,Islamic Center of Rochester,Rochester,NY,sunni,true
+usa-m-001211,Islamic Center of Rockland,Valley Cottage,NY,sunni,true
+usa-m-001212,Islamic Center of Round Rock,Round Rock,TX,sunni,true
+usa-m-001213,Islamic Center of Russellville,Russellville,AR,sunni,true
+usa-m-001214,Islamic Center of Saginaw,Saginaw,MI,sunni,true
+usa-m-001215,Islamic Center of Saginaw,Saginaw,MI,sunni,true
+usa-m-001216,Islamic Center of Saint Cloud,Saint Cloud,MN,sunni,true
+usa-m-001217,Islamic Center of Saint Joseph,Saint Joseph,MO,sunni,true
+usa-m-001218,Islamic Center of San Antonio,San Antonio,TX,sunni,true
+usa-m-001219,Islamic Center of San Diego - ICSD,San Diego,CA,sunni,true
+usa-m-001220,Islamic Center of San Diego East County,El Cajon,CA,sunni,true
+usa-m-001221,Islamic Center of San Francisco - ICSF,San Francisco,CA,sunni,true
+usa-m-001222,Islamic Center of San Gabriel Valley - ICSGV,Rowland Heights,CA,sunni,true
+usa-m-001223,Islamic Center of Santa Ana - ICSA - Indo-Chinese Muslim,Santa Ana,CA,sunni,true
+usa-m-001224,Islamic Center of Santa Clarita Valley,Santa Clarita,CA,sunni,true
+usa-m-001225,Islamic Center of Savannah,Savannah,GA,sunni,true
+usa-m-001226,Islamic Center of Scranton,Scranton,PA,sunni,true
+usa-m-001227,Islamic Center of Seattle,SeaTac,WA,sunni,true
+usa-m-001228,Islamic Center of Shelby,Shelby Township,MI,sunni,true
+usa-m-001229,Islamic Center of Sioux Falls,Sioux Falls,SD,sunni,true
+usa-m-001230,Islamic Center Of Socorro,Socorro,NM,sunni,true
+usa-m-001231,Islamic Center of South Bay - Masjid Al Noor,Lomita,CA,sunni,true
+usa-m-001232,Islamic Center of South Coast Massachusetts,Fall River,MA,sunni,true
+usa-m-001233,Islamic Center of South County,Saint Louis,MO,sunni,true
+usa-m-001234,Islamic Center of South Dallas,Dallas,TX,sunni,true
+usa-m-001235,Islamic Center of South Florida,Pompano Beach,FL,sunni,true
+usa-m-001236,Islamic Center of South Jersey - ICSJ,Palmyra,NJ,sunni,true
+usa-m-001237,Islamic Center of South Lake County,Clermont,FL,sunni,true
+usa-m-001238,Islamic Center of South River,South River,NJ,sunni,true
+usa-m-001239,Islamic Center of South Windsor,South Windsor,CT,sunni,true
+usa-m-001240,Islamic Center of Southern California - ICSC,Los Angeles,CA,sunni,true
+usa-m-001241,Islamic Center of Southlake,Southlake,TX,sunni,true
+usa-m-001242,Islamic Center of Southwest Florida,Fort Myers,FL,shia,true
+usa-m-001243,Islamic Center of Spokane,Spokane Valley,WA,sunni,true
+usa-m-001244,Islamic Center of Springfield Missouri  - ICSM,Springfield,MO,sunni,true
+usa-m-001245,Islamic Center Of St. Augustine Florida,St Augustine,FL,sunni,true
+usa-m-001246,Islamic Center of St. Augustine Florida,St. Augustine,FL,sunni,true
+usa-m-001247,Islamic Center of Staten Island,Staten Island,NY,sunni,true
+usa-m-001248,Islamic Center of Stockton,Stockton,CA,sunni,true
+usa-m-001249,Islamic Center of Sumter,Sumter,SC,sunni,true
+usa-m-001250,Islamic Center of Tacoma,Tacoma,WA,sunni,true
+usa-m-001251,Islamic Center of Tallahassee,Tallahassee,FL,sunni,true
+usa-m-001252,Islamic Center of Tallahassee,Tallahassee,FL,sunni,true
+usa-m-001253,Islamic Center of Temecula Valley,Temecula,CA,sunni,true
+usa-m-001254,Islamic Center of Tennessee,Antioch,TN,sunni,true
+usa-m-001255,Islamic Center of Terre Haute,Terre Haute,IN,sunni,true
+usa-m-001256,Islamic Center of the East Valley - ICEV,Chandler,AZ,sunni,true
+usa-m-001257,Islamic Center of the Hamptons,Bridgehampton,NY,sunni,true
+usa-m-001258,Islamic Center of the Treasure Coast - ICTC,Jensen Beach,FL,sunni,true
+usa-m-001259,Islamic Center of Tidewater - ODU,Norfolk,VA,sunni,true
+usa-m-001260,Islamic Center of Topeka,Topeka,KS,sunni,true
+usa-m-001261,Islamic Center of Tri Cities,West Richland,WA,sunni,true
+usa-m-001262,Islamic Center of Tucson,Tucson,AZ,sunni,true
+usa-m-001263,Islamic Center of Tuscaloosa - Masjid Omar Ibn Al Khattab,Tuscaloosa,AL,sunni,true
+usa-m-001264,Islamic Center of Twin Ports,Duluth,MN,sunni,true
+usa-m-001265,Islamic Center of Union County,Union,NJ,sunni,true
+usa-m-001266,Islamic Center of University of Connecticut,Storrs,CT,sunni,true
+usa-m-001267,Islamic Center of Vacaville,Vacaville,CA,sunni,true
+usa-m-001268,Islamic Center of Vallejo,Vallejo,CA,sunni,true
+usa-m-001269,Islamic Center of Ventura County - ICOVC,Oxnard,CA,sunni,true
+usa-m-001270,Islamic Center of Vernon,Vernon,CT,sunni,true
+usa-m-001271,Islamic Center of Verona,Verona,NJ,sunni,true
+usa-m-001272,Islamic Center of Vicksburg,Vicksburg,MS,sunni,true
+usa-m-001273,Islamic Center of Victor Valley,Victorville,CA,sunni,true
+usa-m-001274,Islamic Center of Victoria,Victoria,TX,sunni,true
+usa-m-001275,Islamic Center of Virginia,North Chesterfield,VA,sunni,true
+usa-m-001276,Islamic Center of Wallingford,Wallington,CT,sunni,true
+usa-m-001277,Islamic Center of Walnut Creek - Darul-Islam Mosque,Walnut Creek,CA,sunni,true
+usa-m-001278,Islamic Center of Warren County,Washington,NJ,sunni,true
+usa-m-001279,Islamic Center of Washington DC,Washington,DC,sunni,true
+usa-m-001280,Islamic Center of Watsonville,Watsonville,CA,sunni,true
+usa-m-001281,Islamic Center of West Georgia,Douglasville,GA,sunni,true
+usa-m-001282,Islamic Center of Western Pennsylvania,Wexford,PA,sunni,true
+usa-m-001283,Islamic Center of Westlake,Westlake,OH,sunni,true
+usa-m-001284,Islamic Center of Weston,Weston,FL,sunni,true
+usa-m-001285,Islamic Center of Wheaton - ICW Mosque,Wheaton,IL,sunni,true
+usa-m-001286,Islamic Center of Willimantic - Masjid Al Huda,Williamantic,CT,sunni,true
+usa-m-001287,Islamic Center of Windsor Locks,Windsor Locks,CT,sunni,true
+usa-m-001288,Islamic Center of Winona,Winona,MN,sunni,true
+usa-m-001289,Islamic Center of Wisconsin,Appleton,WI,sunni,true
+usa-m-001290,Islamic Center of Woodland,Woodland,CA,sunni,true
+usa-m-001291,Islamic Center of Wylie,Saint Paul,TX,sunni,true
+usa-m-001292,Islamic Center of Yakima,Yakima,WA,sunni,true
+usa-m-001293,Islamic Center of Yonkers,Yonkers,NY,sunni,true
+usa-m-001294,Islamic Center of Yorba Linda,Yorba Linda,CA,sunni,true
+usa-m-001295,Islamic Center of Yuba City,Yube City,CA,sunni,true
+usa-m-001296,Islamic Center of Zahra - ICZ,Pleasanton,CA,shia,true
+usa-m-001297,Islamic Center Suffolk County: Shah E Najaf Center,Brentwood,NY,shia,true
+usa-m-001298,Islamic Center-Northeast La,Monroe,LA,sunni,true
+usa-m-001299,Islamic Centre of Bakersfield,Bakersfield,CA,sunni,true
+usa-m-001300,Islamic Circle of Mercer County - ICMC,Lawrenceville,NJ,sunni,true
+usa-m-001301,Islamic Circle of North America - ICNA,Jamaica,NY,sunni,true
+usa-m-001302,Islamic Circle of North America - ICNA,Jersey City,NJ,sunni,true
+usa-m-001303,Islamic Community Center,Xenia,OH,sunni,true
+usa-m-001304,Islamic Community Center - ICC Masjid,Elgin,IL,sunni,true
+usa-m-001305,Islamic Community Center - Madina Mosque,Saint Louis,MO,sunni,true
+usa-m-001306,Islamic Community Center - NAPA,Napa,CA,sunni,true
+usa-m-001307,Islamic Community Center of Anchorage - Alaska Mosque,Anchorage,AK,sunni,true
+usa-m-001308,Islamic Community Center of Gainesville,Gainesville,FL,sunni,true
+usa-m-001309,Islamic Community Center of Hillsboro,Hillsboro,OR,sunni,true
+usa-m-001310,Islamic Community Center of Illinois - ICCI,Chicago,IL,sunni,true
+usa-m-001311,Islamic Community Center of Laurel,Laurel,MD,sunni,true
+usa-m-001312,Islamic Community Center of Mid Westchester,Yonkers,NY,sunni,true
+usa-m-001313,Islamic Community Center of Minnesota,Minneapolis,MN,sunni,true
+usa-m-001314,Islamic Community Center of Phoenix - ICCP,Phoenix,AZ,sunni,true
+usa-m-001315,Islamic Community Center of Potomac,Potomac,MD,sunni,true
+usa-m-001316,Islamic Community Center of Redlands - ICCR,Redlands,CA,sunni,true
+usa-m-001317,Islamic Community Center Of Vermont,Winooski,VT,sunni,true
+usa-m-001318,Islamic Community Cultural Center - ICCC,Parsippany,NJ,sunni,true
+usa-m-001319,Islamic Community of As Salaam,Detroit,MI,sunni,true
+usa-m-001320,Islamic Community of Bay Area Bosniaks,San Jose,CA,sunni,true
+usa-m-001321,Islamic Community of Bosniaks in Boise,Boise,ID,sunni,true
+usa-m-001322,Islamic Community of Bosniaks in Jacksonville,Jacksonville,FL,sunni,true
+usa-m-001323,Islamic Community of Bryan - College Station - ICBCS,College Station,TX,sunni,true
+usa-m-001324,Islamic Community of Fairfield,Monroe,CT,sunni,true
+usa-m-001325,Islamic Community of Greater Killeen,Killeen,TX,sunni,true
+usa-m-001326,Islamic Community of Oakland North - ICON Masjid,Orion Township,MI,sunni,true
+usa-m-001327,Islamic Community of Salinas - Salinas Masjid,Salinas,CA,sunni,true
+usa-m-001328,Islamic Community of South Jersey,Berlin,NJ,sunni,true
+usa-m-001329,Islamic Community of SWF,Port Charlotte,FL,sunni,true
+usa-m-001330,Islamic Community of Tuskegee,Tuskegee,AL,sunni,true
+usa-m-001331,Islamic Community Outreach,Ocean City,MD,sunni,true
+usa-m-001332,Islamic Congregation of North Jersey - Masjid Abu Bakr,Paterson,NJ,sunni,true
+usa-m-001333,Islamic Council of America - Madina Masjid,New York,NY,sunni,true
+usa-m-001334,Islamic Council of New York Inc - Masjid Al Gafar,Bronx,NY,sunni,true
+usa-m-001335,Islamic Cultural and Development Center Masjid Ibn Taymiyah,Linden,NJ,sunni,true
+usa-m-001336,Islamic Cultural Center - Greater Chicago,Northbrook,IL,sunni,true
+usa-m-001337,Islamic Cultural Center of Bosniaks in Syracuse,East Syracuse,NY,sunni,true
+usa-m-001338,Islamic Cultural Center of Erie,Erie,PA,sunni,true
+usa-m-001339,Islamic Cultural Center of New York - ICCNY,New York,NY,sunni,true
+usa-m-001340,Islamic Cultural Center of Northern California - ICCNC,Oakland,CA,sunni,true
+usa-m-001341,Islamic Cultural Center of the Bronx,Bronx,NY,sunni,true
+usa-m-001342,Islamic Cultural Center of Willow Grove,Willow Grove,PA,sunni,true
+usa-m-001343,Islamic Cultural Center Riverside Drive,New York,NY,sunni,true
+usa-m-001344,Islamic Cultural Foundation of America,Staten Island,NY,sunni,true
+usa-m-001345,Islamic Cultural Institute,Saint Clair Shores,MI,sunni,true
+usa-m-001346,Islamic Culture Center of Medford,Medford,MA,sunni,true
+usa-m-001347,Islamic Culture Center of Niagara Falls,Niagara Falls,NY,sunni,true
+usa-m-001348,Islamic Da'wah Center,Houston,TX,sunni,true
+usa-m-001349,Islamic Da'wah Center of Buffalo,Buffalo,NY,sunni,true
+usa-m-001350,Islamic Dawa Center of Fort Walton Beach,Fort Walton Beach,FL,sunni,true
+usa-m-001351,Islamic Dawah Center - Minnesota Dawah Institute,Saint Paul,MN,sunni,true
+usa-m-001352,Islamic Education Center,Potomac,MD,sunni,true
+usa-m-001353,Islamic Education Center,Houston,TX,sunni,true
+usa-m-001354,Islamic Education Center - League City,League City,TX,sunni,true
+usa-m-001355,Islamic Education Society of Maryland,Wheaton,MD,sunni,true
+usa-m-001356,Islamic Educational & Cultural Research Center,Newark,CA,sunni,true
+usa-m-001357,Islamic Educational Center of Orange County,Costa Mesa,CA,shia,true
+usa-m-001358,Islamic Falah of America Inc,Bronx,NY,sunni,true
+usa-m-001359,Islamic Foundation of Clovis and Fresno - IFCF - Masjid Al Ghaffar,Fresno,CA,sunni,true
+usa-m-001360,Islamic Foundation of Greater Saint Louis,Manchester,MO,sunni,true
+usa-m-001361,Islamic Foundation of Iowa,Waterloo,IA,sunni,true
+usa-m-001362,Islamic Foundation of Lincoln - IFL,Lincoln,NE,sunni,true
+usa-m-001363,Islamic Foundation of Nevada,Las Vegas,NV,sunni,true
+usa-m-001364,Islamic Foundation of New York - IFNY,Queens Village,NY,sunni,true
+usa-m-001365,Islamic Foundation of NJ - Masjid Jalalabad,Paterson,NJ,sunni,true
+usa-m-001366,Islamic Foundation of South Florida - IFSF,Sunrise,FL,sunni,true
+usa-m-001367,Islamic Foundation of Villa Park,Villa Park,IL,sunni,true
+usa-m-001368,Islamic Guidance Center Inc,Brooklyn,NY,sunni,true
+usa-m-001369,Islamic Heritage Center,Fairfax,VA,sunni,true
+usa-m-001370,Islamic House at the UW,Seattle,WA,sunni,true
+usa-m-001371,Islamic House of Wisdom,Dearborn,MI,shia,true
+usa-m-001372,Islamic Information Center - Al-Noor Mosque,Las Vegas,NV,sunni,true
+usa-m-001373,Islamic Institute Of America,Dearborn,MI,shia,true
+usa-m-001374,Islamic Institute of Orange County,Anaheim,CA,sunni,true
+usa-m-001375,Islamic Institute of Palm beach County Masjid Al-Firdaus,West Palm Beach,FL,sunni,true
+usa-m-001376,Islamic Jaffaria Association Inc,Hialeah,FL,sunni,true
+usa-m-001377,Islamic Learning Center of North Broward - ILCNB,Coconut Creek,FL,sunni,true
+usa-m-001378,Islamic Masjid,Fort Wayne,IN,sunni,true
+usa-m-001379,Islamic Masjid of Richmond,Richmond,VA,sunni,true
+usa-m-001380,Islamic Masumeen Center of New England,Hopkinton,MA,sunni,true
+usa-m-001381,Islamic Mission of America Dawood Mosque,Brooklyn,NY,sunni,true
+usa-m-001382,Islamic Movement of Florida,Hollywood,FL,sunni,true
+usa-m-001383,Islamic Oasis Center and Mosque,Chicago,IL,sunni,true
+usa-m-001384,Islamic Organization of Southern Tier - IOST,Johnson City,NY,sunni,true
+usa-m-001385,Islamic Religious Services - Fort Bliss,Fort Bliss,TX,sunni,true
+usa-m-001386,Islamic Research And Dawah Center,Brooklyn,NY,sunni,true
+usa-m-001387,Islamic Shia Ithna Asheri,Albany,NY,shia,true
+usa-m-001388,Islamic Society,Far Rockaway,NY,sunni,true
+usa-m-001389,Islamic Society - Southern Tier,Allegany,NY,sunni,true
+usa-m-001390,Islamic Society of Akron and Kent,Cuyahoga Falls,OH,sunni,true
+usa-m-001391,Islamic Society of Allentown,Allentown,PA,sunni,true
+usa-m-001392,Islamic Society of Appalachian Region,Princeton,WV,sunni,true
+usa-m-001393,Islamic Society of Augusta,Martinez,GA,sunni,true
+usa-m-001394,Islamic Society of Baltimore - Al Rahmah Mosque,Windsor Mill,MD,sunni,true
+usa-m-001395,Islamic Society of Basking Ridge - ISBR,Basking Ridge,NJ,sunni,true
+usa-m-001396,Islamic Society of Bay Ridge,Brooklyn,NY,sunni,true
+usa-m-001397,Islamic Society of Bosniaks in Utah,Salt Lake City,UT,sunni,true
+usa-m-001398,Islamic Society of Boston - ISB Cambridge,Cambridge,MA,sunni,true
+usa-m-001399,Islamic Society of Boston Cultural Center - ISBCC Roxbury,Roxbury,MA,sunni,true
+usa-m-001400,Islamic Society of Brevard County,Melbourne,FL,sunni,true
+usa-m-001401,Islamic Society of Brookings,Brookings,SD,sunni,true
+usa-m-001402,Islamic Society of Brownsville,Brownsville,TX,sunni,true
+usa-m-001403,Islamic Society of Cape Cod,Hyannis,MA,sunni,true
+usa-m-001404,Islamic Society of Central Delaware,Dover,DE,sunni,true
+usa-m-001405,Islamic Society of Central Florida - Masjid Al-Salaam,Sanford,FL,sunni,true
+usa-m-001406,Islamic Society of Central Jersey,Monmouth Junction,NJ,sunni,true
+usa-m-001407,Islamic Society of Central Louisiana,Alexandria,LA,sunni,true
+usa-m-001408,Islamic Society of Central New York - Syracuse Mosque,Syracuse,NY,sunni,true
+usa-m-001409,Islamic Society of Central Pennsylvania,State College,PA,sunni,true
+usa-m-001410,Islamic Society of Central Texas,Temple,TX,sunni,true
+usa-m-001411,Islamic Society of Central Virginia,Charlottesville,VA,sunni,true
+usa-m-001412,Islamic Society of Chester County,West Chester,PA,sunni,true
+usa-m-001413,Islamic Society of Clemson - Clemson Masjid,Clemson,SC,sunni,true
+usa-m-001414,Islamic Society of Colorado Springs,Colorado Springs,CO,sunni,true
+usa-m-001415,Islamic Society of Columbus Indiana,Columbus,IN,sunni,true
+usa-m-001416,Islamic Society of Corona - ISCN - Corona Masjid,Corona,CA,sunni,true
+usa-m-001417,Islamic Society of Delaware,Newark,DE,sunni,true
+usa-m-001418,Islamic Society of Delmarva,Salisbury,MD,sunni,true
+usa-m-001419,Islamic Society of Denton,Denton,TX,sunni,true
+usa-m-001420,Islamic Society of Downey,Downey,CA,sunni,true
+usa-m-001421,Islamic Society of East Bay - ISEB - Lowry Masjid,Fremont,CA,sunni,true
+usa-m-001422,Islamic Society of Easton,Easton,MD,sunni,true
+usa-m-001423,Islamic Society of Edmond,Edmond,OK,sunni,true
+usa-m-001424,Islamic Society of Essex County,Newark,NJ,sunni,true
+usa-m-001425,Islamic Society of Fargo - Moorheade,Fargo,ND,sunni,true
+usa-m-001426,Islamic Society of Framingham - Masjid E Basheer,Framingham,MA,sunni,true
+usa-m-001427,Islamic Society of Germantown,Germantown,MD,sunni,true
+usa-m-001428,Islamic Society of Greater Augusta,Augusta,ME,sunni,true
+usa-m-001429,Islamic Society of Greater Chattanooga,Chattanooga,TN,sunni,true
+usa-m-001430,Islamic Society of Greater Concord,Concord,NH,sunni,true
+usa-m-001431,Islamic Society of Greater Haverhill,Haverhill,MA,sunni,true
+usa-m-001432,Islamic Society of Greater Lafayette,West Lafayette,IN,sunni,true
+usa-m-001433,Islamic Society of Greater Lima,Lima,OH,sunni,true
+usa-m-001434,Islamic Society of Greater Nashua - ISGN,Nashua,NH,sunni,true
+usa-m-001435,Islamic Society of Greater Oklahoma City - ISGOC,Oklahoma City,OK,sunni,true
+usa-m-001436,Islamic Society of Greater Salt Lake,Salt Lake City,UT,sunni,true
+usa-m-001437,Islamic Society of Greater Valley Forge,Devon,PA,sunni,true
+usa-m-001438,Islamic Society of Greater Worcester,Worcester,MA,sunni,true
+usa-m-001439,Islamic Society of Greater Youngstown - Masjid Al-Khair,Youngstown,OH,sunni,true
+usa-m-001440,Islamic Society of Idaho - Abu Bakr Mosque,Boise,ID,sunni,true
+usa-m-001441,Islamic Society of Joplin - Joplin Mosque,Joplin,MO,sunni,true
+usa-m-001442,Islamic Society of Kansas City - ISGKC,Kansas City,MO,sunni,true
+usa-m-001443,Islamic Society of Kingsville,Kingsville,TX,sunni,true
+usa-m-001444,Islamic Society of Lake Charles,Lake Charles,LA,sunni,true
+usa-m-001445,Islamic Society Of Lake County,Leesburg,FL,sunni,true
+usa-m-001446,Islamic Society of Lake Elsinore,Lake Elsinore,CA,sunni,true
+usa-m-001447,Islamic Society of Mansfield,Mansfield,OH,sunni,true
+usa-m-001448,Islamic Society of Martinsburg,Martinsburg,WV,sunni,true
+usa-m-001449,Islamic Society of Michiana - ISM,South Bend,IN,sunni,true
+usa-m-001450,Islamic Society of Mid Manhattan,New York,NY,sunni,true
+usa-m-001451,Islamic Society of Milwaukee Main,Milwaukee,WI,sunni,true
+usa-m-001452,Islamic Society of Minot,Minot,ND,sunni,true
+usa-m-001453,Islamic Society of Mobile,Mobile,AL,sunni,true
+usa-m-001454,Islamic Society of Monmouth County - Middletown Al Aman Mosque,Middletown Township,NJ,sunni,true
+usa-m-001455,Islamic Society of Monterey County,Seaside,CA,sunni,true
+usa-m-001456,Islamic Society of New Hampshire,Manchester,NH,sunni,true
+usa-m-001457,Islamic Society of New Tampa - ISONET,Thonotosassa,FL,sunni,true
+usa-m-001458,Islamic Society of Norman,Norman,OK,sunni,true
+usa-m-001459,Islamic Society of North East Ohio - North Canton Mosque,North Canton,OH,sunni,true
+usa-m-001460,Islamic Society of North Jersey Budd Lake,Hackettstown,NJ,sunni,true
+usa-m-001461,Islamic Society Of North Pinellas - Masjid Al-Salaam,Dunedin,FL,sunni,true
+usa-m-001462,Islamic Society of North West Ohio - ISNWO,Holland,OH,sunni,true
+usa-m-001463,Islamic Society of Northern Baltimore,Luthvle Timon,MD,sunni,true
+usa-m-001464,Islamic Society of Northwest Suburbs,Rolling Meadows,IL,sunni,true
+usa-m-001465,Islamic Society of Orange County,Garden Grove,CA,sunni,true
+usa-m-001466,Islamic Society of Palm Springs,Coachella,CA,sunni,true
+usa-m-001467,Islamic Society of Pinellas County,Pinellas Park,FL,sunni,true
+usa-m-001468,Islamic Society of Placer County,Roseville,CA,sunni,true
+usa-m-001469,Islamic Society of Princess Anne,Princess Anne,MD,sunni,true
+usa-m-001470,Islamic Society of Rancho Cordova,Cordova,CA,sunni,true
+usa-m-001471,Islamic Society of Roosevelt Island,New York,NY,sunni,true
+usa-m-001472,Islamic Society Of Saint Petersburg,St Petersburg,FL,sunni,true
+usa-m-001473,Islamic Society of Sarasota Bradenton,Sarasota,FL,sunni,true
+usa-m-001474,Islamic Society of Schuylkill County,Pottsville,PA,sunni,true
+usa-m-001475,Islamic Society of Sheboygan,Oostburg,WI,sunni,true
+usa-m-001476,Islamic Society of Simi Valley - ISSV,Simi Valley,CA,sunni,true
+usa-m-001477,Islamic Society of Smyrna,Smyrna,DE,sunni,true
+usa-m-001478,Islamic Society of Sonoma County,Santa Rose,CA,sunni,true
+usa-m-001479,Islamic Society of South Atlanta - Stockbridge Masjid,Stockbridge,GA,sunni,true
+usa-m-001480,Islamic Society of South Dartmouth - Masjid Al Ehsan,Dartmouth,MA,sunni,true
+usa-m-001481,Islamic Society of South Dartmouth - Masjid Al Ehsan,Dartmouth,MA,sunni,true
+usa-m-001482,Islamic Society of South Shore,Brockton,MA,sunni,true
+usa-m-001483,Islamic Society of South Texas - ISST,McAllen,TX,sunni,true
+usa-m-001484,Islamic Society of Southern Texas - Abul Qasim Masjid,Christi,TX,sunni,true
+usa-m-001485,Islamic Society of Southwest Washington,Vancouver,WA,sunni,true
+usa-m-001486,Islamic Society Of Springfield,Springfield,IL,sunni,true
+usa-m-001487,Islamic Society of Stillwater,Stillwater,OK,sunni,true
+usa-m-001488,Islamic Society of Tampa Bay - ISTABA,Tampa,FL,sunni,true
+usa-m-001489,Islamic Society of the Washington Area - ISWA,Silver Spring,MD,sunni,true
+usa-m-001490,Islamic Society of Tracy,Tracy,CA,sunni,true
+usa-m-001491,Islamic Society of Tulsa,Tulsa,OK,sunni,true
+usa-m-001492,Islamic Society of Vermont,South Burlington,VT,sunni,true
+usa-m-001493,Islamic Society of West Contra Costa County,Richmond,CA,sunni,true
+usa-m-001494,Islamic Society of West Valley - ISWV,Canoga Park,CA,sunni,true
+usa-m-001495,Islamic Society of Western Maryland,Hagerstown,MD,sunni,true
+usa-m-001496,Islamic Society of Western Massachusetts,West Springfield,MA,sunni,true
+usa-m-001497,Islamic Society of Whatcom County,Bellingham,WA,sunni,true
+usa-m-001498,Islamic Society of Wichita - ISW,Wichita,KS,sunni,true
+usa-m-001499,Islamic Society of Willmar,Willmar,MN,sunni,true
+usa-m-001500,Islamic Society of Winchester,Winchester,VA,sunni,true
+usa-m-001501,Islamic Society of Wisconsin,Green Bay,WI,sunni,true
+usa-m-001502,Islamic Society-Central FL,Titusville,FL,sunni,true
+usa-m-001503,Islamic Unity & Cultural Center,Astoria,NY,sunni,true
+usa-m-001504,Islamic Unity & Cultural Center,Richmond Hill,NY,sunni,true
+usa-m-001505,Islamic Unity Center - IUC,Fort Worth,TX,sunni,true
+usa-m-001506,IslamInSpanish Dallas Outreach Center,Dallas,TX,sunni,true
+usa-m-001507,ISM University Center,Milwaukee,WI,sunni,true
+usa-m-001508,Ismaili Center & Jamatkhana,Boston,MA,sunni,true
+usa-m-001509,Ismaili Center & Jamatkhana - Albuquerque,Albuquerque,NM,sunni,true
+usa-m-001510,Ismaili Jamatkhana,Centennial,CO,shia,true
+usa-m-001511,Ismaili Jamatkhana - San Antonio,San Antonio,TX,sunni,true
+usa-m-001512,Ismaili Jamatkhana & Center,Tampa,FL,shia,true
+usa-m-001513,ISNF - An Noor Amherst Mosque,Getzville,NY,sunni,true
+usa-m-001514,ISRA Foundation,Plano,TX,sunni,true
+usa-m-001515,Isra Mosque,Gibsonton,FL,sunni,true
+usa-m-001516,Istijabah Muslim Association - IMA,Trenton,NJ,sunni,true
+usa-m-001517,Ivy City Mosque,Washington,DC,sunni,true
+usa-m-001518,Jackson Heights Islamic Center,Flushing,NY,sunni,true
+usa-m-001519,Jacksonville Masjid of Al-Islam,Jacksonville,FL,sunni,true
+usa-m-001520,Jafaria Association of CT Inc,Middlefield,CT,shia,true
+usa-m-001521,Jafaria Community Center,Mead,WA,shia,true
+usa-m-001522,Jafaria Shia Islamic Society,Anaheim,CA,shia,true
+usa-m-001523,Jaffaria Islamic Center-Florida,Kissimmee,FL,shia,true
+usa-m-001524,Jam e Masjid Islamic Center,Boonton,NJ,sunni,true
+usa-m-001525,Jamaa'atu Mosque Al Muminiin,Baltimore,MD,sunni,true
+usa-m-001526,Jamaat Al Muslimeen,Baltimore,MD,sunni,true
+usa-m-001527,Jamaat uI Muttaqeen,Pembroke Pines,FL,sunni,true
+usa-m-001528,Jamaica Muslim Center,Jamaica,NY,sunni,true
+usa-m-001529,Jamaluddin Afghani Masjid,Fullerton,CA,sunni,true
+usa-m-001530,Jamestown Islamic Society Inc,Jamestown,NY,sunni,true
+usa-m-001531,Jamhiyatu Ansaru Deen Inc,Bronx,NY,sunni,true
+usa-m-001532,Jami Masjid Buffalo,Buffalo,NY,sunni,true
+usa-m-001533,Jami’ Masjid Walden,Walden,NY,sunni,true
+usa-m-001534,Jamia Hanfia,Flushing,NY,sunni,true
+usa-m-001535,Jamia Masjid Assalam,Toms River,NJ,sunni,true
+usa-m-001536,Jamia Masjid Beaumont,Beaumont,TX,sunni,true
+usa-m-001537,Jamia Masjid Boonton,Boonton,NJ,sunni,true
+usa-m-001538,Jamia Mosque,Las Vegas,NV,sunni,true
+usa-m-001539,Jamia Muhammadia Rizwia,Brooklyn,NY,sunni,true
+usa-m-001540,Jamia Zia Ul Quran,Elmont,NY,sunni,true
+usa-m-001541,Jamiah Darus Sunnah America,Brooklyn,NY,sunni,true
+usa-m-001542,Jamiah Islamic Center,Woodhaven,NY,sunni,true
+usa-m-001543,Jamiah Masjid Livingston,Livingston,NJ,sunni,true
+usa-m-001544,Jamiah Masjid of Troy- Adam CC,Troy,MI,sunni,true
+usa-m-001545,Jasper Mosque,Jasper,AL,sunni,true
+usa-m-001546,Javaid Mosque,Chesapeake,VA,sunni,true
+usa-m-001547,Jerrahi Order of America,Chestnut Ridge,NY,sunni,true
+usa-m-001548,JFK International Islamic Center,Jamaica,NY,sunni,true
+usa-m-001549,Kalamazoo Islamic Center,Kalamazoo,MI,sunni,true
+usa-m-001550,Kaleemullah Masjid,Skokie,IL,sunni,true
+usa-m-001551,Kansas City Islamic Center - KCIC,Kansas City,KS,sunni,true
+usa-m-001552,Kashmir Islamic Center,Yonkers,NY,sunni,true
+usa-m-001553,Kasmir Poland Prince Center Promised Lands,Johnstown,PA,sunni,true
+usa-m-001554,Keesler Air Force Base Islamic Center,Biloxi,MS,sunni,true
+usa-m-001555,Keller Islamic Center - KIC,Fort Worth,TX,sunni,true
+usa-m-001556,Kennewick Masjid,Kennewick,WA,sunni,true
+usa-m-001557,Kent County Islamic Center KCIC - Masjid Aisha,Warwick,RI,sunni,true
+usa-m-001558,Khadeeja Islamic Center - Islamic Society of Greater Salt Lake,West Valley City,UT,sunni,true
+usa-m-001559,Khadeeja Mosque,Taos,NM,sunni,true
+usa-m-001560,Khair Community Center,Phoenixville,PA,sunni,true
+usa-m-001561,Khatam-Un-Nabyeen Center ,Manassas,VA,sunni,true
+usa-m-001562,Khatme Nubuwwat Center,Front Royal,VA,sunni,true
+usa-m-001563,Khatoon e Jannat Azadari Council,Jersey City,NJ,shia,true
+usa-m-001564,King Fahad Mosque - Los Angeles,Culver City,CA,sunni,true
+usa-m-001565,Kirkland Islamic Center,Kirkland,WA,sunni,true
+usa-m-001566,Klein Islamic Center - Masjid,Spring,TX,sunni,true
+usa-m-001567,Kurdish Community Islamic Center,El Cajon,CA,sunni,true
+usa-m-001568,La Mirada Masjid MCSI,La Mirada,CA,sunni,true
+usa-m-001569,Lackawanna Islamic Mosque,Lackawanna,NY,sunni,true
+usa-m-001570,Lady Fatima Center,Denver,CO,sunni,true
+usa-m-001571,LaGrange Islamic Center,LaGrange,GA,sunni,true
+usa-m-001572,Lake Nona Masjid,St Cloud,FL,sunni,true
+usa-m-001573,Las Colinas Islamic Center,Irving,TX,sunni,true
+usa-m-001574,League City Islamic Center,League City,TX,sunni,true
+usa-m-001575,Lebanon Valley Mosque,Lebanon,PA,sunni,true
+usa-m-001576,Leesburg Islamic Center,Leesburg,FL,sunni,true
+usa-m-001577,Lewiston / Auburn Islamic Center,Lewiston,ME,sunni,true
+usa-m-001578,Lexington Islamic Center - Armstrong mill,Lexington,KY,sunni,true
+usa-m-001579,Lexington Mosque,Lexington,MA,sunni,true
+usa-m-001580,Lighthouse For Humanity Bloomfield Muslim Community Center,Bloomfield,CT,sunni,true
+usa-m-001581,Lighthouse Mosque,Oakland,CA,sunni,true
+usa-m-001582,Lodi Mosque,Lodi,CA,sunni,true
+usa-m-001583,Logan Islamic Center,Logan,UT,sunni,true
+usa-m-001584,Loganville Islamic Center,Loganville,GA,sunni,true
+usa-m-001585,Long Beach Islamic Center,Signal Hill,CA,sunni,true
+usa-m-001586,Long Island Mevlana Mosque,Port Jefferson Station,NY,sunni,true
+usa-m-001587,Long Island Muslim Society,East Meadow,NY,sunni,true
+usa-m-001588,Los Angeles Islamic Center,Los Angeles,CA,sunni,true
+usa-m-001589,Loudoun Islamic Center,Leesburg,VA,sunni,true
+usa-m-001590,Lovejoy Madinah Mosque,Buffalo,NY,sunni,true
+usa-m-001591,Lovejoy Mosque,Buffalo,NY,sunni,true
+usa-m-001592,Lynn Mosque - North Shore Islamic Center,Lynn,MA,sunni,true
+usa-m-001593,M Khan Islamic Center & Mosque Glens Falls,Glens Falls,NY,sunni,true
+usa-m-001594,MACCA Moroccan association community,Bronx,NY,sunni,true
+usa-m-001595,Madani Masjid Alvin TX - ISGH,Alvin,TX,sunni,true
+usa-m-001596,Madani Masjid Sunni,Chantilly,VA,sunni,true
+usa-m-001597,Madani Mosque Inc,Woodside,NY,sunni,true
+usa-m-001598,Madera Islamic Center,Madera,CA,sunni,true
+usa-m-001599,Madina Center of Stockton - MCS - Masjid Umar Farooq,Stockton,CA,sunni,true
+usa-m-001600,Madina Institute,Little Rock,AR,sunni,true
+usa-m-001601,Madina Islamic Center,Springfield,VA,sunni,true
+usa-m-001602,Madina Islamic Center of Buffalo,Buffalo,NY,sunni,true
+usa-m-001603,Madina Mosque,Salt Lake City,UT,sunni,true
+usa-m-001604,Madinah Community Center - MCC,Madison,WI,sunni,true
+usa-m-001605,Madinah Masjid,Bronx,NY,sunni,true
+usa-m-001606,Madinah Masjid,Chicago,IL,sunni,true
+usa-m-001607,Madinah Masjid of Carrollton,Carrollton,TX,sunni,true
+usa-m-001608,Madinatul Ilm - MMI,Westland,MI,sunni,true
+usa-m-001609,Madinatul Uloom,Lake Ridge,VA,sunni,true
+usa-m-001610,Madinatul Uloom Institute,Lauderhill,FL,sunni,true
+usa-m-001611,Madison Masjid - North Alabama Islamic Society,Madison,AL,sunni,true
+usa-m-001612,Madrasah Islamiah,Houston,TX,sunni,true
+usa-m-001613,Magnolia Islamic Center,Madison,MS,sunni,true
+usa-m-001614,MAH Mosque Kauai,Kapa'a,HI,sunni,true
+usa-m-001615,Mahdavi Centre,Albuquerque,NM,sunni,true
+usa-m-001616,Mahmood Mosque,Rochester Hills,MI,sunni,true
+usa-m-001617,Main Mosque - Islamic Center of South Plain,Lubbock,TX,sunni,true
+usa-m-001618,MakeSpace,Alexandria,VA,sunni,true
+usa-m-001619,Makkah Learning Center,Gambrills,MD,sunni,true
+usa-m-001620,Makkah Masjid - Garland Mosque,Garland,TX,sunni,true
+usa-m-001621,Makkah Mosque,Philadelphia,PA,sunni,true
+usa-m-001622,Makki Masjid Muslim Community Center,Brooklyn,NY,sunni,true
+usa-m-001623,Makki Mosque,Chicago,IL,sunni,true
+usa-m-001624,Malcolm X Mosque,Brooklyn,NY,sunni,true
+usa-m-001625,Malden Islamic Center,Malden,MA,sunni,true
+usa-m-001626,Manassas Mosque,Manassas,VA,shia,true
+usa-m-001627,Manassass Muslim Association,Manassas,VA,sunni,true
+usa-m-001628,Mankato Islamic Center,Mankato,MN,sunni,true
+usa-m-001629,Mansfield Islamic Center,Arlington,TX,sunni,true
+usa-m-001630,MAPS Seattle,Seattle,WA,sunni,true
+usa-m-001631,MAPS Snohomish,Marysville,WA,sunni,true
+usa-m-001632,MAQ Stadium Musalla,Delray Beach,FL,sunni,true
+usa-m-001633,Markaz Ahlil Athar,Avenel,NJ,sunni,true
+usa-m-001634,Markaz Al Tabligh,Highland Park,MI,sunni,true
+usa-m-001635,Markazul Hikmah,Jamaica,NY,sunni,true
+usa-m-001636,Maryam Center,Fredericksburg,VA,sunni,true
+usa-m-001637,Maryam Islamic Center,Sugar Land,TX,sunni,true
+usa-m-001638,Maryam Masjid of Spokane,Spokane,WA,sunni,true
+usa-m-001639,Maryam Mosque - Community Center of Bay Ridge,Brooklyn,NY,sunni,true
+usa-m-001640,Maryum Islamic Center,Marriotsville,MD,sunni,true
+usa-m-001641,MAS Blaine Mosque,Blaine,MN,sunni,true
+usa-m-001642,MAS Bronx Muslim Center - Muslim American Society of Upper New York,Bronx,NY,sunni,true
+usa-m-001643,MAS Columbus,Columbus,OH,sunni,true
+usa-m-001644,MAS Islamic Center Of Dallas,Richardson,TX,sunni,true
+usa-m-001645,MAS Katy Center - Al Rahman Mosque,Houston,TX,sunni,true
+usa-m-001646,MAS Masjid At Taqwa,Saint Paul,MN,sunni,true
+usa-m-001647,MAS Mosque,San Diego,CA,sunni,true
+usa-m-001648,MAS Queens Center,Astoria,NY,sunni,true
+usa-m-001649,MAS Sacramento,Elk Grove,CA,sunni,true
+usa-m-001650,MAS Salaam Center - MSC,Braintree,MA,sunni,true
+usa-m-001651,MAS South Metro Islamic Center,Rosemount,MN,sunni,true
+usa-m-001652,MAS Staten Island Center - MASSI Center,Staten Island,NY,sunni,true
+usa-m-001653,MAS Tarbiyah Center,Livonia,MI,sunni,true
+usa-m-001654,MAS Youth Center,Brooklyn,NY,sunni,true
+usa-m-001655,Mas'ala Muslim Center of Tacoma,Tacoma,WA,sunni,true
+usa-m-001656,Masjed of Kent,Kent,OH,sunni,true
+usa-m-001657,Masjid - MUNA Center of South Jamaica,South Jamaica,NY,sunni,true
+usa-m-001658,Masjid A Rahma,Detroit,MI,sunni,true
+usa-m-001659,Masjid Abdul - Moghni,La Plata,MD,sunni,true
+usa-m-001660,Masjid Abdur Raqeeb,Baton Rouge,LA,sunni,true
+usa-m-001661,Masjid Abida,Santa Fe,TX,sunni,true
+usa-m-001662,Masjid Abu Bakr,Tampa,FL,sunni,true
+usa-m-001663,Masjid Abu Bakr,Atlanta,GA,sunni,true
+usa-m-001664,Masjid Abu Bakr,Houston,TX,sunni,true
+usa-m-001665,Masjid Abu Bakr,Denver,CO,sunni,true
+usa-m-001666,Masjid Abu Bakr,Oakland,CA,sunni,true
+usa-m-001667,Masjid Abu Bakr Al Siddiq,Hayward,CA,sunni,true
+usa-m-001668,Masjid Abu Bakr Al Siddiq - STL,Saint Louis,MO,sunni,true
+usa-m-001669,Masjid Abu Bakr Al Siddique,Metairie,LA,sunni,true
+usa-m-001670,Masjid Abu Bakr As Siddiq,Los Angeles,CA,sunni,true
+usa-m-001671,Masjid Abu Bakr Siddik,Cincinnati,OH,sunni,true
+usa-m-001672,Masjid Abubakar & Community Center,Jamaica,NY,sunni,true
+usa-m-001673,Masjid Ad Da'wah Ilat Tawheed,Baltimore,MD,sunni,true
+usa-m-001674,Masjid Adam,Bronx,NY,sunni,true
+usa-m-001675,Masjid Adam,Paterson,NJ,sunni,true
+usa-m-001676,Masjid Ahlul Qur'aan Wa Sunnah,South Ozone Park,NY,sunni,true
+usa-m-001677,Masjid Ahlus - Sunnah Wal Jama'ah,Altoona,PA,sunni,true
+usa-m-001678,Masjid Ahlus-Sunnah,Liberty,NY,sunni,true
+usa-m-001679,Masjid Aisha,West Sacramento,CA,sunni,true
+usa-m-001680,Masjid Aisha Mill Basin Islamic Center,Brooklyn,NY,sunni,true
+usa-m-001681,Masjid Al Abrar,Jackson Heights,NY,sunni,true
+usa-m-001682,Masjid Al Ahad,Katy,TX,sunni,true
+usa-m-001683,Masjid Al Amin,Houston,TX,sunni,true
+usa-m-001684,Masjid Al Ansar - West Coast Islamic Society,Anaheim,CA,sunni,true
+usa-m-001685,Masjid Al Aqabah,Fresno,CA,sunni,true
+usa-m-001686,Masjid Al Aqsa,Bronx,NY,sunni,true
+usa-m-001687,Masjid Al Aqsa,Parkville,MD,sunni,true
+usa-m-001688,Masjid Al Athar East Cobb Islamic Center Inc,Marietta,GA,sunni,true
+usa-m-001689,Masjid Al Awwābūn,State College,PA,sunni,true
+usa-m-001690,Masjid Al Azhar,Carmichael,CA,sunni,true
+usa-m-001691,Masjid Al Badr,Brooklyn,NY,sunni,true
+usa-m-001692,Masjid Al Bahr,Nantucket,MA,sunni,true
+usa-m-001693,Masjid Al Baqi - Muslims On Long Island Inc,Bethpage,NY,sunni,true
+usa-m-001694,Masjid Al Birr Wa Taqwah,Altoona,PA,sunni,true
+usa-m-001695,Masjid Al Bukhari,Philadelphia,PA,sunni,true
+usa-m-001696,Masjid Al Emaan,Stockton,CA,sunni,true
+usa-m-001697,Masjid Al Faatir,Chicago,IL,sunni,true
+usa-m-001698,Masjid Al Fajr,Chester,PA,sunni,true
+usa-m-001699,Masjid Al Falah Philadelphia,Philadelphia,PA,sunni,true
+usa-m-001700,Masjid Al Farooq,Philadelphia,PA,sunni,true
+usa-m-001701,Masjid Al Farooq,Sacramento,CA,sunni,true
+usa-m-001702,Masjid Al Farooq - San Leandro Islamic Center,San Leandro,CA,sunni,true
+usa-m-001703,Masjid Al Fath - Islamic Center of Warren,Warren,MI,sunni,true
+usa-m-001704,Masjid Al Fatimah,Orangevale,CA,shia,true
+usa-m-001705,Masjid Al Fattah La Marque,La Marque,TX,sunni,true
+usa-m-001706,Masjid Al Fawzaan,Bronx,NY,sunni,true
+usa-m-001707,Masjid Al Firdous,Paterson,NJ,sunni,true
+usa-m-001708,Masjid Al Furqan,Merritt Island,FL,sunni,true
+usa-m-001709,Masjid Al Furqan,Seattle,WA,sunni,true
+usa-m-001710,Masjid Al Furqan Institute,Central Valley,NY,sunni,true
+usa-m-001711,Masjid Al Ghaniyy,Emporia,VA,sunni,true
+usa-m-001712,Masjid Al Ghurabaa,Glen Carbon,IL,sunni,true
+usa-m-001713,Masjid Al Hadi,Elizabeth,NJ,sunni,true
+usa-m-001714,Masjid Al Haqq,Newark,NJ,sunni,true
+usa-m-001715,Masjid Al Haqq,Detroit,MI,sunni,true
+usa-m-001716,Masjid Al Hayy,Sanford,FL,sunni,true
+usa-m-001717,Masjid Al Huda,Bronx,NY,sunni,true
+usa-m-001718,Masjid Al Huda,Omaha,NE,sunni,true
+usa-m-001719,Masjid Al Huda,Omaha,NE,sunni,true
+usa-m-001720,Masjid Al Huda,Union City,CA,sunni,true
+usa-m-001721,Masjid Al Huda - Huda Community Center,San Diego,CA,sunni,true
+usa-m-001722,Masjid Al Huda - Muslim Center of St Cloud,St Cloud,FL,sunni,true
+usa-m-001723,Masjid Al Huda | Islamic Society of Portland Maine,Portland,ME,sunni,true
+usa-m-001724,Masjid Al Huda Markaz Us Sunnah,Brooklyn,NY,sunni,true
+usa-m-001725,Masjid Al Huda Midwest Islamic Center,Schaumburg,IL,sunni,true
+usa-m-001726,Masjid Al Huda Mosque - Greenfield Campus,Greenfield,WI,sunni,true
+usa-m-001727,Masjid Al Ibrahim,Niagara Falls,NY,sunni,true
+usa-m-001728,Masjid Al Ihsaan,Brooklyn,NY,sunni,true
+usa-m-001729,Masjid Al Ihsaan,Flint,MI,sunni,true
+usa-m-001730,Masjid Al Ikhlaas - ISGM - Islamic Society of Greater Milford,Hopkinton,MA,sunni,true
+usa-m-001731,Masjid Al Ikhlas,Astoria,NY,sunni,true
+usa-m-001732,Masjid Al Ikhlas,San Antonio,TX,sunni,true
+usa-m-001733,Masjid Al Imam Al-Albani,Brooklyn,NY,sunni,true
+usa-m-001734,Masjid Al Imam Malick,Bronx,NY,sunni,true
+usa-m-001735,Masjid Al Iman,Croydon,PA,sunni,true
+usa-m-001736,Masjid Al Iman - Naqshbandi Sufi Center,Oakland,CA,sunni,true
+usa-m-001737,Masjid Al Inshirah,Windsor Mill,MD,sunni,true
+usa-m-001738,Masjid Al Islaam,Dayton,OH,sunni,true
+usa-m-001739,Masjid Al Islahi,Baton Rouge,LA,sunni,true
+usa-m-001740,Masjid Al Islam,Carteret,NJ,sunni,true
+usa-m-001741,Masjid Al Islam,Washington,DC,sunni,true
+usa-m-001742,Masjid Al Islam,Oakland,CA,sunni,true
+usa-m-001743,Masjid Al Islam - Dallas TX,Dallas,TX,sunni,true
+usa-m-001744,Masjid Al Istiqamah,Burbank,IL,sunni,true
+usa-m-001745,Masjid Al Ittehad,Vista,CA,sunni,true
+usa-m-001746,Masjid Al Jama,Ozone Park,NY,sunni,true
+usa-m-001747,Masjid Al Jannah,Columbus,GA,sunni,true
+usa-m-001748,Masjid Al Jumu'ah,Bolingbrook,IL,sunni,true
+usa-m-001749,Masjid Al Karam,Woodlawn,MD,sunni,true
+usa-m-001750,Masjid Al Khair,Kansas City,MO,sunni,true
+usa-m-001751,Masjid Al Khaliq,Seffner,FL,sunni,true
+usa-m-001752,Masjid Al Koaba South Jamaica Islamic Center,Jamaica,NY,sunni,true
+usa-m-001753,Masjid Al Madinah,Lorain,OH,sunni,true
+usa-m-001754,Masjid Al Marjaan,Brooklyn,NY,sunni,true
+usa-m-001755,Masjid Al Mu'min,Los Angeles,CA,sunni,true
+usa-m-001756,Masjid Al Muhsineen,Philadelphia,PA,sunni,true
+usa-m-001757,Masjid Al Mutakabbir,Poughkeepsie,NY,sunni,true
+usa-m-001758,Masjid Al Noor,Santa Clara,CA,sunni,true
+usa-m-001759,Masjid Al Noor,Westminster,CA,sunni,true
+usa-m-001760,Masjid Al Noor,Richmond,CA,sunni,true
+usa-m-001761,Masjid Al Noor - Islamic Society of Central Wisconsin,Marshfield,WI,sunni,true
+usa-m-001762,Masjid Al Noor - ISM West,Brookfield,WI,sunni,true
+usa-m-001763,Masjid Al Nur #1,Highland Park,MI,sunni,true
+usa-m-001764,Masjid Al Qadir,Spring Valley,NY,sunni,true
+usa-m-001765,Masjid Al Qaraouyine - South Brooklyn Islamic Center,Brooklyn,NY,sunni,true
+usa-m-001766,Masjid Al Quran,Columbia,SC,sunni,true
+usa-m-001767,Masjid Al Quran,Dallas,TX,sunni,true
+usa-m-001768,Masjid Al Raheem,Rodeo,CA,sunni,true
+usa-m-001769,Masjid Al Rahma,Barron,WI,sunni,true
+usa-m-001770,Masjid Al Rahmah,Aurora,CO,sunni,true
+usa-m-001771,Masjid Al Rahmah Islamic Center,Fresno,CA,sunni,true
+usa-m-001772,Masjid Al Rahman,Chicago,IL,sunni,true
+usa-m-001773,Masjid Al rahman Of Canton,Canton,OH,sunni,true
+usa-m-001774,Masjid Al Rahman Tarpon Springs,Tarpon Springs,FL,sunni,true
+usa-m-001775,Masjid Al Rasool,Simi Valley,CA,sunni,true
+usa-m-001776,Masjid Al Ridwan Islamic Center,Bronx,NY,sunni,true
+usa-m-001777,Masjid Al Salaam,Dearborn,MI,sunni,true
+usa-m-001778,Masjid Al Salam,Buffalo,NY,sunni,true
+usa-m-001779,Masjid Al Salam,Philadelphia,PA,sunni,true
+usa-m-001780,Masjid Al Samad,Kissimmee,FL,sunni,true
+usa-m-001781,Masjid Al Suffah,Webster,TX,sunni,true
+usa-m-001782,Masjid Al Sunnah,Hamtramck,MI,sunni,true
+usa-m-001783,Masjid Al Sunnah,San Diego,CA,sunni,true
+usa-m-001784,Masjid Al Taqwe Inc,Egg Harbor Township,NJ,sunni,true
+usa-m-001785,Masjid Al Taufiq,Elmhurst,NY,sunni,true
+usa-m-001786,Masjid Al Tawbah,Bronx,NY,sunni,true
+usa-m-001787,Masjid Al Tawbah,Philadelphia,PA,sunni,true
+usa-m-001788,Masjid Al Tawheed,Peekskill,NY,sunni,true
+usa-m-001789,Masjid Al Tawheed,Talent,OR,sunni,true
+usa-m-001790,Masjid Al Tawheed,San Francisco,CA,sunni,true
+usa-m-001791,Masjid Al Tawheed,Elk Grove,CA,sunni,true
+usa-m-001792,Masjid Al Tawheed - Patterson,Paterson,CA,sunni,true
+usa-m-001793,Masjid Al Wadood,Staten Island,NY,sunni,true
+usa-m-001794,Masjid Al Wadud,Montclair,NJ,sunni,true
+usa-m-001795,Masjid Al Wajidi,Elgin,IL,sunni,true
+usa-m-001796,Masjid Al Zahra,South Gate,CA,shia,true
+usa-m-001797,Masjid Al-Bayyinah,College Park,GA,sunni,true
+usa-m-001798,Masjid Al-Haqq,Orlando,FL,sunni,true
+usa-m-001799,Masjid Al-Hidaya,Blountstown,FL,sunni,true
+usa-m-001800,Masjid Al-Hijrah,Miramar,FL,sunni,true
+usa-m-001801,Masjid Al-Husna,Buford,GA,sunni,true
+usa-m-001802,Masjid Al-Hussain Occoquan,Occoquan Historic District,VA,sunni,true
+usa-m-001803,Masjid Al-Ihsaan,Atlanta,GA,sunni,true
+usa-m-001804,Masjid Al-Ihsaan,Orlando,FL,sunni,true
+usa-m-001805,Masjid Al-Iman,Belle Glade,FL,sunni,true
+usa-m-001806,Masjid Al-Jami Ar-Rasheed,North Charleston,SC,sunni,true
+usa-m-001807,Masjid Al-Maalik,Key West,FL,sunni,true
+usa-m-001808,Masjid Al-Mu'minun,Memphis,TN,sunni,true
+usa-m-001809,Masjid Al-Muslimeen,Memphis,TN,sunni,true
+usa-m-001810,Masjid Al-Muslimeen,Memphis,TN,sunni,true
+usa-m-001811,Masjid Al-Noor - Islamic Association of Greater Memphis,Memphis,TN,sunni,true
+usa-m-001812,Masjid Al-Noor - Islamic Society of Tallahassee,Tallahassee,FL,sunni,true
+usa-m-001813,Masjid Al-Nur,Columbus,GA,sunni,true
+usa-m-001814,Masjid Al-Quba,Sugar Hill,GA,sunni,true
+usa-m-001815,Masjid Al-Raheem,Orlando,FL,sunni,true
+usa-m-001816,Masjid Al-Salam - Colorado Islamic Center,Aurora,CO,sunni,true
+usa-m-001817,Masjid Al-Wadud,Columbia,SC,sunni,true
+usa-m-001818,Masjid Aliman - The Islamic Center of Fort Lauderdale,Fort Lauderdale,FL,sunni,true
+usa-m-001819,Masjid Aliya,Stafford,VA,sunni,true
+usa-m-001820,Masjid Allahu Akbar,Wheatley Heights,NY,sunni,true
+usa-m-001821,Masjid Almunir,Baltimore,MD,sunni,true
+usa-m-001822,Masjid Alnoor,Kissimmee,FL,sunni,true
+usa-m-001823,Masjid Alnoor Islamic Community,Waterloo,IA,sunni,true
+usa-m-001824,Masjid Alrahma,Moreno Valley,CA,sunni,true
+usa-m-001825,Masjid Alrahman,Fallston,MD,sunni,true
+usa-m-001826,Masjid AlRasool AlAkram,Houston,TX,sunni,true
+usa-m-001827,Masjid AlSalam,Fort Smith,AR,sunni,true
+usa-m-001828,Masjid An Namirah,Brooklyn,NY,sunni,true
+usa-m-001829,Masjid An Noor,Bridgeport,CT,sunni,true
+usa-m-001830,Masjid An Nur,Lithonia,GA,sunni,true
+usa-m-001831,Masjid An Nur - Boston Markaz,Boston,MA,sunni,true
+usa-m-001832,Masjid An Nur Mosque,Springfield,OH,sunni,true
+usa-m-001833,Masjid An-Noor,Miami,FL,sunni,true
+usa-m-001834,Masjid Anas Bin Malik Kansas City Missouri,Kansas City,MO,sunni,true
+usa-m-001835,Masjid Annoor,Fort Smith,AR,sunni,true
+usa-m-001836,Masjid AnNoor - North Shore Muslim Association,Mandeville,LA,sunni,true
+usa-m-001837,Masjid Annoor Wichita Area - MAWA,Wichita,KS,sunni,true
+usa-m-001838,Masjid Annur Islamic Center,Sacramento,CA,sunni,true
+usa-m-001839,Masjid Ansar - Ansar Camii,Norfolk,VA,sunni,true
+usa-m-001840,Masjid Ansarudeen Islamic Center,Bronx,NY,sunni,true
+usa-m-001841,Masjid Aqsa,Katy,TX,sunni,true
+usa-m-001842,Masjid Aqsa Salam,New York,NY,sunni,true
+usa-m-001843,Masjid Ar Rahim Islamic Community Center,Brooklyn Park,MN,sunni,true
+usa-m-001844,Masjid Ar Rahma - Islamic Center,Greeley,CO,sunni,true
+usa-m-001845,Masjid Ar Rahmah,Bronx,NY,sunni,true
+usa-m-001846,Masjid Ar Rahman,Queens Village,NY,sunni,true
+usa-m-001847,Masjid Ar Rahman,New York,NY,sunni,true
+usa-m-001848,Masjid Ar Rahman,Philadelphia,PA,sunni,true
+usa-m-001849,Masjid Ar Rahman - Nigeria Islamic Society of Massachusetts,Boston,MA,sunni,true
+usa-m-001850,Masjid Ar Rayyan,Depew,NY,sunni,true
+usa-m-001851,Masjid Ar Razzaaq,Wilmington,DE,sunni,true
+usa-m-001852,Masjid Ar Ridhwaan,Forrest City,AR,sunni,true
+usa-m-001853,Masjid Ar-Rahman,Columbia,SC,sunni,true
+usa-m-001854,Masjid Ar-Rahman - Islamic Association of Greater Memphis,Memphis,TN,sunni,true
+usa-m-001855,Masjid As Habul Yameen,East Orange,NJ,sunni,true
+usa-m-001856,Masjid As Sabur,Sacramento,CA,sunni,true
+usa-m-001857,Masjid As Sadiq,Stockton,CA,sunni,true
+usa-m-001858,Masjid As Saffat,Baltimore,MD,sunni,true
+usa-m-001859,Masjid As Sahaba,Indianapolis,IN,sunni,true
+usa-m-001860,Masjid As Salaam,Los Angeles,CA,sunni,true
+usa-m-001861,Masjid As Salam,Brooklyn,NY,sunni,true
+usa-m-001862,Masjid As Sunnah,Schenectady,NY,sunni,true
+usa-m-001863,Masjid As Sunnah An Nabawiyyah,Philadelphia,PA,sunni,true
+usa-m-001864,Masjid As Sunnah Inc,Rochester,NY,sunni,true
+usa-m-001865,Masjid As Sunnah Temporary Location,Grand Rapids,MI,sunni,true
+usa-m-001866,Masjid As-Salaam Inc,Columbia,SC,sunni,true
+usa-m-001867,Masjid As-Siddiq of Conyers,Conyers,GA,sunni,true
+usa-m-001868,Masjid As-Sunnah An-Nabawiyyah,Miami,FL,sunni,true
+usa-m-001869,Masjid Ash Shura,Norfolk,VA,sunni,true
+usa-m-001870,Masjid Ash-Shura,Tuskegee,AL,sunni,true
+usa-m-001871,Masjid Assunnah,Cincinnati,OH,sunni,true
+usa-m-001872,Masjid Assunnah & Dawah Center,Stone Mountain,GA,sunni,true
+usa-m-001873,Masjid At Tawheed,Milwaukee,WI,sunni,true
+usa-m-001874,Masjid At Tawheed - Cheektowaga Islamic Cultural Center,Cheektowaga,NY,sunni,true
+usa-m-001875,Masjid At Thohir,Los Angeles,CA,sunni,true
+usa-m-001876,Masjid At-Taqwa,Memphis,TN,sunni,true
+usa-m-001877,Masjid At-Taqwa,Doraville,GA,sunni,true
+usa-m-001878,Masjid Awliya of Allah,New York,NY,sunni,true
+usa-m-001879,Masjid Ayesha,Missouri City,TX,sunni,true
+usa-m-001880,Masjid Babu Zulfiqar,Mahopac,NY,sunni,true
+usa-m-001881,Masjid Badrudeen Inc,Atlanta,GA,sunni,true
+usa-m-001882,Masjid Bait Ul Tahir ,Brooklyn,NY,sunni,true
+usa-m-001883,Masjid Baitul Gaffar,Richmond Hill,NY,sunni,true
+usa-m-001884,Masjid Baitul Haqq,Mobile,AL,sunni,true
+usa-m-001885,Masjid Baitul Nasr,Pleasantville,NJ,sunni,true
+usa-m-001886,Masjid Bani Adam,Newark,NJ,sunni,true
+usa-m-001887,Masjid Beit El Maqdes,San Antonio,TX,sunni,true
+usa-m-001888,Masjid Bilal,Farmingdale,NY,sunni,true
+usa-m-001889,Masjid Bilal,Grand Rapids,MI,sunni,true
+usa-m-001890,Masjid Bilal,Louisville,KY,sunni,true
+usa-m-001891,Masjid Bilal - Colorado Oromo Muslim Community Center,Aurora,CO,sunni,true
+usa-m-001892,Masjid Bilal - ISGH,Houston,TX,sunni,true
+usa-m-001893,Masjid Bilal - Muslim Society of Jersey Shore,Toms River,NJ,sunni,true
+usa-m-001894,Masjid Bilal Canton,Canton Township,MI,sunni,true
+usa-m-001895,Masjid Bilal Ibn Rabah,Lexington,KY,sunni,true
+usa-m-001896,Masjid Bilal Ibn Rabah of San Antonio - MBIR,San Antonio,TX,sunni,true
+usa-m-001897,Masjid Bilal Islamic Center,Los Angeles,CA,sunni,true
+usa-m-001898,Masjid Bilal of Cleveland,Cleveland,OH,sunni,true
+usa-m-001899,Masjid Bilal Of Syracuse,Syracuse,NY,sunni,true
+usa-m-001900,Masjid Bilal Queens,Jamaica,NY,sunni,true
+usa-m-001901,Masjid Boris Shamanov at CVA,Aurora,CO,sunni,true
+usa-m-001902,Masjid Daar At Tawheed Was Sunnah,Clarence,NY,sunni,true
+usa-m-001903,Masjid Dar al Arqam Islamic Society of Flatbush,Brooklyn,NY,sunni,true
+usa-m-001904,Masjid Dar Al Dawah,Astoria,NY,sunni,true
+usa-m-001905,Masjid Dar Al Huda,Binghamton,NY,sunni,true
+usa-m-001906,Masjid Dar Al Istiqamah NYICCI,Brooklyn,NY,sunni,true
+usa-m-001907,Masjid Dar ul Furqan,Jackson Heights,NY,sunni,true
+usa-m-001908,Masjid Darul Arqam,Bronx,NY,sunni,true
+usa-m-001909,Masjid Darul Emaan,Katy,TX,sunni,true
+usa-m-001910,Masjid Darul Iman,Bronx,NY,sunni,true
+usa-m-001911,Masjid Darul Qur'an,Chicago,IL,sunni,true
+usa-m-001912,Masjid Darul Quran,Bay Shore,NY,sunni,true
+usa-m-001913,Masjid Darus Salaam,Milpitas,CA,sunni,true
+usa-m-001914,Masjid Darussalam,Lonbard,IL,sunni,true
+usa-m-001915,Masjid Darut Tazkiya,Uniondale,NY,sunni,true
+usa-m-001916,Masjid Dawah and Tableegh,El Cajon,CA,sunni,true
+usa-m-001917,Masjid E Aamina,Abilene,TX,sunni,true
+usa-m-001918,Masjid e Ali,Somerset,NJ,shia,true
+usa-m-001919,Masjid e Baitul Karim,Brooklyn,NY,sunni,true
+usa-m-001920,Masjid E Bilal,Temple Hills,MD,sunni,true
+usa-m-001921,Masjid E Bilal - Baltimore,Baltimore,MD,sunni,true
+usa-m-001922,Masjid e Hamza,Bronx,NY,sunni,true
+usa-m-001923,Masjid E Hussain,Mount Pleasant,TX,sunni,true
+usa-m-001924,Masjid e Khaleel,Davie,FL,sunni,true
+usa-m-001925,Masjid e Khazra,East Elmhurst,NY,sunni,true
+usa-m-001926,Masjid e Madani,Buffalo,NY,sunni,true
+usa-m-001927,Masjid E Noor,Chicago,IL,sunni,true
+usa-m-001928,Masjid E Quraish,Houston,TX,sunni,true
+usa-m-001929,Masjid E Suffah,Skokie,IL,sunni,true
+usa-m-001930,Masjid e Taqwa Islamic Center,Philadelphia,PA,sunni,true
+usa-m-001931,Masjid Ebun Abass or Masjid Ibn Abass,Bronx,NY,sunni,true
+usa-m-001932,Masjid Eesa ibn Maryam,Hollis,NY,sunni,true
+usa-m-001933,Masjid El Ber,Astoria,NY,sunni,true
+usa-m-001934,Masjid Es Salam,Phoeniix,AZ,sunni,true
+usa-m-001935,Masjid Esa Ibn Maryam,Stratford,CT,sunni,true
+usa-m-001936,Masjid Faatimah,Hawthorne,CA,sunni,true
+usa-m-001937,Masjid Faizan e Aisha,Hicksville,NY,sunni,true
+usa-m-001938,Masjid Farooq,Ann Arbor,MI,sunni,true
+usa-m-001939,Masjid Faruq of Grand Prairie TX,Grand Prairie,TX,sunni,true
+usa-m-001940,Masjid Fatima,Catonsville,MD,sunni,true
+usa-m-001941,Masjid Feidul Islam Olympia Lacey Islamic Center,Lacey,WA,sunni,true
+usa-m-001942,Masjid Fresno - Islamic Center,Fresno,CA,sunni,true
+usa-m-001943,Masjid Ghous E Azam,Humble,TX,sunni,true
+usa-m-001944,Masjid Gul,Houston,TX,sunni,true
+usa-m-001945,Masjid Habibiz,Fremont,CA,sunni,true
+usa-m-001946,Masjid Hamza,Largo,FL,sunni,true
+usa-m-001947,Masjid Hamza,Stockton,CA,sunni,true
+usa-m-001948,Masjid Hamza Islamic Center,Valley Stream,NY,sunni,true
+usa-m-001949,Masjid Hanford,Hanford,CA,sunni,true
+usa-m-001950,Masjid Hikmah - Islamic Center,Fort Washington,MD,sunni,true
+usa-m-001951,Masjid Ibn Abbas - Upon the Salaf,College Park,GA,sunni,true
+usa-m-001952,Masjid Ibn Baaz,Philadelphia,PA,sunni,true
+usa-m-001953,Masjid Ibn Taymiyyah,Glenarden,MD,sunni,true
+usa-m-001954,Masjid Ibraaaheem,Loganville,GA,sunni,true
+usa-m-001955,Masjid Ibrahim,Brooklyn,NY,sunni,true
+usa-m-001956,Masjid Ibrahim,Miami,FL,sunni,true
+usa-m-001957,Masjid Ibrahim,Austin,TX,sunni,true
+usa-m-001958,Masjid Ibrahim - Bethany Musalla,Portland,OR,sunni,true
+usa-m-001959,Masjid Ibrahim - Muslim Society Inc - MSI,Glendale,IL,sunni,true
+usa-m-001960,Masjid Ibrahim Community Center,Delaware,OH,sunni,true
+usa-m-001961,Masjid Ibrahim Mosque,Las vegas,NV,sunni,true
+usa-m-001962,Masjid Ihsan,Ridgeland,SC,sunni,true
+usa-m-001963,Masjid Ikhlas - Metropolitan Denver North ,Northglenn,CO,sunni,true
+usa-m-001964,Masjid Imam Abu Hanifa,Brooklyn,NY,sunni,true
+usa-m-001965,Masjid Inaam,Skokie,IL,sunni,true
+usa-m-001966,Masjid International Wahadah,Oakland,CA,sunni,true
+usa-m-001967,Masjid Isa Ibn Maryam,Syracuse,NY,sunni,true
+usa-m-001968,Masjid Jamaat Al-Mumineen,Margate,FL,sunni,true
+usa-m-001969,Masjid Jamiul Muslimeen,Seattle,WA,sunni,true
+usa-m-001970,Masjid Jauharatul-Islam - Jewel of Islam Mosque,Phoenix,AZ,sunni,true
+usa-m-001971,Masjid Jihad,Savannah,GA,sunni,true
+usa-m-001972,Masjid Khadija,Fort Washington,MD,sunni,true
+usa-m-001973,Masjid Khulafa A Rashedeen,Houston,TX,sunni,true
+usa-m-001974,Masjid Klamath Falls,Klamath Falls,OR,sunni,true
+usa-m-001975,Masjid Libertyville,Libertyville,IL,sunni,true
+usa-m-001976,Masjid Madeena,Bellevue,WA,sunni,true
+usa-m-001977,Masjid Mahdi - Ahmadiyya Muslim Community - Buffalo Chapter,Niagara Falls,NY,sunni,true
+usa-m-001978,Masjid Mahmood,Rochester Hills,MI,sunni,true
+usa-m-001979,Masjid Malcolm Shabazz,New York,NY,sunni,true
+usa-m-001980,Masjid Manhattan,New York,NY,sunni,true
+usa-m-001981,Masjid Maryam,Duluth,GA,sunni,true
+usa-m-001982,Masjid Maryam - ICNA Center,Corona,CA,sunni,true
+usa-m-001983,Masjid Millati Ibrahim Islamic Center,Sacramento,CA,sunni,true
+usa-m-001984,Masjid Mission Center - Haji Camp Masjid,Jamaica,NY,sunni,true
+usa-m-001985,Masjid Mu-Minun,Anderson,SC,sunni,true
+usa-m-001986,Masjid Muhajireen,Hayward,CA,sunni,true
+usa-m-001987,Masjid Muhajirun Wal Ansar,Moncks Corner,SC,sunni,true
+usa-m-001988,Masjid Muhammad,Atlantic City,NJ,sunni,true
+usa-m-001989,Masjid Muhammad,Monroe,LA,sunni,true
+usa-m-001990,Masjid Muhammad Bin Abdul Wahab,Bronx,NY,sunni,true
+usa-m-001991,Masjid Muhammad Islamic Comple,Jackson,MS,sunni,true
+usa-m-001992,Masjid Muhammed,Jacksonville,FL,sunni,true
+usa-m-001993,Masjid Mumineen,Homestead,FL,sunni,true
+usa-m-001994,Masjid Muqbil Haadee Al Wad'ee,Rochester,NY,sunni,true
+usa-m-001995,Masjid Muqbil Ibn Haadee,Philadephia,PA,sunni,true
+usa-m-001996,Masjid Muslim Community,Bronx,NY,sunni,true
+usa-m-001997,Masjid Mustafa,Halethorpe,MD,sunni,true
+usa-m-001998,Masjid Nasrullah,Lawrenceville,GA,sunni,true
+usa-m-001999,Masjid Nejashi - Darul Iman Ethiopian Muslim Community,Las Vegas,NV,sunni,true
+usa-m-002000,Masjid New Africa Center for Human Development,Hitchcock,TX,sunni,true
+usa-m-002001,Masjid Noor,Huntington,NY,sunni,true
+usa-m-002002,Masjid Noor Islamic and Cultural Community Center,Concord,CA,sunni,true
+usa-m-002003,Masjid Noor Ul Quran,Brooklyn,NY,sunni,true
+usa-m-002004,Masjid Noorul Huda Islamic Center,Bronx,NY,sunni,true
+usa-m-002005,Masjid Nur,Lawrenceville,GA,sunni,true
+usa-m-002006,Masjid Nur Allah,Corona,NY,sunni,true
+usa-m-002007,Masjid Nur Ul Islam,Davie,FL,sunni,true
+usa-m-002008,Masjid Nuriddin,Corona,NY,sunni,true
+usa-m-002009,Masjid Nurul Amir Mu’min,Woodside,NY,sunni,true
+usa-m-002010,Masjid of Al Islam,Fort Worth,TX,sunni,true
+usa-m-002011,Masjid of Antelope Valley,Palmdale,CA,sunni,true
+usa-m-002012,Masjid of Gatlinburg,Gatlinburg,TN,sunni,true
+usa-m-002013,Masjid of Richmond & Richmond Community Center,Richmond,KY,sunni,true
+usa-m-002014,Masjid Okeechobee,Okeechobee,FL,sunni,true
+usa-m-002015,Masjid Omar,Upper Darby Township,PA,sunni,true
+usa-m-002016,Masjid Omar,Kansas City,MO,sunni,true
+usa-m-002017,Masjid Omar Al-Farook,Philadelphia,PA,sunni,true
+usa-m-002018,Masjid Omar Ben Abdel-Aziz,Jamaica,NY,sunni,true
+usa-m-002019,Masjid Omar Bin Abdul Aziz Mosque,Lilburn,GA,sunni,true
+usa-m-002020,Masjid Omar ibn Al Khattab,Los Angeles,CA,sunni,true
+usa-m-002021,Masjid Omar Muhammad,Moorpark,CA,sunni,true
+usa-m-002022,Masjid Osmaniyah,Memphis,TN,sunni,true
+usa-m-002023,Masjid Oumar Al Foutiyou,Columbus,OH,sunni,true
+usa-m-002024,Masjid Porterville,Porterville,CA,sunni,true
+usa-m-002025,Masjid Qamar - The Oshkosh Mosque,Oshkosh,WI,sunni,true
+usa-m-002026,Masjid Qasim B El-Amin,Montgomery,AL,sunni,true
+usa-m-002027,Masjid Quadria,Jamaica,NY,sunni,true
+usa-m-002028,Masjid Quba,Baltimore,MD,sunni,true
+usa-m-002029,Masjid Quba,Round Lake Beach,IL,sunni,true
+usa-m-002030,Masjid Quba'a,Carteret,NJ,sunni,true
+usa-m-002031,Masjid Qubaa,Orlando,FL,sunni,true
+usa-m-002032,Masjid Qurtubah - Duarte Mosque,Monrovia,CA,sunni,true
+usa-m-002033,Masjid Rahmah,Newark,NJ,sunni,true
+usa-m-002034,Masjid Rahman,Orlando,FL,sunni,true
+usa-m-002035,Masjid Rahman Islamic center,Stone Mountain,GA,sunni,true
+usa-m-002036,Masjid Rahmat e Alam,West Des Moines,IA,sunni,true
+usa-m-002037,Masjid Rajilun,Plaquemine,LA,sunni,true
+usa-m-002038,Masjid Rassull Center,Dallas,TX,sunni,true
+usa-m-002039,Masjid Saad Foundation,Sylvania,OH,sunni,true
+usa-m-002040,Masjid Sabeel'ul Faoz,Indianapolis,IN,sunni,true
+usa-m-002041,Masjid Sabiqun,Baton Rouge,LA,sunni,true
+usa-m-002042,Masjid Sabireen,Pomona,CA,sunni,true
+usa-m-002043,Masjid Sadar & Community Center,Parlin,NJ,sunni,true
+usa-m-002044,Masjid Sahabah,Waukee,IA,sunni,true
+usa-m-002045,Masjid Salaam,Philadelphia,PA,sunni,true
+usa-m-002046,Masjid Salah Ad Deen,Houston,TX,sunni,true
+usa-m-002047,Masjid Salahadeen,Plano,TX,sunni,true
+usa-m-002048,Masjid Salam,Hartford,CT,sunni,true
+usa-m-002049,Masjid Salam,Elgin,IL,sunni,true
+usa-m-002050,Masjid Salman Al Farsi,Tucker,GA,sunni,true
+usa-m-002051,Masjid Samiya,Ansonia,CT,sunni,true
+usa-m-002052,Masjid Shuhada,Mount Holly,NJ,sunni,true
+usa-m-002053,Masjid Sidiki,Bronx,NY,sunni,true
+usa-m-002054,Masjid Sidq Was Ilkhas,Eat Point,GA,sunni,true
+usa-m-002055,Masjid Suffah,Kennesaw,GA,sunni,true
+usa-m-002056,Masjid Sunnat ul Jamaat,South Richmond Holl,NY,sunni,true
+usa-m-002057,Masjid Syed JamalUddin,Flushing,NY,sunni,true
+usa-m-002058,Masjid Tajul Huda,Bronx,NY,sunni,true
+usa-m-002059,Masjid Talut,Rifle,CO,sunni,true
+usa-m-002060,Masjid Taqwa,Bronx,NY,sunni,true
+usa-m-002061,Masjid Taqwa,San Diego,CA,sunni,true
+usa-m-002062,Masjid Taqwa Islamic Center,Bronx,NY,sunni,true
+usa-m-002063,Masjid Tawbah,Philadelphia,PA,sunni,true
+usa-m-002064,Masjid Tawfeeq of Rochester Inc,Rochester,NY,sunni,true
+usa-m-002065,Masjid Tawheed,Detroit,MI,sunni,true
+usa-m-002066,Masjid Tawheed Center of Williston,Willston,ND,sunni,true
+usa-m-002067,Masjid Tawheed Kissimmee,Kissimmee,FL,sunni,true
+usa-m-002068,Masjid Tawheed of Greater Allentown,Allentown,PA,sunni,true
+usa-m-002069,Masjid Tawhid,Brooklyn,NY,sunni,true
+usa-m-002070,Masjid Tazkiah,Ocoee,FL,sunni,true
+usa-m-002071,Masjid Tiba,Long Island City,NY,sunni,true
+usa-m-002072,Masjid Touba,Phoenix,AZ,sunni,true
+usa-m-002073,Masjid Turkiy,Philadelphia,PA,sunni,true
+usa-m-002074,Masjid Ul Haqq,San Mateo,CA,sunni,true
+usa-m-002075,Masjid Ul Haqq Inc,Baltimore,MD,sunni,true
+usa-m-002076,Masjid Ul Islam,Elgin,IL,sunni,true
+usa-m-002077,Masjid Umar,Kingston,NY,sunni,true
+usa-m-002078,Masjid Umar,Baltimore,MD,sunni,true
+usa-m-002079,Masjid Umar bin Khattab - Islamic Association of Michigan,Brownstown Township,MI,sunni,true
+usa-m-002080,Masjid Umar Ibn Al Khattab,Hartford,CT,sunni,true
+usa-m-002081,Masjid Umar ibn Al Khattab,Aurora,CO,sunni,true
+usa-m-002082,Masjid Umar Opelousas,Opelousas,LA,sunni,true
+usa-m-002083,Masjid Umm ul Qura,Brooklyn,NY,sunni,true
+usa-m-002084,Masjid Umme Hani,Miami Gardens,FL,sunni,true
+usa-m-002085,Masjid Un Noor,Staten Island,NY,sunni,true
+usa-m-002086,Masjid Uncle Fikry,Windsor,NY,sunni,true
+usa-m-002087,Masjid Ur Rashid,Beacon,NY,sunni,true
+usa-m-002088,Masjid Usman,Lemon Grove,CA,sunni,true
+usa-m-002089,Masjid Uthman,Lombard,IL,sunni,true
+usa-m-002090,Masjid Uthman Bin Affan,Aurora,CO,sunni,true
+usa-m-002091,Masjid Uthman Dunwoody Community Center,Dunwoody,GA,sunni,true
+usa-m-002092,Masjid Visalia,Visalia,CA,sunni,true
+usa-m-002093,Masjid Wali Muhammad,Detroit,MI,sunni,true
+usa-m-002094,Masjid Ya Rasool Allah - Lodi,Lodi,CA,sunni,true
+usa-m-002095,Masjid Yaseen,Arabi,LA,sunni,true
+usa-m-002096,Masjid Yaseen,Garland,TX,sunni,true
+usa-m-002097,Masjid Yusuf - Islamic Center of Richmond,Glen Allen,VA,sunni,true
+usa-m-002098,Masjid Zakariya,Buffalo,NY,sunni,true
+usa-m-002099,Masjid Zakariya - ICF - Albrae,Fremont,CA,sunni,true
+usa-m-002100,Masjid Zumratul Jannah,Providence,RI,sunni,true
+usa-m-002101,Masjid'il Mustakeem,Flint,MI,sunni,true
+usa-m-002102,Masjidu Nuur Islamic Center - Ahlu Sunnah,Kansas City,MO,sunni,true
+usa-m-002103,Masjidul Allah,Queens Village,NY,sunni,true
+usa-m-002104,Masjidul Bayaan,Asbury Park,NJ,sunni,true
+usa-m-002105,Masjidullah - The Center for Human Excellence,Philadelphia,PA,sunni,true
+usa-m-002106,Masjidun Nur,Detroit,MI,sunni,true
+usa-m-002107,Masjidun Nur Inc,Camden,NJ,sunni,true
+usa-m-002108,Masjidur Rahman - Cheektowaga Islamic Center USA Inc,Cheektowaga,NY,sunni,true
+usa-m-002109,Masjidus Sabur,Bronx,NY,sunni,true
+usa-m-002110,Mason I Islamic School,Mason,OH,sunni,true
+usa-m-002111,Maunatul Muslimeen Society of CA - Islamic Center - MMSC,Sacramento,CA,sunni,true
+usa-m-002112,MCC: Muslim Community Center,Brooklyn,NY,sunni,true
+usa-m-002113,MCC: Muslim Community Center - Staten Island,Staten Island,NY,sunni,true
+usa-m-002114,MCCD,Detroit,MI,sunni,true
+usa-m-002115,MCECC & Al Madinah Mosque,San Antonio,TX,sunni,true
+usa-m-002116,McKinney Islamic Association,McKinney,TX,sunni,true
+usa-m-002117,McLean Islamic Center,Vienna,VA,sunni,true
+usa-m-002118,Mclean Islamic Society,McLean,VA,sunni,true
+usa-m-002119,MCW Masjid Al-Noor Dothan Masjid,Dothan,AL,sunni,true
+usa-m-002120,MCWS - Muslim Community of Western Suburbs,Canton Township,MI,sunni,true
+usa-m-002121,Medical Center Islamic Society - New Almeda Masjid,Houston,TX,sunni,true
+usa-m-002122,Medina Mosque and Islamic Center,Pleasantville,NJ,sunni,true
+usa-m-002123,Mehfile Shahe Khorasan,Englewood,NJ,shia,true
+usa-m-002124,Melvindale Islamic Center,Melvindale,MI,sunni,true
+usa-m-002125,Memphis Islamic Center - MIC,Cordova,TN,sunni,true
+usa-m-002126,Mercy Community Center - Masjid,Houston,TX,sunni,true
+usa-m-002127,Mesquite Islamic Center - MIC Mosque,Mesquite,TX,sunni,true
+usa-m-002128,Metro Masjid,Arlington,VA,sunni,true
+usa-m-002129,Mevlana Camii,West Haven,CT,sunni,true
+usa-m-002130,Miami Beach Mosque,North Bay Village,FL,sunni,true
+usa-m-002131,Miami Mosque,Hialeah,FL,sunni,true
+usa-m-002132,Miami Mosque,Miami,FL,sunni,true
+usa-m-002133,Mid Hudson Islamic Association,Wappingers Falls,NY,sunni,true
+usa-m-002134,Mid Westchester Muslim Community Center,Ossining,NY,sunni,true
+usa-m-002135,Middletown Islamic Center,New Hampton,NY,sunni,true
+usa-m-002136,Midtown Mosque,Memphis,TN,sunni,true
+usa-m-002137,Millard Islamic Foundation,Omaha,NE,sunni,true
+usa-m-002138,Milpitas Musallah,Milpitas,CA,sunni,true
+usa-m-002139,Milwaukee Islamic Dawah Center - Masjid Ar Rahman,Milwaukee,WI,sunni,true
+usa-m-002140,Mimar Sinan Sunnyside Mosque,Sunnyside,NY,sunni,true
+usa-m-002141,Minara Islamic Community Center,Albuquerque,NM,sunni,true
+usa-m-002142,Minhaj Ul Quran Al Noor Islamic Center,Ellington,CT,sunni,true
+usa-m-002143,Minhaj Ul Quran Educational,Hackensack,NJ,sunni,true
+usa-m-002144,Mission Islamic Center of San Francisco,San Francisco,CA,sunni,true
+usa-m-002145,Missoula Islamic Society,Missoula,MT,sunni,true
+usa-m-002146,MIT MSA,Cambridge,MA,sunni,true
+usa-m-002147,Mobile Masjid of Al Islam,Mobile,AL,sunni,true
+usa-m-002148,Mohammad Rasool Allah Mosque,Cleveland,OH,sunni,true
+usa-m-002149,Mohammadia Islamic Associates - Afghan,Paterson,NJ,shia,true
+usa-m-002150,Momin Community Center,St Johns,FL,sunni,true
+usa-m-002151,MOMIN of Texas,Dallas,TX,shia,true
+usa-m-002152,Monroe Islamic Center - MIC,Jamesburg,NJ,sunni,true
+usa-m-002153,Moorhead Fargo Islamic Center,Moorhead,MN,sunni,true
+usa-m-002154,Moroccan American Community Organization,Falls Church,VA,sunni,true
+usa-m-002155,Moses Lake Islamic Center,Moses Lake,WA,sunni,true
+usa-m-002156,Mosque - Jesus Son of Mary Center,Tampa,FL,sunni,true
+usa-m-002157,Mosque Boshniak American Community Center,Elmwood Park,NJ,sunni,true
+usa-m-002158,Mosque for Friday Prayers,Boston,MA,sunni,true
+usa-m-002159,Mosque for Praising Allah,Boston,MA,sunni,true
+usa-m-002160,Mosque Foundation,Bridgeview,IL,sunni,true
+usa-m-002161,Mosque Michigan Tech,Houghton,MI,sunni,true
+usa-m-002162,Mosque Muhammad - Newark,Newark,NJ,sunni,true
+usa-m-002163,Mosque of Carson City,Carson City,NV,sunni,true
+usa-m-002164,Mosque of Hays,Hays,KS,sunni,true
+usa-m-002165,Mosque of Nasreen,San Luis Obispo,CA,sunni,true
+usa-m-002166,Mosque of Sioux City,Sioux City,IA,sunni,true
+usa-m-002167,Mosque of Williamsburg Virginia,Williamsburg,VA,sunni,true
+usa-m-002168,Mount Pleasant Islamic Center,Mount Pleasant,TX,sunni,true
+usa-m-002169,Mount Sinai Muslim Center,Mount Sinai,NY,sunni,true
+usa-m-002170,Mount Vernon Masjid,Mount Vernon,WA,sunni,true
+usa-m-002171,Mountain View - Palo Alto Mosque - MVPA Musalla,Mountain View,CA,sunni,true
+usa-m-002172,MSA Mosala,University,MS,sunni,true
+usa-m-002173,MTO Shahmaghsoudi,Frisco,TX,sunni,true
+usa-m-002174,Muad Bin Jabal Islamic Center - Masjid,Stone Mountain,GA,sunni,true
+usa-m-002175,Mubarak Mosque,Chantilly,VA,sunni,true
+usa-m-002176,Muhammad Abdul Wahab Mosque,Camden,NJ,sunni,true
+usa-m-002177,Muhammad Ali Islamic Center,New York,NY,sunni,true
+usa-m-002178,Muhammad Islamic Center of Greater Hartford,Hartford,CT,sunni,true
+usa-m-002179,Muhammad Mosque,Jersey City,NJ,sunni,true
+usa-m-002180,Muhammad Mosque,Philadelphia,PA,sunni,true
+usa-m-002181,Muhammadi Mosque,Elmont,NY,sunni,true
+usa-m-002182,Mumin Islamic Center,Flint,MI,sunni,true
+usa-m-002183,Muna Center of Jackson Heights,Jackson Heights,NY,sunni,true
+usa-m-002184,MUNA Center of Jamaica - Ar Rayyan Mosque,Hollis,NY,sunni,true
+usa-m-002185,MUNA Center of New York,Ozone Park,NY,sunni,true
+usa-m-002186,MUNA Center of South Jersey - MCSJ - Masjid As Salaam,Pine Hill,NJ,sunni,true
+usa-m-002187,Muqbel Alwadaee,Bronx,NY,sunni,true
+usa-m-002188,Murat Mosque,Monroeville,NJ,sunni,true
+usa-m-002189,Murid Islamic Community in America,New York,NY,sunni,true
+usa-m-002190,Musalla,Clute,TX,sunni,true
+usa-m-002191,Musalla Masjid Bait Allah,Wayne,NJ,sunni,true
+usa-m-002192,Musallah Masjid Mosque,Burleson,TX,sunni,true
+usa-m-002193,Musjid Abu Hanifah Inc,Brooklyn,NY,sunni,true
+usa-m-002194,Muslim American Community Association - MACA - Voorhees Mosque,Voorhees,NJ,sunni,true
+usa-m-002195,Muslim American Society,Syracuse,NY,sunni,true
+usa-m-002196,Muslim American Society,Kansas City,MO,sunni,true
+usa-m-002197,Muslim American Society,Alexandria,VA,sunni,true
+usa-m-002198,Muslim Association of Cleveland East,Cleveland,OH,sunni,true
+usa-m-002199,Muslim Association of Greater Pittsburgh,Gibsonia,PA,sunni,true
+usa-m-002200,Muslim Association of Hawaii,Honolulu,HI,sunni,true
+usa-m-002201,Muslim Association of Huntington,Huntington,WV,sunni,true
+usa-m-002202,Muslim Association of Lehigh Valley - MALV,Whitehall Township,PA,sunni,true
+usa-m-002203,Muslim Association of Puget Sound - MAPS,Redmond,WA,sunni,true
+usa-m-002204,Muslim Association of West Texas,Midland,TX,sunni,true
+usa-m-002205,Muslim Center of Beloit,Beloit,WI,sunni,true
+usa-m-002206,Muslim Center of Conway,Conway,AR,sunni,true
+usa-m-002207,Muslim Center of Greater Princeton,West Windsor,NJ,sunni,true
+usa-m-002208,Muslim Center of Middlesex County - MCMC,Piscatawy,NJ,sunni,true
+usa-m-002209,Muslim Center of Montgomery,Montgomery,AL,sunni,true
+usa-m-002210,Muslim Center of New Jersey,Morganville,NJ,sunni,true
+usa-m-002211,Muslim Center of New York,Flushing,NY,sunni,true
+usa-m-002212,Muslim Center of Niagara Falls,Niagara Falls,NY,sunni,true
+usa-m-002213,Muslim Center of San Antonio,Helotes,TX,sunni,true
+usa-m-002214,Muslim Center of Somerset,Hillsborough Township,NJ,sunni,true
+usa-m-002215,Muslim Center of Staten Island,Staten Island,NY,sunni,true
+usa-m-002216,Muslim Community Association,Santa Clara,CA,sunni,true
+usa-m-002217,Muslim Community Association of Ann Arbor - MCA,Ann Arbor,MI,sunni,true
+usa-m-002218,Muslim Community Center,Silver Spring,MD,sunni,true
+usa-m-002219,Muslim Community Center - Al Rahman,Bloomington,MN,sunni,true
+usa-m-002220,Muslim Community Center - Augusta,Augusta,GA,sunni,true
+usa-m-002221,Muslim Community Center - East Bay - MCC East Bay,Pleasanton,CA,sunni,true
+usa-m-002222,Muslim Community Center - Masjid Al Taqwa,Indianapolis,IN,sunni,true
+usa-m-002223,Muslim Community Center - MCC - West 192,Kissimmee,FL,sunni,true
+usa-m-002224,Muslim Community Center - MCC Chicago,Chicago,IL,sunni,true
+usa-m-002225,Muslim Community Center & Mosque,Rockford,IL,sunni,true
+usa-m-002226,Muslim Community Center of Apopka - MCCA,Apopka,FL,sunni,true
+usa-m-002227,Muslim Community Center of Chesterfield,Moseley,VA,sunni,true
+usa-m-002228,Muslim Community Center of Greater Pittsburgh - MCCGP,Monroeville,PA,sunni,true
+usa-m-002229,Muslim Community Center of Greater San Diego,San Diego,CA,sunni,true
+usa-m-002230,Muslim Community Center of Paramus - The Fusion,Paramus,NJ,sunni,true
+usa-m-002231,Muslim Community Center of Portland,Portland,OR,sunni,true
+usa-m-002232,Muslim Community Center of RI,Providence,RI,sunni,true
+usa-m-002233,Muslim Community Center of South Dakota,Sioux Falls,SD,sunni,true
+usa-m-002234,Muslim Community Center of the Capital District,Schenectady,NY,sunni,true
+usa-m-002235,Muslim Community Center of Tucson,Tucson,AZ,sunni,true
+usa-m-002236,Muslim Community Center of Utah,Salt Lake City,UT,sunni,true
+usa-m-002237,Muslim Community Hall,Wichita Falls,TX,sunni,true
+usa-m-002238,Muslim Community Mosque - Home of the Islamic Cultural Association,Farmington,MI,sunni,true
+usa-m-002239,Muslim Community Mosque Phoenix,Phoenix,AZ,sunni,true
+usa-m-002240,Muslim Community of Alaska Inc - Masjid Ash Shura of Alaska,Anchorage,AK,sunni,true
+usa-m-002241,Muslim Community of Bethlehem,Delmar,NY,sunni,true
+usa-m-002242,Muslim Community of Folsom,Folsom,CA,sunni,true
+usa-m-002243,Muslim Community of Knoxville - MCK - Masjid Annoor,Knoxville,TN,sunni,true
+usa-m-002244,Muslim Community of Michigan - Masjid Baitul Mamur,Sterling Heights,MI,sunni,true
+usa-m-002245,Muslim Community of New Jersey Masjid,Fords,NJ,sunni,true
+usa-m-002246,Muslim Community of Palm Beach,West Palm Beach,FL,sunni,true
+usa-m-002247,Muslim Community Organization,Des Moines,IA,sunni,true
+usa-m-002248,Muslim Education Center - Masjid - MCC Academy,Morton Grove,IL,sunni,true
+usa-m-002249,Muslim Educational Trust,Tigard,OR,sunni,true
+usa-m-002250,Muslim Family Center,Columbia,MD,sunni,true
+usa-m-002251,Muslim Federation of NJ,Jersey City,NJ,sunni,true
+usa-m-002252,Muslim Friends Of Florida Mosque,Fort Pierce,FL,sunni,true
+usa-m-002253,Muslim Funeral home & ICNA Rockford,Rockford,IL,sunni,true
+usa-m-002254,Muslim Life of Binghamton Inc,Binghamton,NY,sunni,true
+usa-m-002255,Muslim Majlis of Staten Island,Staten Island,NY,sunni,true
+usa-m-002256,Muslim Majlis of Staten Island,Staten Island,NY,sunni,true
+usa-m-002257,Muslim Mission Center - Richmond Masjid Taqwa,Richmond,CA,sunni,true
+usa-m-002258,Muslim Mosque Association,Sacramento,CA,sunni,true
+usa-m-002259,Muslim Mosque Inc,Paterson,NJ,sunni,true
+usa-m-002260,Muslim Society of Memphis,Memphis,TN,sunni,true
+usa-m-002261,Muslim Soldiers Masjid,Fort Drum,NY,sunni,true
+usa-m-002262,Muslim Student Association,New Orleans,LA,sunni,true
+usa-m-002263,Mustafa Center,Annandale,VA,sunni,true
+usa-m-002264,My Deen Center,Fresno,CA,sunni,true
+usa-m-002265,MYCP Muslim Youth Center of Philadelphia,Philadelphia,PA,sunni,true
+usa-m-002266,NAFIS Boston,Reading,MA,sunni,true
+usa-m-002267,NAIF Center,Manassas,VA,sunni,true
+usa-m-002268,Najmi Masjid,Tampa,FL,sunni,true
+usa-m-002269,Namrah Mosque,Columbus,OH,sunni,true
+usa-m-002270,Naylul Maraam Islamic Center USA,New York,NY,sunni,true
+usa-m-002271,Nebraska Islamic Foundation,Lincoln,NE,sunni,true
+usa-m-002272,NEJAF Islamic Center,Milford,MA,sunni,true
+usa-m-002273,New Braunfels Islamic Center,New Braunfels,TX,sunni,true
+usa-m-002274,New Brunswick Islamic Center,North Brunswick Township,NJ,sunni,true
+usa-m-002275,New Haven Islamic Center - NHIC,Orange,CT,sunni,true
+usa-m-002276,New Lots Islamic Center,Brooklyn,NY,sunni,true
+usa-m-002277,New Mosque,Los Angeles,CA,sunni,true
+usa-m-002278,New York University Islamic Center,New York,NY,sunni,true
+usa-m-002279,New Zaiqa Musalla,Chicago,IL,sunni,true
+usa-m-002280,NIA Masjid & Community Center,Newark,NJ,sunni,true
+usa-m-002281,Nida Ul Islam Center,Teaneck,NJ,sunni,true
+usa-m-002282,Nigerian American Islamic Mission,Newark,NJ,sunni,true
+usa-m-002283,Nigerian Islamic Association,Chicago,IL,sunni,true
+usa-m-002284,Nigerian Muslim Association of Philadelphia,Philadephia,PA,sunni,true
+usa-m-002285,Nigerian Muslim Council New Jersey Chapter,Newark,NJ,sunni,true
+usa-m-002286,Nigerian-American Muslim Integrated Community Center,Brooklyn,NY,sunni,true
+usa-m-002287,Noor Al Islam Society,Staten Island,NY,sunni,true
+usa-m-002288,Noor Center & Masjid An Noor - Wesley Chapel Masjid,Wesley Chapel,FL,sunni,true
+usa-m-002289,Noor Islamic Cultural Center,Dublin,OH,sunni,true
+usa-m-002290,Noor Mosque,Huntington,NY,sunni,true
+usa-m-002291,Noor Ul Yaqeen Islamic Center,Kansas City,MO,sunni,true
+usa-m-002292,Noor Unity Center,Flint,MI,sunni,true
+usa-m-002293,Noor-Ul-Huda Mosque,Columbia,SC,sunni,true
+usa-m-002294,Noori Mosque,Plano,TX,sunni,true
+usa-m-002295,Norristown Islamic Society,Norristown,PA,sunni,true
+usa-m-002296,North Austin Muslim Community Center - NAMCC - Masjid Aisha,Austin,TX,sunni,true
+usa-m-002297,North Bronx Islamic Center,Bronx,NY,sunni,true
+usa-m-002298,North Hudson Islamic Educational Center - NHIEC,Union City,NJ,sunni,true
+usa-m-002299,North Penn Mosque,Lansdale,PA,sunni,true
+usa-m-002300,North Shore Islamic Center,Albertson,NY,sunni,true
+usa-m-002301,Northeast Denver Islamic Center,Denver,CO,sunni,true
+usa-m-002302,Northern Nevada Muslim Community Center,Sparks,NV,sunni,true
+usa-m-002303,Northshore Islamic Center,Topsfield,MA,sunni,true
+usa-m-002304,Northside Islamic Center of San Antonio,San Antonio,TX,sunni,true
+usa-m-002305,Northwest Indiana Islamic Center - NWIIC,Crown Point,IN,sunni,true
+usa-m-002306,Northwest Islamic Center of Saint Louis - NICSTL,Saint Louis,MO,sunni,true
+usa-m-002307,Northwest Islamic Community Center - NWICC - Masjid Al Kareem,Plymouth,MN,sunni,true
+usa-m-002308,Nour Al Quran Society,Garland,TX,sunni,true
+usa-m-002309,Nueces Mosque,Austin,TX,sunni,true
+usa-m-002310,Nur Al Islam Mosque,Brooklyn,NY,sunni,true
+usa-m-002311,Nur Al Islam Mosque,Bronx,NY,sunni,true
+usa-m-002312,Nur Allah Islamic Center,Indianapolis,IN,sunni,true
+usa-m-002313,Nur Center,Stockton,CA,sunni,true
+usa-m-002314,Nurudeen Islamic Charity Organization,Bronx,NY,sunni,true
+usa-m-002315,Nurul Iman Mosque and Institute,Minneapolis,MN,sunni,true
+usa-m-002316,Oak Cliff Empowerment Center,Dallas,TX,sunni,true
+usa-m-002317,Ocala Jamatkhana,Ocala,FL,sunni,true
+usa-m-002318,OCC Masjid Al Rahman,Seattle,WA,sunni,true
+usa-m-002319,Olivehurst Masjid,Olivehurst,CA,sunni,true
+usa-m-002320,Omar Al Farouq Mosque,Nottingham,MD,sunni,true
+usa-m-002321,Omar Almoktar Mosque,Tampa,FL,sunni,true
+usa-m-002322,Omar Bin Al Khattab - OBK - Islamic Center,Seattle,WA,sunni,true
+usa-m-002323,Omar Bin Alkhetab Masjid,Portland,ME,sunni,true
+usa-m-002324,Omar Bin Khattab Mosque,Montgomery,AL,sunni,true
+usa-m-002325,Omar Farooq Mosque,Portland,OR,sunni,true
+usa-m-002326,Omar Haikal Islamic Academy - OHIA,Las Vegas,NV,sunni,true
+usa-m-002327,Omar Ibn Al-Khattab Mosque,Tempe,AZ,sunni,true
+usa-m-002328,Omar Ibn El Khattab Mosque,Columbus,OH,sunni,true
+usa-m-002329,Omar Islamic Center,Middletown,CT,sunni,true
+usa-m-002330,Omar Mosque,Bronx,NY,sunni,true
+usa-m-002331,Omar Mosque,Paterson,NJ,sunni,true
+usa-m-002332,Omar Mosque,Flint,MI,sunni,true
+usa-m-002333,Omar Mosque,Harvey,LA,sunni,true
+usa-m-002334,Oregon Islamic Chaplains Organization,Portland,OR,sunni,true
+usa-m-002335,Orland Park Prayer Center,Orland Park,IL,sunni,true
+usa-m-002336,Oshkosh Mosque,Oshkosh,WI,sunni,true
+usa-m-002337,Osman Gazi Mosque,Dayton,OH,sunni,true
+usa-m-002338,Osmaniye Mosque,Moriches,NY,sunni,true
+usa-m-002339,Othman bin Affan Masjid,La Crosse,WI,sunni,true
+usa-m-002340,Oviedo Masjid,Oviedo,FL,sunni,true
+usa-m-002341,Oxford Mosque,Oxford,MS,sunni,true
+usa-m-002342,Ozone Park Islamic Center,Ozone Park,NY,sunni,true
+usa-m-002343,Ozone Park Jame Masjid,Ozone Park,NY,sunni,true
+usa-m-002344,Palm Bay Islamic Center,Palm Bay,FL,sunni,true
+usa-m-002345,Palos Islamic Center,Palos Park,IL,sunni,true
+usa-m-002346,Parkchester Islamic Center - PIC,Bronx,NY,sunni,true
+usa-m-002347,Parkchester Jame Masjid,Bronx,NY,sunni,true
+usa-m-002348,PCIE - Plainfield Center of Islamic Enlightenment,Plainfield,NJ,sunni,true
+usa-m-002349,Pearland Islamic Center - PIC - ISGH,Pearland,TX,sunni,true
+usa-m-002350,Peninsula Islamic Community Center,Hampton,VA,sunni,true
+usa-m-002351,Petersburg Islamic Center,Petersburg,VA,sunni,true
+usa-m-002352,Petersburg Muslim Center,Petersburg,VA,sunni,true
+usa-m-002353,Philadelphia Masjid Inc,Philadelphia,PA,sunni,true
+usa-m-002354,Pike County Islamic Center,Matamoras,PA,sunni,true
+usa-m-002355,Pocatello Mosque - Islamic Society of SE Idaho Inc,Pocatello,ID,sunni,true
+usa-m-002356,Polaris Islamic Center of Delaware County,Lewis Center,OH,sunni,true
+usa-m-002357,Port Washington Masjid,Port Washington,NY,sunni,true
+usa-m-002358,Portsmouth Mosque - Islamic Society of the Seacoast Area - ISSA,Portsmouth,NH,sunni,true
+usa-m-002359,Portsmouth Mosque - ISSA - Islamic Society of Seacoast Area,Portsmouth,MA,sunni,true
+usa-m-002360,Potsdam Masjid,Potsdam,NY,sunni,true
+usa-m-002361,Powers street Tatar mosque,Brooklyn,NY,sunni,true
+usa-m-002362,Prayer Room - Reserve Square - East Tower,Cleveland,OH,sunni,true
+usa-m-002363,Prayer room at Apna Bazaar,Tampa,FL,sunni,true
+usa-m-002364,Prichard Masjid of Al-Islam,Prichard,AL,sunni,true
+usa-m-002365,Prince George's Muslim Association Inc,Seabrook,MD,sunni,true
+usa-m-002366,Prince William Islamic Center,Manassas,VA,sunni,true
+usa-m-002367,Prophet Muhammad (s) Center,Fresno,CA,shia,true
+usa-m-002368,Pueblo Islamic Society,Pueblo,CO,sunni,true
+usa-m-002369,Pullman Islamic Center,Pullman,WA,sunni,true
+usa-m-002370,Puyallup Masjid - PICC,Puyallup,WA,sunni,true
+usa-m-002371,Qalam,Carrollton,TX,sunni,true
+usa-m-002372,Quad City Islamic Center of North Austin Leander,Leander,TX,sunni,true
+usa-m-002373,Quba Academy,Houston,TX,sunni,true
+usa-m-002374,Quba Masjid - Afghan Community & Religion,Alamenda,CA,sunni,true
+usa-m-002375,Quba Mosque,Brooklyn,NY,sunni,true
+usa-m-002376,Queresha Mosque,Gillette,WY,sunni,true
+usa-m-002377,Quoba Mosque,Saint Louis,MO,sunni,true
+usa-m-002378,Racine Islamic Center,Racine,WI,sunni,true
+usa-m-002379,Rahma Center,Lake Forest,CA,sunni,true
+usa-m-002380,Rahmani Masjid and Learning Center,San Antonio,TX,sunni,true
+usa-m-002381,Rahmania Center,Richardson,TX,sunni,true
+usa-m-002382,Randallstown Islamic Center,Windsor Mill,MD,sunni,true
+usa-m-002383,Rapid City Islamic Center - Mosque,Rapid City,SD,sunni,true
+usa-m-002384,Rayyan Center,Plymouth,MI,sunni,true
+usa-m-002385,Redmond Ridge Mosque,Redmond,WA,sunni,true
+usa-m-002386,Respect Masjid,Bethlehem,PA,sunni,true
+usa-m-002387,Reston Islamic Center,Reston,VA,sunni,true
+usa-m-002388,Revere Street Mosque,Revere,MA,sunni,true
+usa-m-002389,Richmond Hill Jame Masjid & Islamic Center,Jamaica,NY,sunni,true
+usa-m-002390,Ridge Avenue Islamic Center,Philadephia,PA,sunni,true
+usa-m-002391,Ridgecrest Islamic Center,Ridgecrest,CA,sunni,true
+usa-m-002392,Rio Grande Valley Islamic Center,Weslaco,TX,sunni,true
+usa-m-002393,River Road Mosque,Saint Matthews,KY,sunni,true
+usa-m-002394,Rockway Islamic Center - Masjid,Arverne,NY,sunni,true
+usa-m-002395,Rocky Mountain Islamic Center,Lakewood,CO,sunni,true
+usa-m-002396,Roswell Community Masjid - RCM,Roswell,GA,sunni,true
+usa-m-002397,Sabah Foundation - Masjid,Lincoln,NE,sunni,true
+usa-m-002398,Sachse Muslim Society,Sachse,TX,sunni,true
+usa-m-002399,Sacred Learning Center,Lincolnwood,IL,sunni,true
+usa-m-002400,Saint Clair Masjid and Education Center,Belleville,IL,sunni,true
+usa-m-002401,Saint Louis Islamic Center,Saint Louis,MO,sunni,true
+usa-m-002402,Sajjadia Islamic Society,Corona,CA,shia,true
+usa-m-002403,Salaam Foundation,Braintree,MA,sunni,true
+usa-m-002404,Salaam Mosque,Lewiston,ME,sunni,true
+usa-m-002405,Salahadeen Center,Nashville,TN,sunni,true
+usa-m-002406,Salam Islamic Center,Sacramento,CA,sunni,true
+usa-m-002407,Salam Mosque,Bronx,NY,sunni,true
+usa-m-002408,Saleh Foundation,Renton,WA,sunni,true
+usa-m-002409,Salem Islamic Center,Salem,OR,sunni,true
+usa-m-002410,Salman Alfarisi Islamic Center - Corvallis Masjid,Corvallis,OR,sunni,true
+usa-m-002411,Samaha Islamic Center,Shakopee,MN,sunni,true
+usa-m-002412,Sammamish Mosque,Sammamish,WA,sunni,true
+usa-m-002413,San Marcos Masjid,San Marcos,TX,sunni,true
+usa-m-002414,Seera Association of Baton Rouge,Baton Rouge,LA,sunni,true
+usa-m-002415,Selden Mosque - IALI,Selden,NY,sunni,true
+usa-m-002416,Selimiye Mosque,Burlington,NJ,sunni,true
+usa-m-002417,Selimiye Mosque,Methuen,MA,sunni,true
+usa-m-002418,Selma Mosque,Selma,CA,sunni,true
+usa-m-002419,Shadow Creek Muslim Community Center,Pearland,TX,sunni,true
+usa-m-002420,Shafia Islamic and Cultural Center,Des Moines,IA,sunni,true
+usa-m-002421,Shafie Islamic Center,Omaha,NE,sunni,true
+usa-m-002422,Shahjalal Islamic Center,Bronx,NY,sunni,true
+usa-m-002423,Shawnee Mission Education Islamic Center - Masjid Maryam,Merriam,KS,sunni,true
+usa-m-002424,Sheepshead Bay Muslim Center,Brooklyn,NY,sunni,true
+usa-m-002425,Sheikh Maktoum Prayer Room,Cleveland,OH,sunni,true
+usa-m-002426,Shelter Rock Islamic Center - SRIC,Roslyn,NY,sunni,true
+usa-m-002427,Shia Association of the Bay Area,San Jose,CA,shia,true
+usa-m-002428,Shia Ithna'asheri Jamaat of PA,Allentown,PA,shia,true
+usa-m-002429,Siddique e Akbar Islamic Center,Brooklyn,NY,sunni,true
+usa-m-002430,Silver Creek Musalla,San Jose,CA,sunni,true
+usa-m-002431,Siraatul Jannah Center - SJC,Philadelphia,PA,sunni,true
+usa-m-002432,Slidell Masjid,Slidell,LA,sunni,true
+usa-m-002433,Snoqualmie Mosque,Snoqualmie,WA,sunni,true
+usa-m-002434,Somali Mosque in Garden City KS,Garden City,KS,sunni,true
+usa-m-002435,Soundview Masjid,Bronx,NY,sunni,true
+usa-m-002436,South Bay Afghan Islamic Community Centre,San Jose,CA,sunni,true
+usa-m-002437,South Bay Islamic Association - SBIA - Masjid al Mustafa,San Jose,CA,sunni,true
+usa-m-002438,South Brooklyn Islamic Center,Brooklyn,NY,sunni,true
+usa-m-002439,Southeast Islamic Community Center,Milton,GA,sunni,true
+usa-m-002440,Southern Maryland Islamic Center,Prince Frederick,MD,sunni,true
+usa-m-002441,Southern New Mexico Islamic Center - SNMIC,Las Cruces,NM,sunni,true
+usa-m-002442,Southside Islamic Center,Louisville,KY,sunni,true
+usa-m-002443,Springfield Gardens Muslim Center Inc,Jamaica,NY,sunni,true
+usa-m-002444,St. Petersburg Islamic Center,St Petersburg,FL,sunni,true
+usa-m-002445,Stamford Islamic Center,Stamford,CT,sunni,true
+usa-m-002446,Stanford Masjid,Stanford,CA,sunni,true
+usa-m-002447,Stroudsburg Islamic Center,Stroudsburg,PA,sunni,true
+usa-m-002448,Stroudsburg Islamic Center,Stroudsburg,PA,sunni,true
+usa-m-002449,Student Mosque - Islamic Center of South Plain,Lubbock,TX,sunni,true
+usa-m-002450,Sudanese community in Rochester,Rochester,NY,sunni,true
+usa-m-002451,Suffolk Islamic Center - Lake Ronkonkoma Masjid,Lake Ronkonkoma,NY,sunni,true
+usa-m-002452,Suleymaniye Mosque,Dix Hills,NY,sunni,true
+usa-m-002453,Sultan Jamia Mosque,Bronx,NY,sunni,true
+usa-m-002454,Sunni Rizvi Jamia Mosque,Jersey City,NJ,sunni,true
+usa-m-002455,Sunnyside Muslim Center,Long Island City,NY,sunni,true
+usa-m-002456,Sunnyside Woodside Jame Masjid,Woodside,NY,sunni,true
+usa-m-002457,Suwanee Masjid - Gwinnett Islamic Circle - GIC,Suwanee,GA,sunni,true
+usa-m-002458,Syracuse Islamic Center,Syracuse,NY,sunni,true
+usa-m-002459,Taha Islamic Center - TIC,Sunnyvale,CA,sunni,true
+usa-m-002460,Taha masjed,Philadelphia,PA,sunni,true
+usa-m-002461,Tajweed Center,Nashville,TN,sunni,true
+usa-m-002462,Talha Learning Center - TLC - Masjid,Paterson,NJ,sunni,true
+usa-m-002463,TAMCA - Diyanet Mosque of Levittown,Levittown,PA,sunni,true
+usa-m-002464,Taqwa Islamic Center,Manassas,VA,sunni,true
+usa-m-002465,Taqwa Mosque,Buffalo,NY,sunni,true
+usa-m-002466,Tarbiya House Elk Grove,Elk Grove,CA,sunni,true
+usa-m-002467,Tarbiya House Natomas,Sacramento,CA,sunni,true
+usa-m-002468,Tarbiya House Roseville,Roseville,CA,sunni,true
+usa-m-002469,Tavares Islamic Center,Eustis,FL,sunni,true
+usa-m-002470,Tawba Islamic Center,Des Moines,IA,sunni,true
+usa-m-002471,Tawba Mosque of Niagara Falls,Niagara Falls,NY,sunni,true
+usa-m-002472,Tawfiq Islamic Center,Minneapolis,MN,sunni,true
+usa-m-002473,Tawheed Center of Farmington,Farmington,MI,sunni,true
+usa-m-002474,Tawheed Center of Novi,Novi,MI,sunni,true
+usa-m-002475,Tawheed Center of Southfield,Southfield,MI,sunni,true
+usa-m-002476,Tawheed Daawah Center Piscataway,Edison,NJ,sunni,true
+usa-m-002477,Tawheed Dawah Center,Buena Park,CA,sunni,true
+usa-m-002478,Tawheed Mosque,Stone Mountain,GA,sunni,true
+usa-m-002479,Tawheed Mosque,Las Vegas,NV,sunni,true
+usa-m-002480,Tawhid Islamic Center,Burien,WA,sunni,true
+usa-m-002481,Tayba Center for Education,Toledo,OH,sunni,true
+usa-m-002482,Tayba Islamic Center,Brooklyn,NY,sunni,true
+usa-m-002483,Tempe Mosque - Islamic Community Center,Temple,AZ,sunni,true
+usa-m-002484,Thanavi Madani Center - TMC,Jamaica,NY,sunni,true
+usa-m-002485,The Abrar Mosque,Bronx,NY,sunni,true
+usa-m-002486,The African Islamic Center,Bronx,NY,sunni,true
+usa-m-002487,The Binghamton Mosque - Bait ul Humd,Vestal,NY,sunni,true
+usa-m-002488,The Blue Mosque: Islamic Center Of Waco,Waco,TX,sunni,true
+usa-m-002489,The Bronx Islamic Society,Bronx,NY,sunni,true
+usa-m-002490,The Chino Mosque - Baitul Hameed,Chino,CA,sunni,true
+usa-m-002491,The Deen Center,Valrico,FL,sunni,true
+usa-m-002492,The Fiqh Institute & Dawah Center of America,Watervliet,NY,sunni,true
+usa-m-002493,The First Mosque in America,Ross,ND,sunni,true
+usa-m-002494,The Golden Mosque,Clovis,NM,sunni,true
+usa-m-002495,The Honolulu Mosque - Ahmadiyya Muslim Community of Hawaii,Honolulu,HI,sunni,true
+usa-m-002496,The Imam Mahdi Islamic Education Center of Baltimore,Parkville,MD,shia,true
+usa-m-002497,The Islamic Association of Central Connecticut,New Britain,CT,sunni,true
+usa-m-002498,The Islamic Center of Chattanooga - Masjid Muhammad,Chattanooga,TN,sunni,true
+usa-m-002499,The Islamic Center Of Greater Attleboro - Masjid Yaseen,Attleboro,MA,sunni,true
+usa-m-002500,The Islamic Center of New York City,New York,NY,sunni,true
+usa-m-002501,The Islamic Community of Mount Sinai,New York,NY,sunni,true
+usa-m-002502,The Islamic Message Foundation Center,Metairie,LA,sunni,true
+usa-m-002503,"The Islamic Society of Delta Mississippi - Cleveland, Mississippi",Boyle,MS,sunni,true
+usa-m-002504,The Mecca Center,Willowbrook,IL,sunni,true
+usa-m-002505,The Milpitas Mosque - Baitul Baseer,Milpitas,CA,sunni,true
+usa-m-002506,The Mosque of Islamic Brotherhood,New York,NY,sunni,true
+usa-m-002507,The Muslim Center,Detroit,MI,sunni,true
+usa-m-002508,The Muslim Community Center of Louisville,Louisville,KY,sunni,true
+usa-m-002509,The Muslim Connection - TMC,Tampa,FL,sunni,true
+usa-m-002510,The Muslim Dawa Circle,Janesville,WI,sunni,true
+usa-m-002511,The Muslim House Inc,Flint,MI,sunni,true
+usa-m-002512,The Muslim Unity Center,Bloomfield Township,MI,sunni,true
+usa-m-002513,The Mustafa Islamic Center,Midland,TX,sunni,true
+usa-m-002514,The Noor Center,Germantown,MD,sunni,true
+usa-m-002515,The Quba School and Islamic Center,Camden,NJ,sunni,true
+usa-m-002516,The Ummah Center,Columbia Station,OH,sunni,true
+usa-m-002517,Timbuktu Islamic Center Inc,New York,NY,sunni,true
+usa-m-002518,Toledo Islamic Center,Toledo,OH,sunni,true
+usa-m-002519,Toledo Muslim Community Center - TMCC Campus,Toledo,OH,sunni,true
+usa-m-002520,Topeka Masjed,Topeka,IN,sunni,true
+usa-m-002521,Towhid Islamic Center,Portland,OR,sunni,true
+usa-m-002522,Tracy Islamic Center - TIC,Tracy,CA,sunni,true
+usa-m-002523,Tri City Islamic Center,Vista,CA,sunni,true
+usa-m-002524,Tri State Islamic Center - TIC Mosque in Dubuque,Dubuque,IA,sunni,true
+usa-m-002525,Tri-Cities Islamic Center,Chester,VA,sunni,true
+usa-m-002526,TU Muslim Students Association Mosque,Tulsa,OK,sunni,true
+usa-m-002527,Tulsa Islamic Foundation,Tulsa,OK,shia,true
+usa-m-002528,Turbo Joes Musalla,Corsicana,TX,sunni,true
+usa-m-002529,Turkish Ahiska Community Center,Gresham,OR,sunni,true
+usa-m-002530,Turkish American Religious Foundation Diyanet Mosque,Austin,TX,sunni,true
+usa-m-002531,Turkish Cultural Center of Rochester,Rochester,NY,sunni,true
+usa-m-002532,Turkish Cultural Center Pittsburgh,Pittsburg,PA,sunni,true
+usa-m-002533,Turkish Mosque,West Springfield,MA,sunni,true
+usa-m-002534,Turkish Society of Rochester,Rochester,NY,sunni,true
+usa-m-002535,Turlock Islamic Center,Turlock,CA,sunni,true
+usa-m-002536,Twin Falls Mosque,Twin Falls,ID,sunni,true
+usa-m-002537,Tyler Islamic Center,Tyler,TX,sunni,true
+usa-m-002538,UAMA Naples Mosque,Naples,FL,sunni,true
+usa-m-002539,UCM Masjid,Alexandria,VA,sunni,true
+usa-m-002540,Ukiah musallah/masjid,Ukiah,CA,sunni,true
+usa-m-002541,Ul Bayyinah Mosque,Columbus,OH,sunni,true
+usa-m-002542,Umar Al Farooq Mosque,Mountlake Terrace,WA,sunni,true
+usa-m-002543,Umar Mosque,Brooklyn,NY,sunni,true
+usa-m-002544,Umar Mosque,Tampa,FL,sunni,true
+usa-m-002545,Umm Ul Qura Center,Alexandria,VA,sunni,true
+usa-m-002546,UMMA,Beverly Hills,MI,sunni,true
+usa-m-002547,Ummah Relief USA,Waukegan,IL,sunni,true
+usa-m-002548,Unionport Jame Masjid Inc,Bronx,NY,sunni,true
+usa-m-002549,United American Muslim Association Clifton,Clifton,NJ,sunni,true
+usa-m-002550,United Islamic Center - Ulu Cami Mosque,Paterson,NJ,sunni,true
+usa-m-002551,United Islamic Center of Arizona UICA,Glendale,AZ,sunni,true
+usa-m-002552,United Muslim Masjid,Waterbury,CT,sunni,true
+usa-m-002553,United Muslim Masjid,Philadelphia,PA,sunni,true
+usa-m-002554,United Muslim Movement Inc,Philadelphia,PA,sunni,true
+usa-m-002555,Unity Center Mosque of North East Ohio,Northfield,OH,shia,true
+usa-m-002556,Unity Center Santa Clarita,Santa Clarita,CA,sunni,true
+usa-m-002557,Unity Islamic Center - Mansfield Masjid Official,Mansfield,TX,sunni,true
+usa-m-002558,University of Scranton - Masjid Azizia ,Scranton,PA,sunni,true
+usa-m-002559,Upper Valley Muslim Society,Lebanon,NH,sunni,true
+usa-m-002560,Upper Westchester Muslim Society,Pleasantville,NY,sunni,true
+usa-m-002561,Uqbah Mosque Foundation,Cleveland,OH,sunni,true
+usa-m-002562,Ur-Rahim Mosque,New Orleans,LA,sunni,true
+usa-m-002563,Us Salaam Mosque,Baltimore,MD,sunni,true
+usa-m-002564,Utah Islamic Center - UIC,West Jordan,UT,sunni,true
+usa-m-002565,Utah Valley Islamic Center,Orem,UT,sunni,true
+usa-m-002566,Uthman Bin Affan Mosque,Warren,MI,sunni,true
+usa-m-002567,Uyghur Islamic Center - Fairfax,Fairfax,VA,sunni,true
+usa-m-002568,Valdosta Islamic Center and Mosque,Valdosta,GA,sunni,true
+usa-m-002569,Valley Ranch Islamic Center - VRIC,Irving,TX,sunni,true
+usa-m-002570,Vero Beach Musallah Mosque,Vero Beach,FL,sunni,true
+usa-m-002571,VRIC - North,Irving,TX,sunni,true
+usa-m-002572,Waldorf Masjid,Waldorf,MD,sunni,true
+usa-m-002573,Wali Mahmoud Islamic Center,Lansing,MI,sunni,true
+usa-m-002574,Waltham Islamic Society,Waltham,MA,sunni,true
+usa-m-002575,Wausau Mosque,Wausau,WI,sunni,true
+usa-m-002576,Wayne State University Islamic Center of Detroit,Detroit,MI,sunni,true
+usa-m-002577,Wenatchee Valley Islamic Center,Wenatchee,WA,sunni,true
+usa-m-002578,West Bronx Jame Masjid and Islamic Center,Bronx,NY,sunni,true
+usa-m-002579,West End Islamic Center,Glen Allen,VA,sunni,true
+usa-m-002580,West Florissant Islamic Center,Saint Louis,MO,sunni,true
+usa-m-002581,West Florissant Mosque,Saint Louis,MO,sunni,true
+usa-m-002582,West Haven Islamic Center,West Haven,CT,sunni,true
+usa-m-002583,West Michigan Islamic Center,Kalamazoo,MI,shia,true
+usa-m-002584,West Plano Musallah,Plano,TX,sunni,true
+usa-m-002585,West Valley Muslim Association,Los Gatos,CA,sunni,true
+usa-m-002586,Westchester Muslim Center,Mount Vernon,NY,sunni,true
+usa-m-002587,White Plains Islamic Center,White Plains,NY,sunni,true
+usa-m-002588,Whitewater Islamic Center,Whitewater,WI,sunni,true
+usa-m-002589,Wilsonville Muslim Community Center,Wilsonville,OR,sunni,true
+usa-m-002590,Windham Muslim Community Center Mosque,Windham,NH,sunni,true
+usa-m-002591,Wisdom House of Mankato,Mankato,MN,sunni,true
+usa-m-002592,Woodbridge Faith Center,Woodbridge,VA,sunni,true
+usa-m-002593,Woodhaven Jame Mosque,Jamaica,NY,sunni,true
+usa-m-002594,Woodside Baitul Jannah Masjid,Woodside,NY,sunni,true
+usa-m-002595,Worcester Islamic Center,Worcester,MA,sunni,true
+usa-m-002596,World Peace Outreach - Masjid AlNour,Redford Township,MI,sunni,true
+usa-m-002597,Worth Masjid & Islamic Center,Worth,IL,sunni,true
+usa-m-002598,Yankasa Masjid,Bronx,NY,sunni,true
+usa-m-002599,Yaseen Belmont Masjid - Yaseen Foundation,Belmont,CA,sunni,true
+usa-m-002600,Yaseen Burlingame Center,Burlingame,CA,sunni,true
+usa-m-002601,Youngstown Islamic Center,Youngstown,OH,sunni,true
+usa-m-002602,Yunus Emre Muslim Community Center,Youngstown,OH,sunni,true
+usa-m-002603,Yusuf Mosque,Brighton,MA,sunni,true
+usa-m-002604,Yusuf Shah Islamic Center,Mount Vernon,NY,sunni,true
+usa-m-002605,Yusufain Mosque,Mastic Beach,NY,sunni,true
+usa-m-002606,Zainab Center,Lynnwood,WA,sunni,true
+usa-m-002607,Zainabia Center,Commerce Township,MI,shia,true
+usa-m-002608,Zainabia Center New Jersey,Irvington,NJ,shia,true
+usa-m-002609,Zainabia Community Center,Indianapolis,IN,shia,true
+usa-m-002610,Zainabia SA Islamic Education Center,San Antonio,TX,shia,true
+usa-m-002611,Zakaria Islamic Academy,Chantilly,VA,sunni,true
+usa-m-002612,Zam Zam Mosque,Dundalk,MD,sunni,true
+usa-m-002613,Zawiyah Foundation,Ypsilanti,MI,sunni,true
+usa-m-002614,Zawiyah Foundation - California Chapter,Oakland,CA,sunni,true
+usa-m-002615,Zia Ul Karam Islamic Center Inc,Brooklyn,NY,sunni,true
+usa-m-002616,Zubaida Foundation Mosque,Yardley,PA,sunni,true
+usa-m-002617,Zun Nurain Masjid,Sugar Land,TX,sunni,true
